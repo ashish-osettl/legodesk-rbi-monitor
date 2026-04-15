@@ -1,0 +1,14 @@
+
+============================================================
+RBI Regulatory Monitor — 15 Apr 2026 02:03 UTC
+============================================================
+
+Fetching RBI feeds...
+  ⚠️  RBI Press Releases: failed — not well-formed (invalid token): line 63, column 26
+  ⚠️  RBI Notifications & Circulars: failed — not well-formed (invalid token): line 63, column 26
+  ⚠️  RBI Draft Guidelines: failed — not well-formed (invalid token): line 63, column 26
+  ⚠️  RBI Master Directions: failed — not well-formed (invalid token): line 63, column 26
+
+============================================================
+New lender-relevant items: 0
+✅ No new updates today.
