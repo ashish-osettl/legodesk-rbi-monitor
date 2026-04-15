@@ -5,7 +5,6 @@ on:
     # Runs at 8:30 AM IST daily (3:00 AM UTC)
     - cron: '0 3 * * *'
   workflow_dispatch:
-    # Allow manual trigger from GitHub Actions UI
     inputs:
       force_notify:
         description: 'Force notification even if no new items'
@@ -16,7 +15,7 @@ jobs:
   monitor:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit state file back to repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -41,28 +40,117 @@ jobs:
         run: mkdir -p data/pending_modules
 
       - name: Run RBI monitor
+        id: monitor
         env:
           GOOGLE_CHAT_WEBHOOK: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
-        run: python rbi_monitor.py
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST:           ${{ secrets.SMTP_HOST }}
+          SMTP_USER:           ${{ secrets.SMTP_USER }}
+          SMTP_PASS:           ${{ secrets.SMTP_PASS }}
+          NOTIFY_EMAIL:        ${{ secrets.NOTIFY_EMAIL }}
+        run: |
+          python rbi_monitor.py 2>&1 | tee monitor_output.txt
+          echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
+          # Extract summary for email
+          NEW_COUNT=$(grep -oP 'New lender-relevant items: \K\d+' monitor_output.txt || echo "0")
+          echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          HEADLINE=$(grep -oP 'Headline: \K.+' monitor_output.txt || echo "No new updates found")
+          echo "headline=$HEADLINE" >> $GITHUB_OUTPUT
 
+      # ── Email notification — always runs ──────────────────────────────────
+      - name: Send workflow result email
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: 587
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          to: ${{ secrets.NOTIFY_EMAIL }}
+          from: Legodesk RBI Monitor <${{ secrets.SMTP_USER }}>
+          subject: >-
+            [RBI Monitor] ${{ steps.monitor.outputs.new_count || '0' }} new update(s)
+            — ${{ job.status }} — ${{ github.run_number }}
+          body: |
+            RBI Regulatory Monitor — Daily Report
+            ======================================
+            Date:        ${{ github.run_id }}
+            Run number:  #${{ github.run_number }}
+            Status:      ${{ job.status }}
+            New items:   ${{ steps.monitor.outputs.new_count || '0' }}
+            Headline:    ${{ steps.monitor.outputs.headline || 'No new updates' }}
+
+            Full run log:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            ——
+            This is an automated notification from the Legodesk RBI Monitor.
+            Runs daily at 8:30 AM IST.
+
+
+      # ── Google Chat — always notify of run result ─────────────────────────
+      - name: Send Google Chat run summary
+        if: always()
+        env:
+          GOOGLE_CHAT_WEBHOOK: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
+          NEW_COUNT: ${{ steps.monitor.outputs.new_count || '0' }}
+          HEADLINE: ${{ steps.monitor.outputs.headline || 'No new updates found' }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          STATUS: ${{ job.status }}
+          RUN_NUM: ${{ github.run_number }}
+        run: |
+          python3 - <<'PYEOF'
+          import os, json
+          from urllib.request import Request, urlopen
+
+          webhook = os.environ.get('GOOGLE_CHAT_WEBHOOK', '')
+          if not webhook:
+              print("No webhook configured — skipping")
+              exit(0)
+
+          status     = os.environ.get('STATUS', 'unknown')
+          new_count  = os.environ.get('NEW_COUNT', '0')
+          headline   = os.environ.get('HEADLINE', 'No new updates')
+          run_url    = os.environ.get('RUN_URL', '')
+          run_num    = os.environ.get('RUN_NUM', '')
+
+          status_emoji = {'success': '✅', 'failure': '❌', 'cancelled': '⏹️'}.get(status, '⚠️')
+          items_emoji  = '📋' if int(new_count) > 0 else '💤'
+
+          text = (
+              f"{status_emoji} *RBI Monitor — Run #{run_num}*\n"
+              f"{items_emoji} New lender-relevant items: *{new_count}*\n"
+              f"📌 {headline}\n"
+              f"🔗 <{run_url}|View full run log>"
+          )
+
+          payload = json.dumps({"text": text}).encode()
+          req = Request(webhook, data=payload,
+                        headers={'Content-Type': 'application/json'}, method='POST')
+          try:
+              urlopen(req, timeout=10)
+              print("✅ Google Chat notified")
+          except Exception as e:
+              print(f"⚠️  Google Chat failed: {e}")
+          PYEOF
+
+      # ── Commit state back to repo ─────────────────────────────────────────
       - name: Commit state and pending modules
+        if: always()
         run: |
           git config user.name "RBI Monitor Bot"
           git config user.email "monitor@legodesk.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "RBI monitor run — $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
-        continue-on-error: true   # don't fail if nothing to commit
+          git add data/ monitor_output.txt || true
+          git diff --staged --quiet || git commit -m "RBI monitor #${{ github.run_number }} — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
 
-      - name: Upload pending modules as artifact
+      # ── Upload run log as artifact ─────────────────────────────────────────
+      - name: Upload run artifacts
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: pending-academy-modules-${{ github.run_number }}
-          path: data/pending_modules/
+          name: rbi-monitor-run-${{ github.run_number }}
+          path: |
+            monitor_output.txt
+            data/pending_modules/
           retention-days: 30
