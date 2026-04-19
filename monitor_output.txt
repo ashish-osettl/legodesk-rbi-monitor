@@ -1,14 +1,140 @@
 
 ============================================================
-RBI Regulatory Monitor — 19 Apr 2026 07:55 UTC
+RBI Monitor v2 — 19 Apr 2026 10:30 UTC
 ============================================================
 
-Fetching RBI feeds...
-  ⚠️  RBI Press Releases: failed — not well-formed (invalid token): line 63, column 26
-  ⚠️  RBI Notifications & Circulars: failed — not well-formed (invalid token): line 63, column 26
-  ⚠️  RBI Draft Guidelines: failed — not well-formed (invalid token): line 63, column 26
-  ⚠️  RBI Master Directions: failed — not well-formed (invalid token): line 63, column 26
+Fetching Google News RSS feeds...
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+
+Fetching aggregator RSS feeds...
+  ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
+  ✅ TaxGuru — RBI: 100 items
+  ✅ IBClaw — RBI Circulars: 0 items
+  ✅ Fintech India — Regulatory: 2 items
+  ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
+
+Running Claude web search for RBI updates...
+  ✅ Claude web search: 2 RBI items found
+
+Total items fetched: 159
+New lender-relevant items (deduplicated): 102
+
+Running AI analysis...
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9985)
+
+Sending notifications...
+  ✅ Google Chat sent (HTTP 200)
+  ✅ Email sent to ashish@legodesk.com
+
+Queuing Academy content...
+  📝 Queued: rbi-issues-guidelines-for-nbfc-branch-au
+  📝 Queued: rbi-gold-loan-rules-2026-upstox
+  📝 Queued: digital-banking-framework-of-transaction
+  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
+  📝 Queued: rbi-rules-for-credit-cards-what-s-change
+  📝 Queued: nbfc-branch-expansion-simplified-under-r
+  📝 Queued: rbi-eases-branch-expansion-rules-for-nbf
+  📝 Queued: rbi-liberalises-branch-rules-for-nbfcs-a
+  📝 Queued: rbi-allows-nbfcs-including-gold-loan-com
+  📝 Queued: rbi-gives-operational-flexibility-to-nbf
+  📝 Queued: rbi-fines-rs-7-5-lakh-on-himachal-state-
+  📝 Queued: rbl-bank-publishes-comprehensive-egm-not
+  📝 Queued: india-regulator-scrutinising-how-banks-u
+  📝 Queued: rbi-imposes-7-50-lakh-penalty-on-himacha
+  📝 Queued: rbi-shifts-nbfc-oversight-asset-size-rep
+  📝 Queued: how-rbi-rate-changes-impact-your-home-lo
+  📝 Queued: rbl-bank-discloses-corrigendum-to-emirat
+  📝 Queued: hudco-irfc-rec-pfc-govt-nbfcs-in-focus-p
+  📝 Queued: report-shows-gold-loans-grow-3-8x-since-
+  📝 Queued: nbfcs-can-now-open-branches-without-prio
+  📝 Queued: dual-compliance-fintechs-must-follow-dpd
+  📝 Queued: rbi-allows-nbfcs-to-open-branches-withou
+  📝 Queued: rbi-issues-amended-norms-on-opening-of-b
+  📝 Queued: rbi-tightens-grip-new-rules-for-nbfc-bra
+  📝 Queued: rbi-returns-ujjivan-s-universal-bank-lic
+  📝 Queued: bank-holiday-today-are-banks-open-or-clo
+  📝 Queued: india-tackles-surety-bond-data-gaps-for-
+  📝 Queued: anil-ambani-fraud-case-supreme-court-on-
+  📝 Queued: rbi-assistant-mains-exam-date-2026-out-f
+  📝 Queued: rbi-clears-emirates-nbd-to-acquire-up-to
+  📝 Queued: rbi-issues-new-branch-authorisation-guid
+  📝 Queued: irdai-grade-a-2026-notification-eligibil
+  📝 Queued: rbi-revises-nbfc-branch-norms-new-2026-f
+  📝 Queued: cal-hc-housing-finance-firms-can-t-use-s
+  📝 Queued: rbi-allows-flexible-branch-expansion-for
+  📝 Queued: rbi-non-banking-financial-companies-bran
+  📝 Queued: rbi-s-nbfc-exemption-unlocking-a-surge-o
+  📝 Queued: rbi-invites-comments-on-draft-directions
+  📝 Queued: master-direction-rbi-non-resident-invest
+  📝 Queued: rbi-assigns-lead-bank-roles-for-andhra-p
+  📝 Queued: bank-liability-in-digital-payment-fraud-
+  📝 Queued: rbi-issues-guidelines-to-facilitate-fast
+  📝 Queued: rbi-invites-public-comments-on-draft-ame
+  📝 Queued: draft-rbi-local-area-banks-financial-sta
+  📝 Queued: draft-rbi-commercial-banks-financial-sta
+  📝 Queued: draft-rbi-commercial-banks-prudential-no
+  📝 Queued: draft-rbi-regional-rural-banks-classific
+  📝 Queued: draft-rbi-rural-co-operative-banks-class
+  📝 Queued: draft-rbi-urban-co-operative-banks-class
+  📝 Queued: draft-rbi-local-area-banks-classificatio
+  📝 Queued: draft-rbi-payments-banks-classification-
+  📝 Queued: draft-rbi-small-finance-banks-classifica
+  📝 Queued: draft-rbi-commercial-banks-classificatio
+  📝 Queued: rbi-proposes-removal-of-npa-condition-fo
+  📝 Queued: rbi-eases-crar-norms-by-removing-npa-pro
+  📝 Queued: 626-circulars-to-be-repealed-as-rbi-stre
+  📝 Queued: rbi-invites-comments-on-draft-rbi-govern
+  📝 Queued: rbi-issues-draft-directions-for-trade-re
+  📝 Queued: rbi-assigns-lead-bank-for-new-district-k
+  📝 Queued: rbi-monetary-policy-april-2026-key-rates
+  📝 Queued: rbi-invites-comments-on-draft-rbi-branch
+  📝 Queued: limits-for-investment-in-debt-and-sale-o
+  📝 Queued: penalties-for-atm-cash-shortages-counter
+  📝 Queued: banks-must-impound-fake-notes-atm-dispen
+  📝 Queued: banks-cannot-refuse-coins-or-damaged-not
+  📝 Queued: rbi-mandates-immediate-compliance-due-to
+  📝 Queued: reserve-bank-of-india-trade-relief-measu
+  📝 Queued: rbi-defers-implementation-of-amendment-d
+  📝 Queued: rbi-commercial-banks-credit-facilities-a
+  📝 Queued: rbi-commercial-banks-concentration-risk-
+  📝 Queued: rbi-commercial-banks-prudential-norms-on
+  📝 Queued: rbi-commercial-banks-financial-statement
+  📝 Queued: rbi-commercial-banks-undertaking-of-fina
+  📝 Queued: rbi-small-finance-banks-credit-facilitie
+  📝 Queued: rbi-small-finance-banks-concentration-ri
+  📝 Queued: rbi-small-finance-banks-prudential-norms
+  📝 Queued: rbi-small-finance-banks-financial-statem
+  📝 Queued: ecb-reporting-rules-revised-due-to-clari
+  📝 Queued: fdi-condition-breach-upheld-tribunal-cut
+  📝 Queued: fera-hawala-route-proven-tribunal-slashe
+  📝 Queued: fema-violation-in-gold-trade-proven-but-
+  📝 Queued: master-direction-rbi-unique-identifiers-
+  📝 Queued: free-live-webinar-statutory-bank-branch-
+  📝 Queued: fema-adjudication-limits-revised-to-expa
+  📝 Queued: banks-allowed-to-charge-reasonable-minim
+  📝 Queued: illegal-loan-apps-under-watch-as-governm
+  📝 Queued: safema-tribunal-upholds-cfo-liability-in
+  📝 Queued: pmla-tribunal-share-investment-not-proce
+  📝 Queued: safema-tribunal-fera-penalty-unsustainab
+  📝 Queued: safema-tribunal-online-forex-trading-thr
+  📝 Queued: pmla-tribunal-upholds-freezing-of-bank-a
+  📝 Queued: safema-tribunal-reduces-fema-penalty-for
+  📝 Queued: safema-tribunal-refuses-to-enhance-fema-
+  📝 Queued: rbi-directs-currency-chests-to-remain-op
+  📝 Queued: rbi-mandates-disclosure-of-dicgc-premium
+  📝 Queued: rbi-mandates-dicgc-premium-disclosure-fo
+  📝 Queued: banks-must-disclose-dicgc-insurance-prem
+  📝 Queued: bank-branch-statutory-audit-comprehensiv
+  📝 Queued: bank-branch-frauds-reference-guide-for-s
+  📝 Queued: funding-crunch-global-macroeconomic-issu
+  📝 Queued: has-rbi-s-new-ppi-directive-given-anothe
+  📝 Queued: reserve-bank-of-india-non-banking-financ
 
 ============================================================
-New lender-relevant items: 0
-✅ No new updates today.
+Done. 102 new items processed.
+============================================================
+
