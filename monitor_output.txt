@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 20 Apr 2026 09:28 UTC
+RBI Monitor v2 — 21 Apr 2026 09:12 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
@@ -20,29 +20,37 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 161
-New lender-relevant items (deduplicated): 10
+Total items fetched: 165
+New lender-relevant items (deduplicated): 18
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 106 column 11 (char 9683)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9738)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-issues-guidelines-for-nbfc-branch-au
-  📝 Queued: rbi-allows-nbfcs-to-open-branches-withou
-  📝 Queued: sbi-canara-bank-and-other-psu-banks-rebo
-  📝 Queued: msme-exporters-seek-dedicated-funding-su
-  📝 Queued: bt-explainer-loan-against-shares-no-need
-  📝 Queued: rbi-grade-b-2026-notification-exam-dates
-  📝 Queued: bank-holiday-today-are-banks-open-or-clo
-  📝 Queued: at-1-case-yes-bank-does-not-expect-mater
-  📝 Queued: rbi-gives-nod-to-nbfcs-to-open-branches-
-  📝 Queued: rbi-circular-on-uapa-sanctions-complianc
+  📝 Queued: rbi-extends-curbs-on-konark-urban-co-op-
+  📝 Queued: top-small-finance-bank-stocks-in-india-2
+  📝 Queued: india-s-central-bank-partially-rolls-bac
+  📝 Queued: one-small-step-in-ratings-one-giant-leap
+  📝 Queued: fm-nirmala-sitharaman-warns-banks-on-mis
+  📝 Queued: rbi-rolls-back-curbs-on-rupee-trade-cap-
+  📝 Queued: 5-new-bank-deposit-safe-custody-and-lock
+  📝 Queued: aadhar-housing-finance-submits-revised-h
+  📝 Queued: sbi-ubi-pnb-to-bom-four-banks-make-home-
+  📝 Queued: rate-cut-ripple-effect-bob-bank-of-india
+  📝 Queued: rbi-partially-eases-rupee-ndf-curbs-on-b
+  📝 Queued: cooperative-banks-under-siege-when-admin
+  📝 Queued: rbi-draft-impact-on-cics-nbfc-compliance
+  📝 Queued: rbi-issues-new-branch-authorisation-guid
+  📝 Queued: contradictory-order-set-aside-tribunal-c
+  📝 Queued: reverse-burden-applies-tribunal-upholds-
+  📝 Queued: rbi-master-direction-on-facility-for-exc
+  📝 Queued: rbi-master-direction-on-nbfc-branch-expa
 
 ============================================================
-Done. 10 new items processed.
+Done. 18 new items processed.
 ============================================================
 
