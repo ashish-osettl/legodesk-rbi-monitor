@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 21 Apr 2026 09:12 UTC
+RBI Monitor v2 — 22 Apr 2026 09:00 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,39 +18,35 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 165
-New lender-relevant items (deduplicated): 18
+Total items fetched: 159
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9738)
+  ✅ Severity: medium
+Headline: RBI Auto-Debit Mandate Clarity and NBFC Regulatory Liberalization Drive Compliance Updates; Portfolio Growth Requires Capacity Enhancement
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-extends-curbs-on-konark-urban-co-op-
-  📝 Queued: top-small-finance-bank-stocks-in-india-2
-  📝 Queued: india-s-central-bank-partially-rolls-bac
-  📝 Queued: one-small-step-in-ratings-one-giant-leap
-  📝 Queued: fm-nirmala-sitharaman-warns-banks-on-mis
-  📝 Queued: rbi-rolls-back-curbs-on-rupee-trade-cap-
-  📝 Queued: 5-new-bank-deposit-safe-custody-and-lock
-  📝 Queued: aadhar-housing-finance-submits-revised-h
-  📝 Queued: sbi-ubi-pnb-to-bom-four-banks-make-home-
-  📝 Queued: rate-cut-ripple-effect-bob-bank-of-india
-  📝 Queued: rbi-partially-eases-rupee-ndf-curbs-on-b
-  📝 Queued: cooperative-banks-under-siege-when-admin
-  📝 Queued: rbi-draft-impact-on-cics-nbfc-compliance
-  📝 Queued: rbi-issues-new-branch-authorisation-guid
-  📝 Queued: contradictory-order-set-aside-tribunal-c
-  📝 Queued: reverse-burden-applies-tribunal-upholds-
-  📝 Queued: rbi-master-direction-on-facility-for-exc
-  📝 Queued: rbi-master-direction-on-nbfc-branch-expa
+  📝 Queued: rbl-bank-reappoints-deepak-kumar-as-chie
+  📝 Queued: icici-bank-nyse-ibn-fy2026-results-loan-
+  📝 Queued: rbi-big-update-auto-debits-for-sips-insu
+  📝 Queued: rbi-liberalises-branch-rules-for-nbfcs-a
+  📝 Queued: what-is-bank-nifty-an-updated-guide-to-i
+  📝 Queued: dgft-updates-list-of-17-banks-authorised
+  📝 Queued: easier-payment-for-sip-insurance-premium
+  📝 Queued: rs-22-9-cr-lost-in-digital-arrest-five-b
+  📝 Queued: central-bank-tightens-e-mandate-rules-ma
+  📝 Queued: rbi-issues-consolidated-directions-on-di
+  📝 Queued: rbi-non-banking-financial-companies-conc
+  📝 Queued: rbi-liberalizes-nbfc-branch-expansion-ru
+  📝 Queued: amendment-to-master-direction-non-reside
 
 ============================================================
-Done. 18 new items processed.
+Done. 13 new items processed.
 ============================================================
 
