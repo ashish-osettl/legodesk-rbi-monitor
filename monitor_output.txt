@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 22 Apr 2026 09:00 UTC
+RBI Monitor v2 — 23 Apr 2026 09:12 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,33 +20,34 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 159
-New lender-relevant items (deduplicated): 13
+Total items fetched: 167
+New lender-relevant items (deduplicated): 15
 
 Running AI analysis...
-  ✅ Severity: medium
-Headline: RBI Auto-Debit Mandate Clarity and NBFC Regulatory Liberalization Drive Compliance Updates; Portfolio Growth Requires Capacity Enhancement
+  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9880)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbl-bank-reappoints-deepak-kumar-as-chie
-  📝 Queued: icici-bank-nyse-ibn-fy2026-results-loan-
-  📝 Queued: rbi-big-update-auto-debits-for-sips-insu
-  📝 Queued: rbi-liberalises-branch-rules-for-nbfcs-a
-  📝 Queued: what-is-bank-nifty-an-updated-guide-to-i
-  📝 Queued: dgft-updates-list-of-17-banks-authorised
-  📝 Queued: easier-payment-for-sip-insurance-premium
-  📝 Queued: rs-22-9-cr-lost-in-digital-arrest-five-b
-  📝 Queued: central-bank-tightens-e-mandate-rules-ma
-  📝 Queued: rbi-issues-consolidated-directions-on-di
-  📝 Queued: rbi-non-banking-financial-companies-conc
-  📝 Queued: rbi-liberalizes-nbfc-branch-expansion-ru
-  📝 Queued: amendment-to-master-direction-non-reside
+  📝 Queued: india-s-central-bank-in-talks-with-globa
+  📝 Queued: rbi-issues-draft-ppi-directions-tightens
+  📝 Queued: rbl-bank-re-appoints-deepak-kumar-as-chi
+  📝 Queued: special-purpose-ppi-may-be-loaded-by-a-c
+  📝 Queued: indian-banks-hold-back-on-ndf-contracts-
+  📝 Queued: rbi-approves-debasish-panda-as-part-time
+  📝 Queued: hdfc-bank-financial-results-for-the-quar
+  📝 Queued: banks-adjust-loan-terms-for-profit-draw-
+  📝 Queued: bandhan-bank-rbi-approves-new-chairman-r
+  📝 Queued: reserve-bank-of-india-studies-ai-risks-f
+  📝 Queued: risk-based-premium-for-deposit-insurance
+  📝 Queued: rbi-issues-new-branch-authorisation-guid
+  📝 Queued: received-a-drt-notice-know-your-legal-ri
+  📝 Queued: reserve-bank-of-india-non-banking-financ
+  📝 Queued: master-direction-reporting-under-foreign
 
 ============================================================
-Done. 13 new items processed.
+Done. 15 new items processed.
 ============================================================
 
