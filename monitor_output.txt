@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 23 Apr 2026 09:12 UTC
+RBI Monitor v2 — 24 Apr 2026 09:17 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,36 +18,30 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 167
-New lender-relevant items (deduplicated): 15
+Total items fetched: 163
+New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9880)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 95 column 257 (char 9826)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: india-s-central-bank-in-talks-with-globa
-  📝 Queued: rbi-issues-draft-ppi-directions-tightens
-  📝 Queued: rbl-bank-re-appoints-deepak-kumar-as-chi
-  📝 Queued: special-purpose-ppi-may-be-loaded-by-a-c
-  📝 Queued: indian-banks-hold-back-on-ndf-contracts-
-  📝 Queued: rbi-approves-debasish-panda-as-part-time
-  📝 Queued: hdfc-bank-financial-results-for-the-quar
-  📝 Queued: banks-adjust-loan-terms-for-profit-draw-
-  📝 Queued: bandhan-bank-rbi-approves-new-chairman-r
-  📝 Queued: reserve-bank-of-india-studies-ai-risks-f
-  📝 Queued: risk-based-premium-for-deposit-insurance
-  📝 Queued: rbi-issues-new-branch-authorisation-guid
-  📝 Queued: received-a-drt-notice-know-your-legal-ri
-  📝 Queued: reserve-bank-of-india-non-banking-financ
-  📝 Queued: master-direction-reporting-under-foreign
+  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
+  📝 Queued: hid-enables-indian-banks-to-meet-rbi-aut
+  📝 Queued: rbi-imposes-penalty-on-ebix-payment-serv
+  📝 Queued: rbi-monetary-policy-statement-2026-gover
+  📝 Queued: rbi-withdraws-april-1-circular-on-forex-
+  📝 Queued: rbl-bank-grants-3-11-000-stock-options-t
+  📝 Queued: rbi-in-talks-with-global-regulators-bank
+  📝 Queued: gold-loan-fintech-companies-build-own-lo
+  📝 Queued: rbi-penalizes-ebix-payment-services-bank
 
 ============================================================
-Done. 15 new items processed.
+Done. 9 new items processed.
 ============================================================
 
