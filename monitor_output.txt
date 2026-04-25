@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 24 Apr 2026 09:17 UTC
+RBI Monitor v2 — 25 Apr 2026 06:58 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,28 +20,32 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 163
-New lender-relevant items (deduplicated): 9
+Total items fetched: 166
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 95 column 257 (char 9826)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9539)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
-  📝 Queued: hid-enables-indian-banks-to-meet-rbi-aut
-  📝 Queued: rbi-imposes-penalty-on-ebix-payment-serv
+  📝 Queued: rbi-imposes-rs-41-80-lakh-penalty-on-ban
+  📝 Queued: the-digital-payments-e-mandate-framework
+  📝 Queued: hid-enables-banks-to-meet-rbi-mfa-requir
+  📝 Queued: paytm-payments-bank-shut-down-by-rbi-ove
+  📝 Queued: rbi-cancels-license-of-paytm-payments-ba
+  📝 Queued: bandhan-bank-issues-iepf-transfer-notice
+  📝 Queued: bt-explainer-why-rbi-cancelled-paytm-pay
+  📝 Queued: rbi-imposes-penalty-on-bandhan-bank-muth
   📝 Queued: rbi-monetary-policy-statement-2026-gover
-  📝 Queued: rbi-withdraws-april-1-circular-on-forex-
-  📝 Queued: rbl-bank-grants-3-11-000-stock-options-t
-  📝 Queued: rbi-in-talks-with-global-regulators-bank
-  📝 Queued: gold-loan-fintech-companies-build-own-lo
-  📝 Queued: rbi-penalizes-ebix-payment-services-bank
+  📝 Queued: rbi-ends-paytm-payments-bank-license-wil
+  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
+  📝 Queued: rbi-penalizes-bandhan-bank-muthoot-finan
+  📝 Queued: delay-in-credit-card-closure-leads-to-rs
 
 ============================================================
-Done. 9 new items processed.
+Done. 13 new items processed.
 ============================================================
 
