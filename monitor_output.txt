@@ -1,6 +1,6 @@
 
 ============================================================
-RBI Monitor v2 — 25 Apr 2026 06:58 UTC
+RBI Monitor v2 — 26 Apr 2026 08:07 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
@@ -18,34 +18,37 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 166
-New lender-relevant items (deduplicated): 13
+Total items fetched: 168
+New lender-relevant items (deduplicated): 16
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9539)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 9944)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-rs-41-80-lakh-penalty-on-ban
-  📝 Queued: the-digital-payments-e-mandate-framework
-  📝 Queued: hid-enables-banks-to-meet-rbi-mfa-requir
-  📝 Queued: paytm-payments-bank-shut-down-by-rbi-ove
-  📝 Queued: rbi-cancels-license-of-paytm-payments-ba
-  📝 Queued: bandhan-bank-issues-iepf-transfer-notice
-  📝 Queued: bt-explainer-why-rbi-cancelled-paytm-pay
-  📝 Queued: rbi-imposes-penalty-on-bandhan-bank-muth
-  📝 Queued: rbi-monetary-policy-statement-2026-gover
-  📝 Queued: rbi-ends-paytm-payments-bank-license-wil
-  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
-  📝 Queued: rbi-penalizes-bandhan-bank-muthoot-finan
-  📝 Queued: delay-in-credit-card-closure-leads-to-rs
+  📝 Queued: why-rbi-cancelled-paytm-payments-bank-s-
+  📝 Queued: hid-introduces-passkey-based-security-to
+  📝 Queued: rbi-imposes-penalty-on-ebix-payment-serv
+  📝 Queued: trade-body-backs-rbi-action-on-paytm-pay
+  📝 Queued: india-banks-boost-ai-security-after-clau
+  📝 Queued: rbi-cancels-paytm-payments-bank-licence-
+  📝 Queued: paytm-shares-in-focus-as-rbi-cancels-lic
+  📝 Queued: rbi-unveils-new-dividend-rules-for-banks
+  📝 Queued: saturday-bank-holiday-today-are-banks-op
+  📝 Queued: rbi-issues-new-branch-authorisation-guid
+  📝 Queued: why-has-rbi-revoked-paytm-payments-bank-
+  📝 Queued: rbi-cancels-licence-of-paytm-payments-ba
+  📝 Queued: rbi-issues-draft-ppi-rules-to-strengthen
+  📝 Queued: digital-payments-e-mandate-framework-202
+  📝 Queued: revised-liquidity-coverage-ratio-lcr-gui
+  📝 Queued: cancellation-of-paytm-payments-bank-lice
 
 ============================================================
-Done. 13 new items processed.
+Done. 16 new items processed.
 ============================================================
 
