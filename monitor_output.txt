@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 26 Apr 2026 08:07 UTC
+RBI Monitor v2 — 27 Apr 2026 10:33 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,37 +18,34 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 168
-New lender-relevant items (deduplicated): 16
+Total items fetched: 169
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 9944)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 113 column 15 (char 9680)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: why-rbi-cancelled-paytm-payments-bank-s-
-  📝 Queued: hid-introduces-passkey-based-security-to
-  📝 Queued: rbi-imposes-penalty-on-ebix-payment-serv
-  📝 Queued: trade-body-backs-rbi-action-on-paytm-pay
-  📝 Queued: india-banks-boost-ai-security-after-clau
-  📝 Queued: rbi-cancels-paytm-payments-bank-licence-
-  📝 Queued: paytm-shares-in-focus-as-rbi-cancels-lic
-  📝 Queued: rbi-unveils-new-dividend-rules-for-banks
-  📝 Queued: saturday-bank-holiday-today-are-banks-op
+  📝 Queued: rbi-imposes-monetary-penalty-on-bandhan-
+  📝 Queued: rbi-extends-curbs-on-irinjalakuda-town-c
+  📝 Queued: india-s-central-bank-cancels-paytm-payme
+  📝 Queued: one-mobikwik-share-price-jumps-over-17-a
+  📝 Queued: rbi-monetary-policy-statement-2026-gover
+  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
+  📝 Queued: india-s-microfinance-sector-recovers-but
+  📝 Queued: reserve-bank-of-india-studies-ai-risks-f
+  📝 Queued: central-bank-tightens-e-mandate-rules-ma
+  📝 Queued: rbi-je-recruitment-2026-notification-out
   📝 Queued: rbi-issues-new-branch-authorisation-guid
-  📝 Queued: why-has-rbi-revoked-paytm-payments-bank-
-  📝 Queued: rbi-cancels-licence-of-paytm-payments-ba
-  📝 Queued: rbi-issues-draft-ppi-rules-to-strengthen
-  📝 Queued: digital-payments-e-mandate-framework-202
-  📝 Queued: revised-liquidity-coverage-ratio-lcr-gui
-  📝 Queued: cancellation-of-paytm-payments-bank-lice
+  📝 Queued: how-the-anil-ambani-group-looted-17-publ
+  📝 Queued: 42-60-lakh-penalty-on-bandhan-bank-mutho
 
 ============================================================
-Done. 16 new items processed.
+Done. 13 new items processed.
 ============================================================
 
