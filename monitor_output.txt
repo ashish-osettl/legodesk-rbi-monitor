@@ -1,6 +1,6 @@
 
 ============================================================
-RBI Monitor v2 — 27 Apr 2026 10:33 UTC
+RBI Monitor v2 — 28 Apr 2026 10:32 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
@@ -8,7 +8,7 @@ Fetching Google News RSS feeds...
   ✅ Google News: RBI directions banking regulation 2025 2: 60 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,34 +18,43 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 169
-New lender-relevant items (deduplicated): 13
+Total items fetched: 171
+New lender-relevant items (deduplicated): 22
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 113 column 15 (char 9680)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9592)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-monetary-penalty-on-bandhan-
-  📝 Queued: rbi-extends-curbs-on-irinjalakuda-town-c
-  📝 Queued: india-s-central-bank-cancels-paytm-payme
-  📝 Queued: one-mobikwik-share-price-jumps-over-17-a
+  📝 Queued: rbi-issues-final-directions-for-asset-cl
+  📝 Queued: rbi-issues-final-directions-on-reporting
+  📝 Queued: rbi-finalises-basel-iii-credit-risk-fram
+  📝 Queued: rbi-tightens-asset-classification-and-pr
+  📝 Queued: india-cenbank-says-expected-credit-loss-
+  📝 Queued: canara-bank-other-psu-bank-shares-fall-u
+  📝 Queued: rbi-imposes-3-30-lakh-penalty-on-mumbai-
+  📝 Queued: rbi-overhauls-loan-norms-banks-to-shift-
+  📝 Queued: rbi-unveils-ecl-framework-for-banks-from
+  📝 Queued: rbi-s-ecl-norms-hit-psu-banks-why-sbi-un
+  📝 Queued: rbi-takes-action-against-paytm-payments-
+  📝 Queued: rbi-asks-banks-to-report-overseas-rupee-
+  📝 Queued: rbi-unveils-final-ecl-norms-sets-april-2
+  📝 Queued: rbi-hikes-retail-exposure-limit-to-rs-10
+  📝 Queued: set-aside-funds-for-likely-defaults-rbi-
   📝 Queued: rbi-monetary-policy-statement-2026-gover
-  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
-  📝 Queued: india-s-microfinance-sector-recovers-but
-  📝 Queued: reserve-bank-of-india-studies-ai-risks-f
-  📝 Queued: central-bank-tightens-e-mandate-rules-ma
-  📝 Queued: rbi-je-recruitment-2026-notification-out
-  📝 Queued: rbi-issues-new-branch-authorisation-guid
-  📝 Queued: how-the-anil-ambani-group-looted-17-publ
-  📝 Queued: 42-60-lakh-penalty-on-bandhan-bank-mutho
+  📝 Queued: rbi-tightens-bad-loan-recognition-new-no
+  📝 Queued: psu-bank-stocks-fall-up-to-3-how-rbi-s-e
+  📝 Queued: idfc-first-bank-proposes-0-25-dividend-f
+  📝 Queued: can-you-still-say-paytm-karo-after-rbi-c
+  📝 Queued: rbi-advises-banks-to-allocate-funds-for-
+  📝 Queued: rbi-gives-nod-to-nbfcs-to-open-branches-
 
 ============================================================
-Done. 13 new items processed.
+Done. 22 new items processed.
 ============================================================
 
