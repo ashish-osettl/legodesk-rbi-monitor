@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 29 Apr 2026 10:21 UTC
+RBI Monitor v2 — 30 Apr 2026 10:21 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,58 +18,65 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 37
+Total items fetched: 162
+New lender-relevant items (deduplicated): 44
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 101 column 28 (char 9769)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9684)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-extends-curbs-on-sonpeth-nagari-saha
-  📝 Queued: rbi-updates-defaulter-rules-banks-get-6-
+  📝 Queued: rbi-exempts-small-non-deposit-taking-nbf
+  📝 Queued: rbi-s-new-nbfc-rules-force-tata-sons-to-
+  📝 Queued: rbi-allows-banks-to-extend-relief-measur
+  📝 Queued: indusind-bank-share-bawaal-recovery-agen
   📝 Queued: canara-bank-other-psu-bank-shares-fall-u
-  📝 Queued: set-aside-funds-for-likely-defaults-rbi-
-  📝 Queued: rbi-issues-final-basel-iii-credit-risk-f
-  📝 Queued: bandhan-bank-q4fy26-pat-surges-68-yoy-to
-  📝 Queued: bt-explainer-what-are-rbi-s-new-directiv
-  📝 Queued: indusind-bank-faces-rbi-probe-police-cas
-  📝 Queued: rbi-cancels-paytm-payments-bank-licence-
-  📝 Queued: rbi-grade-b-notification-2026-official-p
-  📝 Queued: rbi-gives-nod-to-nbfcs-to-open-branches-
-  📝 Queued: rbi-commercial-banks-concentration-risk-
-  📝 Queued: rbi-commercial-banks-prudential-norms-on
-  📝 Queued: rbi-commercial-banks-credit-facilities-s
-  📝 Queued: rbi-commercial-banks-credit-risk-managem
-  📝 Queued: rbi-commercial-banks-capital-charge-for-
-  📝 Queued: rbi-commercial-banks-asset-classificatio
-  📝 Queued: master-direction-reserve-bank-of-india-a
-  📝 Queued: reporting-instructions-for-authorised-de
-  📝 Queued: rbi-commercial-banks-income-recognition-
-  📝 Queued: rbi-commercial-banks-financial-statement
-  📝 Queued: rbi-commercial-banks-asset-liability-man
-  📝 Queued: rbi-commercial-banks-classification-valu
-  📝 Queued: rbi-commercial-banks-transfer-and-distri
-  📝 Queued: rbi-commercial-banks-credit-cards-and-de
+  📝 Queued: state-bank-of-india-publishes-director-e
+  📝 Queued: prashant-bhushan-writes-to-rbi-opposing-
+  📝 Queued: rbi-grade-b-notification-2026-out-online
+  📝 Queued: rbi-proposes-asset-based-criteria-for-ps
+  📝 Queued: rbi-tightens-bad-loan-norms-reform-in-np
+  📝 Queued: rbi-exempts-small-nbfcs-from-registratio
+  📝 Queued: rbi-all-india-financial-institutions-res
+  📝 Queued: rbi-regional-rural-banks-credit-risk-man
+  📝 Queued: rbi-all-india-financial-institutions-res
+  📝 Queued: rbi-rural-cooperative-banks-credit-risk-
+  📝 Queued: rbi-non-banking-financial-companies-cred
+  📝 Queued: rbi-regional-rural-banks-responsible-bus
+  📝 Queued: rbi-rural-cooperative-banks-responsible-
+  📝 Queued: rbi-relief-measures-by-banks-in-areas-af
+  📝 Queued: rbi-non-banking-financial-companies-resp
+  📝 Queued: rbi-regional-rural-banks-income-recognit
+  📝 Queued: rbi-rural-cooperative-banks-income-recog
+  📝 Queued: rbi-regional-rural-banks-resolution-of-s
+  📝 Queued: rbi-rural-cooperative-banks-resolution-o
+  📝 Queued: rbi-urban-cooperative-banks-credit-risk-
+  📝 Queued: rbi-local-area-banks-credit-risk-managem
+  📝 Queued: rbi-urban-cooperative-banks-responsible-
+  📝 Queued: rbi-local-area-banks-responsible-busines
+  📝 Queued: rbi-small-finance-banks-credit-risk-mana
+  📝 Queued: rbi-urban-cooperative-banks-income-recog
+  📝 Queued: rbi-small-finance-banks-responsible-busi
   📝 Queued: rbi-urban-cooperative-banks-resolution-o
-  📝 Queued: rbi-commercial-banks-treatment-of-wilful
+  📝 Queued: rbi-local-area-banks-income-recognition-
+  📝 Queued: rbi-small-finance-banks-income-recogniti
+  📝 Queued: rbi-commercial-banks-credit-risk-managem
+  📝 Queued: rbi-small-finance-banks-resolution-of-st
+  📝 Queued: rbi-local-area-banks-resolution-of-stres
+  📝 Queued: rbi-commercial-banks-responsible-busines
+  📝 Queued: rbi-commercial-banks-income-recognition-
   📝 Queued: rbi-commercial-banks-resolution-of-stres
-  📝 Queued: rbi-non-operative-financial-holding-comp
-  📝 Queued: rbi-commercial-banks-undertaking-of-fina
-  📝 Queued: rbi-urban-co-operative-banks-undertaking
-  📝 Queued: rbi-small-finance-banks-undertaking-of-f
-  📝 Queued: rbi-regional-rural-banks-undertaking-of-
-  📝 Queued: rbi-rural-co-operative-banks-undertaking
-  📝 Queued: rbi-non-banking-financial-companies-unde
-  📝 Queued: rbi-all-india-financial-institutions-und
-  📝 Queued: rbi-local-area-banks-miscellaneous-amend
+  📝 Queued: rbi-urban-co-operative-banks-financial-s
+  📝 Queued: rbi-urban-co-operative-banks-credit-faci
+  📝 Queued: rbi-urban-co-operative-banks-concentrati
+  📝 Queued: complete-analysis-of-ecl-framework-for-c
 
 ============================================================
-Done. 37 new items processed.
+Done. 44 new items processed.
 ============================================================
 
