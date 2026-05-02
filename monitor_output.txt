@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 01 May 2026 09:19 UTC
+RBI Monitor v2 — 02 May 2026 08:14 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,42 +18,32 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 5 RBI items found
+  ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 171
-New lender-relevant items (deduplicated): 21
+Total items fetched: 160
+New lender-relevant items (deduplicated): 11
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9739)
+  ⚠️  AI analysis failed: HTTP Error 400: Bad Request
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-exempts-smaller-nbfcs-creates-struct
-  📝 Queued: rbi-exempts-small-nbfcs-from-registratio
-  📝 Queued: canara-bank-other-psu-bank-shares-fall-u
-  📝 Queued: city-union-bank-ceo-dr-n-kamakodi-comple
-  📝 Queued: rbi-overhauls-loan-norms-banks-to-shift-
-  📝 Queued: rbi-eases-relief-norms-for-disaster-affe
-  📝 Queued: central-bank-of-india-submits-security-c
-  📝 Queued: central-bank-of-india-declares-4th-inter
-  📝 Queued: bandhan-bank-q4fy26-pat-surges-68-yoy-to
+  📝 Queued: rbi-s-new-ecl-framework-explained-what-i
+  📝 Queued: new-credit-card-rule-will-soon-save-you-
+  📝 Queued: city-union-bank-limited-appoints-r-vijay
+  📝 Queued: rbi-s-new-rules-on-non-profitable-assets
+  📝 Queued: rbi-should-direct-tata-sons-to-list-by-m
   📝 Queued: rbi-s-ecl-norms-may-cause-up-to-120-bps-
-  📝 Queued: rbi-new-loan-restructuring-guidelines-fo
-  📝 Queued: rbi-exempts-small-non-deposit-taking-nbf
-  📝 Queued: rbi-issues-2026-rules-on-agency-bank-com
-  📝 Queued: rbi-disbursement-of-government-pension-b
-  📝 Queued: rbi-nbfcs-income-recognition-asset-class
-  📝 Queued: rbi-all-india-financial-institutions-cre
-  📝 Queued: draft-rbi-housing-finance-companies-seco
-  📝 Queued: draft-rbi-non-banking-financial-companie
-  📝 Queued: rbi-penalty-orders-against-banks-for-com
-  📝 Queued: rbi-tightens-non-performing-asset-npa-cl
-  📝 Queued: rbi-draft-framework-on-recovery-agent-co
+  📝 Queued: rbi-expands-reporting-norms-for-global-i
+  📝 Queued: rbi-s-nbfc-rule-poses-a-hurdle-for-tata-
+  📝 Queued: kotak-bank-confirms-timely-interest-paym
+  📝 Queued: what-to-check-before-making-deposits-wit
+  📝 Queued: payment-of-pension-to-government-pension
 
 ============================================================
-Done. 21 new items processed.
+Done. 11 new items processed.
 ============================================================
 
