@@ -1,27 +1,27 @@
 
 ============================================================
-RBI Monitor v2 — 03 May 2026 08:59 UTC
+RBI Monitor v2 — 04 May 2026 10:33 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
   ✅ IBClaw — RBI Circulars: 0 items
-  ✅ Fintech India — Regulatory: 2 items
+  ⚠️  Fintech India — Regulatory: The read operation timed out
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 161
-New lender-relevant items (deduplicated): 4
+Total items fetched: 163
+New lender-relevant items (deduplicated): 8
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,12 +31,16 @@ Sending notifications...
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: city-union-bank-appoints-r-vijay-anandh-
-  📝 Queued: state-bank-of-india-schedules-q4fy26-res
-  📝 Queued: tata-sons-faces-setback-as-proxy-advisor
-  📝 Queued: rbi-must-reconsider-nbfc-surrender-plea-
+  📝 Queued: rbl-bank-canara-bank-to-pnb-who-will-be-
+  📝 Queued: rbi-s-ecl-norms-may-cause-up-to-120-bps-
+  📝 Queued: legislation-roundup-april-2026-revised-v
+  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
+  📝 Queued: rbi-ecl-framework-from-april-2027-what-i
+  📝 Queued: mantra-capital-limited-business-update-q
+  📝 Queued: indian-banks-well-poised-to-implement-ec
+  📝 Queued: rbi-grade-b-2026-exam-date-out-check-pre
 
 ============================================================
-Done. 4 new items processed.
+Done. 8 new items processed.
 ============================================================
 
