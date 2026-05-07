@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 06 May 2026 05:52 UTC
+RBI Monitor v2 — 07 May 2026 05:56 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -14,14 +14,14 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
   ✅ IBClaw — RBI Circulars: 0 items
-  ⚠️  Fintech India — Regulatory: The read operation timed out
+  ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 161
-New lender-relevant items (deduplicated): 9
+Total items fetched: 167
+New lender-relevant items (deduplicated): 17
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,17 +31,25 @@ Sending notifications...
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-allows-banks-to-extend-relief-measur
-  📝 Queued: reserve-bank-of-india-eases-rules-for-sm
-  📝 Queued: nbfcs-blocked-from-upi-credit-initiative
-  📝 Queued: central-bank-q4fy26-board-approves-resul
-  📝 Queued: rbi-proposes-rules-for-banks-to-aquire-p
-  📝 Queued: sebi-proposes-amendments-to-securitised-
-  📝 Queued: tata-sons-faces-setback-as-proxy-advisor
-  📝 Queued: lifeline-credit-government-s-rs-18-100-c
-  📝 Queued: rbi-proposes-to-let-lenders-take-control
+  📝 Queued: rbi-issues-draft-rules-for-acquiring-imm
+  📝 Queued: rbi-calamity-resolution-framework-key-20
+  📝 Queued: rbi-grants-kotak-mahindra-bank-approval-
+  📝 Queued: sebi-proposes-changes-to-sdi-regulations
+  📝 Queued: hdfc-bank-shares-in-focus-after-rbi-clea
+  📝 Queued: disciplined-framework-rbi-tightens-clean
+  📝 Queued: rbi-credit-card-rules-change-here-s-what
+  📝 Queued: rbi-releases-norms-for-banks-holding-non
+  📝 Queued: rbi-sets-7-year-cap-new-valuation-rules-
+  📝 Queued: hdfc-bank-receives-rbi-approval-to-acqui
+  📝 Queued: rbi-draft-rules-on-asset-seizure-here-s-
+  📝 Queued: rbi-s-new-draft-norms-on-immovable-asset
+  📝 Queued: punjab-national-bank-makes-available-ear
+  📝 Queued: indian-banks-seen-absorbing-ecl-shift-wi
+  📝 Queued: au-small-finance-bank-receives-rbi-appro
+  📝 Queued: rbi-proposes-allowing-lenders-to-acquire
+  📝 Queued: prudential-norms-on-specified-non-financ
 
 ============================================================
-Done. 9 new items processed.
+Done. 17 new items processed.
 ============================================================
 
