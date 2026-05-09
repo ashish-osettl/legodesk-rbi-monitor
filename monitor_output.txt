@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 08 May 2026 05:25 UTC
+RBI Monitor v2 — 09 May 2026 05:43 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 22
+Total items fetched: 159
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,30 +31,21 @@ Sending notifications...
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: eclgs-5-0-may-come-with-9-interest-cap-f
-  📝 Queued: expected-credit-loss-ecl-kpmg
-  📝 Queued: rbi-s-nbfc-registration-amendment-direct
-  📝 Queued: kotak-secures-9-99-federal-bank-stake-in
-  📝 Queued: kotak-mahindra-bank-receives-rbi-approva
-  📝 Queued: rbi-clears-kotak-mahindra-bank-to-pick-u
-  📝 Queued: rbi-extends-curbs-on-pusad-urban-co-oper
-  📝 Queued: rbi-approves-kotak-mahindra-bank-stake-i
-  📝 Queued: rbi-grants-kotak-mahindra-bank-approval-
-  📝 Queued: rbi-approves-kotak-mahindra-bank-to-acqu
-  📝 Queued: south-indian-bank-receives-rbi-nod-for-k
-  📝 Queued: rbi-approves-kotak-mahindra-bank-s-acqui
-  📝 Queued: south-indian-bank-reports-audited-standa
-  📝 Queued: rbi-approves-kotak-bank-up-to-9-99-stake
-  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
-  📝 Queued: rbi-allows-hdfc-bank-nyse-hdb-group-up-t
-  📝 Queued: rbi-okays-kotak-stake-acquisitions-in-fe
-  📝 Queued: big-news-for-banking-sector-rbi-approves
+  📝 Queued: rbi-penalizes-youth-development-co-op-ba
+  📝 Queued: rbi-clears-kotak-s-9-99-stake-buys-in-th
+  📝 Queued: rbi-imposes-penalties-on-yes-bank-hinduj
+  📝 Queued: rbi-eases-rules-for-banks-to-include-qua
+  📝 Queued: rbi-implements-rules-for-banks-calculati
+  📝 Queued: bandhan-bank-initiates-postal-ballot-for
   📝 Queued: rbi-proposes-rules-for-banks-to-aquire-p
-  📝 Queued: buzzing-stocks-today-lenskart-south-indi
-  📝 Queued: city-union-bank-rbi-grants-approval-to-k
-  📝 Queued: rbi-approves-kotak-mahindra-bank-9-99-st
+  📝 Queued: kotak-mahindra-to-acquire-9-99-stake-in-
+  📝 Queued: rbi-action-rbi-imposes-heavy-fine-on-2-b
+  📝 Queued: rbi-penalties-yes-bank-hinduja-housing-r
+  📝 Queued: rbi-commercial-banks-prudential-norms-on
+  📝 Queued: rbi-small-finance-banks-prudential-norms
+  📝 Queued: rbi-payments-banks-prudential-norms-on-c
 
 ============================================================
-Done. 22 new items processed.
+Done. 13 new items processed.
 ============================================================
 
