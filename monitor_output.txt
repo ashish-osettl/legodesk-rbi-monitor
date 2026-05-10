@@ -1,6 +1,6 @@
 
 ============================================================
-RBI Monitor v2 — 09 May 2026 05:43 UTC
+RBI Monitor v2 — 10 May 2026 05:59 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
@@ -18,34 +18,32 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude web search: HTTP Error 400: Bad Request
+  ✅ Claude web search: 0 RBI items found
 
 Total items fetched: 159
-New lender-relevant items (deduplicated): 13
+New lender-relevant items (deduplicated): 11
 
 Running AI analysis...
-  ⚠️  AI analysis failed: HTTP Error 400: Bad Request
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 8762)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-penalizes-youth-development-co-op-ba
+  📝 Queued: rbi-s-nbfc-registration-amendment-direct
+  📝 Queued: rbi-clears-kotak-s-9-99-stake-plan-in-th
   📝 Queued: rbi-clears-kotak-s-9-99-stake-buys-in-th
-  📝 Queued: rbi-imposes-penalties-on-yes-bank-hinduj
-  📝 Queued: rbi-eases-rules-for-banks-to-include-qua
+  📝 Queued: rbi-approves-kotak-mahindra-to-acquire-9
+  📝 Queued: au-small-finance-bank-rbi-approval-for-k
   📝 Queued: rbi-implements-rules-for-banks-calculati
-  📝 Queued: bandhan-bank-initiates-postal-ballot-for
-  📝 Queued: rbi-proposes-rules-for-banks-to-aquire-p
-  📝 Queued: kotak-mahindra-to-acquire-9-99-stake-in-
-  📝 Queued: rbi-action-rbi-imposes-heavy-fine-on-2-b
-  📝 Queued: rbi-penalties-yes-bank-hinduja-housing-r
-  📝 Queued: rbi-commercial-banks-prudential-norms-on
-  📝 Queued: rbi-small-finance-banks-prudential-norms
-  📝 Queued: rbi-payments-banks-prudential-norms-on-c
+  📝 Queued: rbi-clears-kotak-mahindra-to-buy-stakes-
+  📝 Queued: j-k-bank-fy26-earnings-call-record-profi
+  📝 Queued: can-rbi-ask-icici-bank-and-other-lenders
+  📝 Queued: new-atm-cash-withdrawal-rule-banks-can-c
+  📝 Queued: hdfc-bank-shares-in-focus-after-rbi-clea
 
 ============================================================
-Done. 13 new items processed.
+Done. 11 new items processed.
 ============================================================
 
