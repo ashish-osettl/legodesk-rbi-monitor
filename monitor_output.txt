@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 11 May 2026 06:33 UTC
+RBI Monitor v2 — 12 May 2026 06:09 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
@@ -18,30 +18,32 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 161
-New lender-relevant items (deduplicated): 9
+Total items fetched: 166
+New lender-relevant items (deduplicated): 11
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9850)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 106 column 11 (char 10247)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-monetary-penalties-on-hinduj
-  📝 Queued: rbi-imposes-penalty-on-yes-bank-hinduja-
-  📝 Queued: rbi-penalizes-youth-development-co-op-ba
-  📝 Queued: can-banks-deny-account-opening-without-a
-  📝 Queued: suryoday-small-finance-bank-postal-ballo
+  📝 Queued: upi-goes-global-the-regulatory-reckoning
+  📝 Queued: rbi-imposes-monetary-penalty-on-yes-bank
+  📝 Queued: rbi-clears-kotak-mahindra-to-buy-stakes-
+  📝 Queued: rbi-imposes-penalty-on-hinduja-housing-f
+  📝 Queued: state-bank-of-india-smt-swati-gupta-comp
+  📝 Queued: federal-bank-postal-ballot-director-re-a
   📝 Queued: rbi-implements-rules-for-banks-calculati
-  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
-  📝 Queued: rbi-non-banking-financial-companies-inco
-  📝 Queued: rbi-proposes-allowing-lenders-to-acquire
+  📝 Queued: pnb-classifies-reliance-telecom-loan-acc
+  📝 Queued: city-union-bank-rbi-approves-9-99-stake-
+  📝 Queued: rbi-s-new-gold-loan-rules-chaos-in-gold-
+  📝 Queued: dicgc-entitled-to-priority-recovery-amen
 
 ============================================================
-Done. 9 new items processed.
+Done. 11 new items processed.
 ============================================================
 
