@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 12 May 2026 06:09 UTC
+RBI Monitor v2 — 13 May 2026 06:22 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,30 +20,33 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 166
-New lender-relevant items (deduplicated): 11
+Total items fetched: 167
+New lender-relevant items (deduplicated): 14
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 106 column 11 (char 10247)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 8810)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: upi-goes-global-the-regulatory-reckoning
-  📝 Queued: rbi-imposes-monetary-penalty-on-yes-bank
-  📝 Queued: rbi-clears-kotak-mahindra-to-buy-stakes-
-  📝 Queued: rbi-imposes-penalty-on-hinduja-housing-f
-  📝 Queued: state-bank-of-india-smt-swati-gupta-comp
-  📝 Queued: federal-bank-postal-ballot-director-re-a
-  📝 Queued: rbi-implements-rules-for-banks-calculati
-  📝 Queued: pnb-classifies-reliance-telecom-loan-acc
-  📝 Queued: city-union-bank-rbi-approves-9-99-stake-
-  📝 Queued: rbi-s-new-gold-loan-rules-chaos-in-gold-
-  📝 Queued: dicgc-entitled-to-priority-recovery-amen
+  📝 Queued: rbi-approves-re-appointment-of-krishna-p
+  📝 Queued: federal-bank-allots-equity-shares-to-emp
+  📝 Queued: rbi-cancels-licence-of-sarvodaya-co-oper
+  📝 Queued: state-bank-of-india-schedules-institutio
+  📝 Queued: rbi-cancels-licence-of-mumbai-based-sarv
+  📝 Queued: rbi-grants-approval-to-kotak-mahindra-ba
+  📝 Queued: bajaj-finance-ltd-stock-ine296a01024-ind
+  📝 Queued: from-survival-to-stability-in-microfinan
+  📝 Queued: rbi-grade-b-recruitment-2026-out-rbi-org
+  📝 Queued: big-news-for-banking-sector-rbi-approves
+  📝 Queued: rbi-je-exam-date-2026-out-check-official
+  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
+  📝 Queued: why-has-rbi-cancelled-sarvodaya-co-opera
+  📝 Queued: rbi-cancels-licence-of-mumbai-s-sarvoday
 
 ============================================================
-Done. 11 new items processed.
+Done. 14 new items processed.
 ============================================================
 
