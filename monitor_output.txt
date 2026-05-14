@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 13 May 2026 06:22 UTC
+RBI Monitor v2 — 14 May 2026 06:19 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,33 +20,25 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 167
-New lender-relevant items (deduplicated): 14
+Total items fetched: 156
+New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 8810)
+  ⚠️  AI analysis failed: Expecting ',' delimiter: line 90 column 10 (char 10010)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-approves-re-appointment-of-krishna-p
-  📝 Queued: federal-bank-allots-equity-shares-to-emp
+  📝 Queued: hdfc-bank-communicates-tds-deduction-pro
+  📝 Queued: bandhan-financial-holdings-divests-2-06-
+  📝 Queued: au-small-finance-bank-to-hold-investor-m
+  📝 Queued: how-rbi-s-new-rules-may-affect-your-pers
+  📝 Queued: unregistered-non-banking-financial-compa
   📝 Queued: rbi-cancels-licence-of-sarvodaya-co-oper
-  📝 Queued: state-bank-of-india-schedules-institutio
-  📝 Queued: rbi-cancels-licence-of-mumbai-based-sarv
-  📝 Queued: rbi-grants-approval-to-kotak-mahindra-ba
-  📝 Queued: bajaj-finance-ltd-stock-ine296a01024-ind
-  📝 Queued: from-survival-to-stability-in-microfinan
-  📝 Queued: rbi-grade-b-recruitment-2026-out-rbi-org
-  📝 Queued: big-news-for-banking-sector-rbi-approves
-  📝 Queued: rbi-je-exam-date-2026-out-check-official
-  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
-  📝 Queued: why-has-rbi-cancelled-sarvodaya-co-opera
-  📝 Queued: rbi-cancels-licence-of-mumbai-s-sarvoday
 
 ============================================================
-Done. 14 new items processed.
+Done. 6 new items processed.
 ============================================================
 
