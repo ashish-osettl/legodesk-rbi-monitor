@@ -1,6 +1,6 @@
 
 ============================================================
-RBI Monitor v2 — 14 May 2026 06:19 UTC
+RBI Monitor v2 — 15 May 2026 06:28 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
@@ -8,7 +8,7 @@ Fetching Google News RSS feeds...
   ✅ Google News: RBI directions banking regulation 2025 2: 52 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,25 +20,34 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 6
+Total items fetched: 155
+New lender-relevant items (deduplicated): 15
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting ',' delimiter: line 90 column 10 (char 10010)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 9710)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: hdfc-bank-communicates-tds-deduction-pro
-  📝 Queued: bandhan-financial-holdings-divests-2-06-
-  📝 Queued: au-small-finance-bank-to-hold-investor-m
-  📝 Queued: how-rbi-s-new-rules-may-affect-your-pers
-  📝 Queued: unregistered-non-banking-financial-compa
+  📝 Queued: gold-loan-rules-2026-rs-5-lakh-gold-borr
+  📝 Queued: rbi-imposes-penalties-on-yes-bank-hinduj
+  📝 Queued: rbi-cancels-licence-of-mumbai-based-sarv
+  📝 Queued: rbi-eases-rules-for-outward-remittances-
+  📝 Queued: outward-remittances-nbfcs-don-t-need-pri
+  📝 Queued: ecb-filings-halve-to-5-43-billion-in-mar
+  📝 Queued: rbi-revokes-licence-of-mumbai-s-sarvoday
+  📝 Queued: suryoday-small-finance-bank-schedules-vi
+  📝 Queued: rbi-streamlines-overseas-remittance-tie-
+  📝 Queued: suryoday-small-finance-bank-q4fy26-net-p
   📝 Queued: rbi-cancels-licence-of-sarvodaya-co-oper
+  📝 Queued: set-aside-funds-for-likely-defaults-rbi-
+  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
+  📝 Queued: bank-holiday-calender-for-may-11-17-2026
+  📝 Queued: rbi-relaxes-approval-norms-for-non-bank-
 
 ============================================================
-Done. 6 new items processed.
+Done. 15 new items processed.
 ============================================================
 
