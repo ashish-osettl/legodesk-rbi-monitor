@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 15 May 2026 06:28 UTC
+RBI Monitor v2 — 16 May 2026 05:49 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,34 +20,29 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 155
-New lender-relevant items (deduplicated): 15
+Total items fetched: 152
+New lender-relevant items (deduplicated): 10
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 9710)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 9852)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: gold-loan-rules-2026-rs-5-lakh-gold-borr
-  📝 Queued: rbi-imposes-penalties-on-yes-bank-hinduj
-  📝 Queued: rbi-cancels-licence-of-mumbai-based-sarv
-  📝 Queued: rbi-eases-rules-for-outward-remittances-
-  📝 Queued: outward-remittances-nbfcs-don-t-need-pri
-  📝 Queued: ecb-filings-halve-to-5-43-billion-in-mar
-  📝 Queued: rbi-revokes-licence-of-mumbai-s-sarvoday
-  📝 Queued: suryoday-small-finance-bank-schedules-vi
-  📝 Queued: rbi-streamlines-overseas-remittance-tie-
-  📝 Queued: suryoday-small-finance-bank-q4fy26-net-p
-  📝 Queued: rbi-cancels-licence-of-sarvodaya-co-oper
-  📝 Queued: set-aside-funds-for-likely-defaults-rbi-
+  📝 Queued: iifl-finance-appnit-technologies-in-trou
+  📝 Queued: rbi-eases-nbfc-rules-certain-companies-e
+  📝 Queued: reserve-bank-of-india-imposes-rs-3-10-la
+  📝 Queued: rs-16-30-lakh-penalty-on-shree-kadi-naga
+  📝 Queued: rbi-imposes-penalty-on-iifl-finance-the-
+  📝 Queued: iifl-finance-fined-3-1-lakh-by-rbi-over-
+  📝 Queued: govt-to-discontinue-mltgd-categories-und
+  📝 Queued: ibps-so-2026-notification-soon-exam-date
   📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
-  📝 Queued: bank-holiday-calender-for-may-11-17-2026
-  📝 Queued: rbi-relaxes-approval-norms-for-non-bank-
+  📝 Queued: rbi-imposes-3-10-lakh-penalty-on-iifl-fi
 
 ============================================================
-Done. 15 new items processed.
+Done. 10 new items processed.
 ============================================================
 
