@@ -1,6 +1,6 @@
 
 ============================================================
-RBI Monitor v2 — 16 May 2026 05:49 UTC
+RBI Monitor v2 — 17 May 2026 06:17 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
@@ -8,7 +8,7 @@ Fetching Google News RSS feeds...
   ✅ Google News: RBI directions banking regulation 2025 2: 48 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,31 +18,34 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 152
-New lender-relevant items (deduplicated): 10
+Total items fetched: 154
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 9852)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9574)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: iifl-finance-appnit-technologies-in-trou
-  📝 Queued: rbi-eases-nbfc-rules-certain-companies-e
-  📝 Queued: reserve-bank-of-india-imposes-rs-3-10-la
+  📝 Queued: rbi-slaps-rs-3-10-lakh-penalty-on-ifl-fi
+  📝 Queued: rbi-slaps-penalty-on-iifl-finance-for-go
   📝 Queued: rs-16-30-lakh-penalty-on-shree-kadi-naga
-  📝 Queued: rbi-imposes-penalty-on-iifl-finance-the-
-  📝 Queued: iifl-finance-fined-3-1-lakh-by-rbi-over-
-  📝 Queued: govt-to-discontinue-mltgd-categories-und
-  📝 Queued: ibps-so-2026-notification-soon-exam-date
-  📝 Queued: rbi-clears-kotak-mahindra-bank-to-buy-up
   📝 Queued: rbi-imposes-3-10-lakh-penalty-on-iifl-fi
+  📝 Queued: rbi-cancels-registrations-of-150-nbfcs-a
+  📝 Queued: iifl-finance-fined-3-1-lakh-by-rbi-over-
+  📝 Queued: nedfi-and-veefin-solutions-sign-multi-ye
+  📝 Queued: rbi-cancels-registration-of-150-nbfcs-ac
+  📝 Queued: rbi-grade-b-recruitment-2026-notificatio
+  📝 Queued: business-news-reserve-bank-of-india-impo
+  📝 Queued: rbi-cancels-this-bank-license-transactio
+  📝 Queued: rbi-imposes-penalty-on-iifl-finance-msn
+  📝 Queued: rbi-press-release-penalty-on-iifl-financ
 
 ============================================================
-Done. 10 new items processed.
+Done. 13 new items processed.
 ============================================================
 
