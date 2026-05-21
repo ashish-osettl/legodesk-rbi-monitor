@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 20 May 2026 06:44 UTC
+RBI Monitor v2 — 21 May 2026 06:48 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
@@ -18,45 +18,34 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude web search: HTTP Error 529: <none>
+  ✅ Claude web search: 0 RBI items found
 
 Total items fetched: 159
-New lender-relevant items (deduplicated): 24
+New lender-relevant items (deduplicated): 13
 
 Running AI analysis...
-  ⚠️  AI analysis failed: HTTP Error 529: <none>
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9563)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: banks-seek-rbi-relief-on-invit-lending-r
-  📝 Queued: rbi-scrutiny-tightens-over-nbfc-board-ob
-  📝 Queued: rbi-cancels-registrations-of-150-nbfcs-a
-  📝 Queued: phaltan-based-yashwant-cooperative-bank-
+  📝 Queued: rbi-new-loan-recovery-rules-2026-banks-c
+  📝 Queued: rbi-proposes-rules-to-let-lenders-disabl
+  📝 Queued: balancing-rights-amid-frozen-bank-accoun
+  📝 Queued: rbi-cancels-licence-of-maharashtra-based
+  📝 Queued: banks-cannot-disable-mobile-phones-of-de
   📝 Queued: rbi-proposes-same-norms-of-disclosure-fo
-  📝 Queued: rbi-imposes-penalty-on-iifl-finance-the-
-  📝 Queued: rbi-withdraws-ifr-requirement-for-banks-
-  📝 Queued: rbi-proposes-banks-to-disclose-detailed-
-  📝 Queued: rbi-imposes-20-000-penalty-on-aurangabad
-  📝 Queued: rbi-cancels-licence-of-sarvodaya-co-oper
-  📝 Queued: iifl-finance-appnit-technologies-in-trou
-  📝 Queued: rbi-scraps-ifr-requirement-5-critical-im
-  📝 Queued: rbi-revokes-licence-of-mumbai-s-sarvoday
-  📝 Queued: ecb-filings-halve-to-usd-5-43-billion-in
-  📝 Queued: rbi-commercial-banks-classification-valu
-  📝 Queued: rbi-small-finance-banks-classification-v
-  📝 Queued: rbi-payments-banks-classification-valuat
-  📝 Queued: rbi-local-area-banks-classification-valu
-  📝 Queued: rbi-urban-co-operative-banks-classificat
-  📝 Queued: rbi-rural-co-operative-banks-classificat
-  📝 Queued: rbi-regional-rural-banks-classification-
-  📝 Queued: rbi-commercial-banks-prudential-norms-on
-  📝 Queued: rbi-commercial-banks-financial-statement
-  📝 Queued: rbi-local-area-banks-financial-statement
+  📝 Queued: sc-advocate-prashant-bhushan-urges-rbi-t
+  📝 Queued: no-abusive-calls-no-phone-disabling-what
+  📝 Queued: kotak-mahindra-to-acquire-9-99-stake-in-
+  📝 Queued: rbi-grade-b-apply-online-2026-ends-today
+  📝 Queued: hdfc-bank-ltd-stock-ine040a01034-dividen
+  📝 Queued: rbi-grade-b-recruitment-2026-notificatio
+  📝 Queued: financiers-can-t-block-borrower-phones-o
 
 ============================================================
-Done. 24 new items processed.
+Done. 13 new items processed.
 ============================================================
 
