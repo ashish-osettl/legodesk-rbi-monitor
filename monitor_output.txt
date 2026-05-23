@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 22 May 2026 06:44 UTC
+RBI Monitor v2 — 23 May 2026 06:09 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 62 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 6 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,42 +18,49 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude web search: HTTP Error 529: <none>
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 165
-New lender-relevant items (deduplicated): 21
+Total items fetched: 180
+New lender-relevant items (deduplicated): 28
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 9562)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 97 column 222 (char 9594)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: gold-loan-clarity-rbi-says-no-credit-app
-  📝 Queued: reserve-bank-of-india-to-transfer-record
-  📝 Queued: rbi-draft-rules-allow-limited-phone-rest
-  📝 Queued: lenders-can-disable-functionalities-of-f
-  📝 Queued: rbi-proposes-rules-to-let-lenders-disabl
-  📝 Queued: nbfcs-hire-purchase-firms-move-madras-hi
-  📝 Queued: rbi-proposes-sweeping-reforms-on-loan-re
-  📝 Queued: rbi-fines-gujarat-based-cooperative-bank
-  📝 Queued: kotak-mahindra-bank-shares-surge-after-r
-  📝 Queued: missed-your-phone-emi-rbi-could-soon-let
-  📝 Queued: rbi-cancels-registration-of-150-nbfcs-in
-  📝 Queued: rbi-allows-lenders-to-disable-mobile-pho
-  📝 Queued: rbi-imposes-3-10-lakh-penalty-on-iifl-fi
-  📝 Queued: banks-casual-in-giving-huge-loans-to-big
-  📝 Queued: sc-on-banks-bias-easy-loans-for-big-corp
-  📝 Queued: supreme-court-slams-banks-for-corporate-
-  📝 Queued: double-standards-supreme-court-slams-ban
-  📝 Queued: reserve-bank-of-india-imposes-rs-3-10-la
-  📝 Queued: rbi-issues-revised-draft-directions-on-l
-  📝 Queued: rbi-invites-comments-on-draft-rbi-capita
-  📝 Queued: end-of-registration-for-private-nbfcs-un
+  📝 Queued: bought-a-phone-on-emi-rbi-proposes-new-g
+  📝 Queued: rbi-new-loan-recovery-guidelines-2026-ma
+  📝 Queued: iifl-finance-pays-rbi-penalty-for-gold-l
+  📝 Queued: miss-an-emi-rbi-may-let-your-lender-lock
+  📝 Queued: new-rbi-loan-recovery-rules-2026-i-regul
+  📝 Queued: the-end-of-registration-for-private-nbfc
+  📝 Queued: rbi-proposes-to-lock-loan-financed-phone
+  📝 Queued: india-s-central-bank-approves-record-2-8
+  📝 Queued: bank-account-transaction-limit-starting-
+  📝 Queued: rs10-lac-penalty-imposed-on-city-union-b
+  📝 Queued: rbi-imposes-restrictions-on-etawah-based
+  📝 Queued: banks-can-t-block-disable-mobile-phones-
+  📝 Queued: banks-can-block-financed-phones-for-defa
+  📝 Queued: can-banks-block-your-mobile-in-case-of-l
+  📝 Queued: rbi-reworks-draft-loan-recovery-directio
+  📝 Queued: rbi-allows-lenders-to-disable-financed-m
+  📝 Queued: rbi-slaps-rs-10-10-lakh-penalty-on-city-
+  📝 Queued: emirates-nbd-open-offer-to-acquire-addit
+  📝 Queued: rbi-revokes-licence-of-mumbai-s-sarvoday
+  📝 Queued: rbi-plans-strict-loan-recovery-rules-ban
+  📝 Queued: bank-holiday-are-banks-open-or-closed-to
+  📝 Queued: iifl-finance-appnit-technologies-in-trou
+  📝 Queued: important-alert-for-bank-customers-these
+  📝 Queued: rbi-takes-serious-step-big-update-for-4-
+  📝 Queued: financiers-can-t-block-borrower-phones-o
+  📝 Queued: rbi-imposes-rs-3-10-lakh-penalty-on-iifl
+  📝 Queued: rbi-provisioning-norms-for-nbfcs
+  📝 Queued: nbfcs-in-india-legal-framework-classific
 
 ============================================================
-Done. 21 new items processed.
+Done. 28 new items processed.
 ============================================================
 
