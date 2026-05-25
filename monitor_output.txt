@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 24 May 2026 06:32 UTC
+RBI Monitor v2 — 25 May 2026 07:09 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 64 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 6 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 6 items
+  ✅ Google News: RBI NBFC directions penalty circular: 5 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,31 +20,28 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 183
-New lender-relevant items (deduplicated): 12
+Total items fetched: 182
+New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9994)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 107 column 11 (char 10141)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-penalises-city-union-bank-two-nbfcs-
-  📝 Queued: rbi-imposes-rs-10-10-lakh-penalty-on-cit
-  📝 Queued: rbi-imposes-10-10-lakh-penalty-on-city-u
-  📝 Queued: missed-emi-on-your-smartphone-rbi-draft-
-  📝 Queued: au-small-finance-bank-seeks-member-appro
-  📝 Queued: ibbi-issues-new-guidelines-to-speed-up-a
-  📝 Queued: federal-bank-appoints-joint-statutory-au
-  📝 Queued: rbi-allows-lenders-to-disable-mobile-pho
-  📝 Queued: city-union-bank-rbi-imposes-monetary-pen
-  📝 Queued: banks-disburse-huge-loans-to-big-entitie
-  📝 Queued: iifl-finance-appnit-technologies-in-trou
-  📝 Queued: foreign-liabilities-and-assets-fla-retur
+  📝 Queued: rbi-revises-draft-loan-recovery-norms-af
+  📝 Queued: rbi-penalises-city-union-bank-10-10-lakh
+  📝 Queued: bank-account-transaction-limit-2026-with
+  📝 Queued: rs10-lakh-penalty-imposed-on-city-union-
+  📝 Queued: rbi-approves-elias-george-as-federal-ban
+  📝 Queued: bank-holiday-today-why-are-banks-closed-
+  📝 Queued: ecb-filings-halve-to-usd-5-43-billion-in
+  📝 Queued: financiers-can-t-block-borrower-phones-o
+  📝 Queued: demonetized-cash-routed-through-third-pa
 
 ============================================================
-Done. 12 new items processed.
+Done. 9 new items processed.
 ============================================================
 
