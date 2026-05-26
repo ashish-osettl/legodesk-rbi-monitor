@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 25 May 2026 07:09 UTC
+RBI Monitor v2 — 26 May 2026 06:41 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 6 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 5 items
+  ✅ Google News: RBI NBFC directions penalty circular: 6 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,26 +20,26 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 182
+Total items fetched: 167
 New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 107 column 11 (char 10141)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9938)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-revises-draft-loan-recovery-norms-af
-  📝 Queued: rbi-penalises-city-union-bank-10-10-lakh
-  📝 Queued: bank-account-transaction-limit-2026-with
-  📝 Queued: rs10-lakh-penalty-imposed-on-city-union-
-  📝 Queued: rbi-approves-elias-george-as-federal-ban
-  📝 Queued: bank-holiday-today-why-are-banks-closed-
-  📝 Queued: ecb-filings-halve-to-usd-5-43-billion-in
-  📝 Queued: financiers-can-t-block-borrower-phones-o
-  📝 Queued: demonetized-cash-routed-through-third-pa
+  📝 Queued: 3-year-cooling-off-for-co-op-bank-direct
+  📝 Queued: rbi-mandates-3-year-cooling-off-period-f
+  📝 Queued: net-foreign-investments-fell-to-11-7-bil
+  📝 Queued: no-more-permanent-seats-in-cooperative-b
+  📝 Queued: one-mobikwik-transfers-lending-business-
+  📝 Queued: are-banks-open-or-closed-tomorrow-may-23
+  📝 Queued: rbi-penalises-city-union-bank-two-nbfcs-
+  📝 Queued: rbi-rural-co-operative-banks-governance-
+  📝 Queued: rbi-urban-co-operative-banks-governance-
 
 ============================================================
 Done. 9 new items processed.
