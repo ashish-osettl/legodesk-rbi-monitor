@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 26 May 2026 06:41 UTC
+RBI Monitor v2 — 27 May 2026 06:59 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 5 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 6 items
+  ✅ Google News: RBI NBFC directions penalty circular: 5 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,30 +18,31 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 167
-New lender-relevant items (deduplicated): 9
+Total items fetched: 165
+New lender-relevant items (deduplicated): 10
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9938)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10179)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: 3-year-cooling-off-for-co-op-bank-direct
-  📝 Queued: rbi-mandates-3-year-cooling-off-period-f
-  📝 Queued: net-foreign-investments-fell-to-11-7-bil
-  📝 Queued: no-more-permanent-seats-in-cooperative-b
-  📝 Queued: one-mobikwik-transfers-lending-business-
-  📝 Queued: are-banks-open-or-closed-tomorrow-may-23
-  📝 Queued: rbi-penalises-city-union-bank-two-nbfcs-
-  📝 Queued: rbi-rural-co-operative-banks-governance-
-  📝 Queued: rbi-urban-co-operative-banks-governance-
+  📝 Queued: rbi-revises-draft-loan-recovery-norms-af
+  📝 Queued: rbi-mandates-3-year-cooling-off-for-co-o
+  📝 Queued: rbi-approves-3-month-extension-for-fino-
+  📝 Queued: rbi-issues-amendment-directions-2026-for
+  📝 Queued: rbi-issues-amendment-to-strengthen-gover
+  📝 Queued: rbi-tightens-urban-co-operative-bank-gov
+  📝 Queued: hdfc-bank-caught-paying-high-interest-ra
+  📝 Queued: why-banks-write-off-bad-loans-and-why-bo
+  📝 Queued: h-1b-visa-holders-returning-to-india-tax
+  📝 Queued: rbi-monetary-penalties-on-city-union-ban
 
 ============================================================
-Done. 9 new items processed.
+Done. 10 new items processed.
 ============================================================
 
