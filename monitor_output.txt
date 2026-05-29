@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 28 May 2026 06:50 UTC
+RBI Monitor v2 — 29 May 2026 06:49 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
   ✅ Google News: RBI Fair Practices Code collections: 3 items
-  ✅ Google News: RBI NBFC directions penalty circular: 6 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,28 +20,28 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 166
+Total items fetched: 169
 New lender-relevant items (deduplicated): 11
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10516)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9484)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: fig-paper-no-57-vda-series-11-india-digi
-  📝 Queued: 3-year-cooling-off-for-co-op-bank-direct
-  📝 Queued: rbi-penalises-city-union-bank-10-10-lakh
-  📝 Queued: rbi-mandates-3-year-cooling-off-period-f
-  📝 Queued: monetary-penalty-imposed-on-3-coop-banks
+  📝 Queued: rbi-imposes-monetary-penalties-on-hinduj
+  📝 Queued: alleging-diversion-of-jaypee-funds-homeb
+  📝 Queued: hdfc-bank-may-face-regulatory-scrutiny-f
   📝 Queued: hdfc-bank-rs-45-crore-differential-inter
-  📝 Queued: bank-of-india-fy26-report-notes-board-co
-  📝 Queued: rbi-s-new-loan-recovery-rules-ban-harass
-  📝 Queued: fuelled-by-lending-boom-dpdzero-bets-big
-  📝 Queued: financiers-can-t-block-borrower-phones-o
-  📝 Queued: rbi-revises-cooling-off-period-norms-for
+  📝 Queued: rbi-slaps-rs-10-10-lakh-penalty-on-city-
+  📝 Queued: hdfc-bank-camouflaged-45-cr-as-marketing
+  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
+  📝 Queued: ibc-helps-banks-recover-rs-4-32-lakh-cro
+  📝 Queued: banks-are-lenient-with-big-borrowers-har
+  📝 Queued: debt-default-and-discipline-the-10-year-
+  📝 Queued: rbi-imposes-rs-3-10-lakh-penalty-on-iifl
 
 ============================================================
 Done. 11 new items processed.
