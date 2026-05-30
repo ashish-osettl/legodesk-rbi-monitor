@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 29 May 2026 06:49 UTC
+RBI Monitor v2 — 30 May 2026 06:19 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
-  ✅ Google News: RBI Fair Practices Code collections: 3 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
@@ -20,11 +20,11 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 169
-New lender-relevant items (deduplicated): 11
+Total items fetched: 162
+New lender-relevant items (deduplicated): 12
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9484)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 10120)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
@@ -32,18 +32,19 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: rbi-imposes-monetary-penalties-on-hinduj
-  📝 Queued: alleging-diversion-of-jaypee-funds-homeb
-  📝 Queued: hdfc-bank-may-face-regulatory-scrutiny-f
-  📝 Queued: hdfc-bank-rs-45-crore-differential-inter
-  📝 Queued: rbi-slaps-rs-10-10-lakh-penalty-on-city-
-  📝 Queued: hdfc-bank-camouflaged-45-cr-as-marketing
-  📝 Queued: bank-pays-rs-3-21-lakh-compensation-to-c
-  📝 Queued: ibc-helps-banks-recover-rs-4-32-lakh-cro
-  📝 Queued: banks-are-lenient-with-big-borrowers-har
+  📝 Queued: indian-banks-seek-hedging-cost-subsidy-f
+  📝 Queued: credit-risk-capital-and-basel-iii-elets-
+  📝 Queued: rbi-mandates-3-year-cooling-off-for-co-o
+  📝 Queued: rbi-sets-ambitious-2026-27-supervisory-a
+  📝 Queued: 6-waap-features-every-bank-and-financial
+  📝 Queued: gold-loan-market-soars-50-to-18-6tn-to-b
+  📝 Queued: rbi-imposes-penalty-on-iifl-finance-msn
+  📝 Queued: can-banks-auction-your-home-immediately-
   📝 Queued: debt-default-and-discipline-the-10-year-
-  📝 Queued: rbi-imposes-rs-3-10-lakh-penalty-on-iifl
+  📝 Queued: safema-directs-bank-account-release-on-d
+  📝 Queued: mere-relationship-to-alleged-betting-ope
 
 ============================================================
-Done. 11 new items processed.
+Done. 12 new items processed.
 ============================================================
 
