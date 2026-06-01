@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 31 May 2026 06:54 UTC
+RBI Monitor v2 — 01 Jun 2026 08:30 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 3 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
@@ -20,27 +20,28 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 155
-New lender-relevant items (deduplicated): 8
+Total items fetched: 159
+New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 10139)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9626)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-mandates-3-year-cooling-off-period-f
-  📝 Queued: hdfc-bank-may-face-regulatory-scrutiny-f
-  📝 Queued: good-news-co-op-banks-penalties-fall-sha
-  📝 Queued: bank-fraud-amt-up-at-rs480-bn-in-3-fys-f
-  📝 Queued: is-rbi-targeting-specific-rupee-level-go
-  📝 Queued: hdfc-bank-s-governance-crisis-the-45-cro
-  📝 Queued: iifl-finance-appnit-technologies-in-trou
+  📝 Queued: rbi-imposes-rs-3-10-lakh-penalty-on-cred
+  📝 Queued: hdfc-bank-rs-45-crore-differential-inter
+  📝 Queued: dicgc-pays-rs-1-988-cr-to-depositors-of-
+  📝 Queued: rbi-data-shows-bank-frauds-tripled-to-ar
+  📝 Queued: india-home-loan-defaults-on-24-crore-ncd
+  📝 Queued: how-ibc-helped-psu-banks-cut-down-on-bad
+  📝 Queued: banks-are-lenient-with-big-borrowers-har
   📝 Queued: can-banks-auction-your-home-immediately-
+  📝 Queued: harassed-by-loan-recovery-agents-know-yo
 
 ============================================================
-Done. 8 new items processed.
+Done. 9 new items processed.
 ============================================================
 
