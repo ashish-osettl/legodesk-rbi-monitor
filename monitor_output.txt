@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 02 Jun 2026 07:20 UTC
+RBI Monitor v2 — 03 Jun 2026 08:11 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,32 +20,24 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 167
-New lender-relevant items (deduplicated): 13
+Total items fetched: 162
+New lender-relevant items (deduplicated): 5
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9786)
+  ⚠️  AI analysis failed: Extra data: line 97 column 1 (char 9182)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: fig-paper-no-58-rbi-issues-operating-fra
-  📝 Queued: rbi-approves-mirae-asset-mutual-fund-to-
-  📝 Queued: rbi-clears-mirae-asset-mutual-fund-to-ra
-  📝 Queued: hdfc-bank-camouflaged-crores-as-marketin
-  📝 Queued: rbi-data-shows-bank-frauds-tripled-to-ar
-  📝 Queued: hdfc-bank-s-alleged-45-crore-cover-up-ro
-  📝 Queued: rbi-unveils-2025-26-it-sector-export-sur
-  📝 Queued: rbi-mandates-3-year-cooling-off-period-f
-  📝 Queued: equitas-small-finance-bank-rbi-approves-
-  📝 Queued: kotak-mahindra-bank-approves-10-639-cror
-  📝 Queued: rbi-monetary-policy-repo-rate-expected-t
+  📝 Queued: rbi-sets-cooling-off-period-for-co-op-ba
+  📝 Queued: indian-central-bank-rebuts-media-report-
+  📝 Queued: djt-microfinance-launches-fast-digital-g
+  📝 Queued: 5-aifs-registrations-cancelled-by-sebi-f
   📝 Queued: can-banks-auction-your-home-immediately-
-  📝 Queued: why-banks-write-off-bad-loans-and-why-bo
 
 ============================================================
-Done. 13 new items processed.
+Done. 5 new items processed.
 ============================================================
 
