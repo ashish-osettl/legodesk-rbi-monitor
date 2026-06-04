@@ -1,0 +1,24 @@
+{
+  "id": "RBI-2026-06-04-bank-stock-jumps-aft",
+  "title": "Bank Stock Jumps After RBI Clears Mirae Asset Mutual Fund to Acquire Up to 9.5% Stake - Trade Brains",
+  "date": "2026-06-04",
+  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1JjRVZqRHhhb3dDQ01fNnZNaTQ0UnJrX2oxemNwQ2s1ZTBGWW9qRTdxOXZSU2xyMEMtcXRYMFdPWE9NQ28wM2VvbTNfaUd0R3JFTWs2VjFOemlzMUYxVTc4WlQ1X3c5RUNmLVVEaTVGQlBQYTdNMkpKdnlmY204TU1xRV9TbnlXTHZDLUtybDY0X0doM3FWcS13SW9UdUZ3bFhtcUpacVpWaG1E?oc=5",
+  "feed_type": "press_release",
+  "description": "Bank Stock Jumps After RBI Clears Mirae Asset Mutual Fund to Acquire Up to 9.5% Stake&nbsp;&nbsp;Trade Brains",
+  "generated": "2026-06-04T07:21:20.053244+00:00",
+  "ai_summary": "New RBI norms are creating regulatory obstacles for state governments' crop loan waiver schemes, particularly affecting TVK's announced promises. These restrictions impact the mechanics of large-scale loan forgiveness programs by imposing stricter compliance requirements on participating banks.",
+  "impact": {
+    "tele_collections": "Collection activities must cease immediately upon notification of waiver eligibility; teams need clear criteria to identify waiver-covered accounts and halt recovery actions to avoid regulatory penalties.",
+    "field_collections": "Field agents cannot pursue recovery on loans covered under RBI-approved waiver schemes; requires real-time access to waiver beneficiary lists and updated account status to prevent unauthorized recovery attempts.",
+    "legal_team": "Legal executives must review existing recovery cases for potential waiver applicability, maintain audit trails of waiver notifications, and ensure compliance documentation with RBI directives on debt forgiveness programs."
+  },
+  "compliance_action": "Immediately establish a waiver identification protocol; cross-reference all active recovery cases against RBI-issued waiver beneficiary lists; document all waiver-related directives received; update recovery policies within 15 days.",
+  "course_module": {
+    "title": "RBI Loan Waiver Schemes: Compliance Framework for Recovery Teams",
+    "learning_points": [
+      "Identification and verification of RBI-approved waiver schemes and eligible borrower categories",
+      "Mandatory cessation protocols and documentation requirements when accounts fall under waiver coverage",
+      "Regulatory penalties for unauthorized recovery on waiver-protected loans and compliance audit procedures"
+    ]
+  }
+}
