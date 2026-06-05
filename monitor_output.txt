@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 04 Jun 2026 07:20 UTC
+RBI Monitor v2 — 05 Jun 2026 07:03 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 64 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -20,25 +20,36 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 5
+Total items fetched: 176
+New lender-relevant items (deduplicated): 17
 
 Running AI analysis...
-  ✅ Severity: medium
-Headline: RBI Compliance Alert: Device Restriction Norms and Waiver Schemes Require Immediate Recovery Practice Revisions; Administrative Adjustments Needed for Holiday Calendars
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9687)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: new-rbi-norms-create-hurdle-for-tvk-s-cr
-  📝 Queued: rbi-tightens-rules-for-banks-for-disabli
-  📝 Queued: sdny-prosecutors-scrutinize-private-cred
-  📝 Queued: bank-stock-jumps-after-rbi-clears-mirae-
-  📝 Queued: bank-holidays-in-june-2026-banks-to-rema
+  📝 Queued: loan-recovery-agent-harassing-you-know-t
+  📝 Queued: bank-holidays-2026-mumbai-bank-holidays-
+  📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
+  📝 Queued: indian-central-bank-s-fx-trading-gains-s
+  📝 Queued: good-news-co-op-banks-penalties-fall-sha
+  📝 Queued: fake-500-notes-rise-20-do-you-these-18-r
+  📝 Queued: sebi-warns-icici-bank-for-fpi-fund-repat
+  📝 Queued: indusind-bank-issues-clarification-on-re
+  📝 Queued: icici-bank-receives-sebi-warning-over-fp
+  📝 Queued: itat-reaffirms-mat-provisions-inapplicab
+  📝 Queued: djt-microfinance-launches-gold-loan-faci
+  📝 Queued: dgft-tightens-import-controls-on-silver-
+  📝 Queued: bank-holiday-today-are-sbi-icici-axis-ko
+  📝 Queued: what-hdfc-bank-s-own-probe-found-behind-
+  📝 Queued: failed-auctions-litigation-concerns-cann
+  📝 Queued: central-bank-of-india-faces-shareholder-
+  📝 Queued: rbi-assigns-canara-bank-as-lead-bank-of-
 
 ============================================================
-Done. 5 new items processed.
+Done. 17 new items processed.
 ============================================================
 
