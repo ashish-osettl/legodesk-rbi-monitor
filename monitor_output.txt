@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 05 Jun 2026 07:03 UTC
+RBI Monitor v2 — 06 Jun 2026 06:24 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 64 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 7 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -18,38 +18,44 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 8 RBI items found
 
-Total items fetched: 176
-New lender-relevant items (deduplicated): 17
+Total items fetched: 166
+New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9687)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 86 column 9 (char 9562)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: loan-recovery-agent-harassing-you-know-t
-  📝 Queued: bank-holidays-2026-mumbai-bank-holidays-
-  📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
-  📝 Queued: indian-central-bank-s-fx-trading-gains-s
-  📝 Queued: good-news-co-op-banks-penalties-fall-sha
-  📝 Queued: fake-500-notes-rise-20-do-you-these-18-r
-  📝 Queued: sebi-warns-icici-bank-for-fpi-fund-repat
-  📝 Queued: indusind-bank-issues-clarification-on-re
-  📝 Queued: icici-bank-receives-sebi-warning-over-fp
-  📝 Queued: itat-reaffirms-mat-provisions-inapplicab
-  📝 Queued: djt-microfinance-launches-gold-loan-faci
-  📝 Queued: dgft-tightens-import-controls-on-silver-
-  📝 Queued: bank-holiday-today-are-sbi-icici-axis-ko
-  📝 Queued: what-hdfc-bank-s-own-probe-found-behind-
-  📝 Queued: failed-auctions-litigation-concerns-cann
-  📝 Queued: central-bank-of-india-faces-shareholder-
-  📝 Queued: rbi-assigns-canara-bank-as-lead-bank-of-
+  📝 Queued: rbi-slaps-rs-41-80-lakh-fine-on-canara-b
+  📝 Queued: rbi-seeks-to-ease-bulk-deposit-rate-norm
+  📝 Queued: rbi-imposes-rs-14-25-lakh-penalty-on-nag
+  📝 Queued: rbi-imposes-41-80-lakh-penalty-on-canara
+  📝 Queued: rbi-imposes-penalty-on-canara-bank-metro
+  📝 Queued: rbi-penalizes-canara-bank-for-kyc-accoun
+  📝 Queued: rbi-tightens-rules-for-banks-for-disabli
+  📝 Queued: rbi-fines-canara-bank-for-violations-rel
+  📝 Queued: moongipa-capital-finance-partners-for-di
+  📝 Queued: rbi-fines-canara-bank-rs-41-80-lakh-for-
+  📝 Queued: rbi-grade-b-recruitment-2026-notificatio
+  📝 Queued: bank-holiday-today-june-6-2026-check-if-
+  📝 Queued: central-bank-of-india-expects-over-3-500
+  📝 Queued: bank-cannot-belatedly-initiate-criminal-
+  📝 Queued: can-banks-auction-your-home-immediately-
+  📝 Queued: reserve-bank-of-india-rural-co-operative
+  📝 Queued: reserve-bank-of-india-regional-rural-ban
+  📝 Queued: foreign-exchange-management-authorised-p
+  📝 Queued: rbi-penalty-on-bandhan-bank
+  📝 Queued: rbi-penalty-on-muthoot-housing-finance-c
+  📝 Queued: rbi-nbfc-deregistration-guidelines-unreg
+  📝 Queued: rbi-nbfc-license-cancellations
+  📝 Queued: paytm-payments-bank-license-cancellation
 
 ============================================================
-Done. 17 new items processed.
+Done. 23 new items processed.
 ============================================================
 
