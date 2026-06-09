@@ -1,46 +1,44 @@
 
 ============================================================
-RBI Monitor v2 — 08 Jun 2026 07:26 UTC
+RBI Monitor v2 — 09 Jun 2026 06:43 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ TaxGuru — RBI: 100 items
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 66
-New lender-relevant items (deduplicated): 8
+Total items fetched: 164
+New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9592)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9441)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-penalizes-canara-bank-for-kyc-accoun
-  📝 Queued: rbi-imposes-penalty-on-canara-bank-cnbc-
-  📝 Queued: rbi-monetary-policy-2026-repo-rate-uncha
-  📝 Queued: bank-of-maharashtra-files-brsr-for-fy26-
-  📝 Queued: what-is-sukanya-samriddhi-yojana-ssy-acc
-  📝 Queued: ibc-2016-vs-traditional-recovery-laws-ho
-  📝 Queued: rbi-penalty-on-bandhan-bank-for-kyc-non-
-  📝 Queued: rbi-penalty-on-muthoot-housing-finance-c
+  📝 Queued: rbi-imposes-41-8-lakh-penalty-on-canara-
+  📝 Queued: rbi-imposes-rs-41-8-lakh-penalty-on-cana
+  📝 Queued: rbi-slaps-3-lakh-penalty-on-karnal-centr
+  📝 Queued: rbi-imposes-41-80-lakh-penalty-on-canara
+  📝 Queued: rbi-slaps-rs-41-80-lakh-fine-on-canara-b
+  📝 Queued: under-vvn-lakshmi-kumari-akula-vaishali-
 
 ============================================================
-Done. 8 new items processed.
+Done. 6 new items processed.
 ============================================================
 
