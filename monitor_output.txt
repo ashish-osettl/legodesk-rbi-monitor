@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 09 Jun 2026 06:43 UTC
+RBI Monitor v2 — 10 Jun 2026 07:04 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,25 +20,37 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 164
-New lender-relevant items (deduplicated): 6
+Total items fetched: 160
+New lender-relevant items (deduplicated): 18
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9441)
+  ⚠️  AI analysis failed: Expecting value: line 87 column 137 (char 10061)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-41-8-lakh-penalty-on-canara-
-  📝 Queued: rbi-imposes-rs-41-8-lakh-penalty-on-cana
-  📝 Queued: rbi-slaps-3-lakh-penalty-on-karnal-centr
-  📝 Queued: rbi-imposes-41-80-lakh-penalty-on-canara
-  📝 Queued: rbi-slaps-rs-41-80-lakh-fine-on-canara-b
-  📝 Queued: under-vvn-lakshmi-kumari-akula-vaishali-
+  📝 Queued: banking-on-takeovers-rbi-s-new-acquisiti
+  📝 Queued: rbi-imposes-3-50-lakh-penalty-on-2-coope
+  📝 Queued: fcnr-b-deposits-why-higher-interest-rate
+  📝 Queued: fixed-deposits-above-1-crore-account-for
+  📝 Queued: kisan-vikas-patra-kvp-2026-interest-rate
+  📝 Queued: icici-axis-bank-and-other-lenders-rise-a
+  📝 Queued: rbi-imposed-a-penalty-on-canara-bank-for
+  📝 Queued: rbi-imposes-2-5-lakh-penalty-on-canara-b
+  📝 Queued: rbi-consolidates-rules-on-pre-2005-bankn
+  📝 Queued: rbi-consolidates-instructions-on-2000-no
+  📝 Queued: rbi-regional-rural-banks-cash-reserve-ra
+  📝 Queued: rbi-rural-co-operative-banks-cash-reserv
+  📝 Queued: rbi-urban-co-operative-banks-cash-reserv
+  📝 Queued: rbi-small-finance-banks-cash-reserve-rat
+  📝 Queued: rbi-commercial-banks-cash-reserve-ratio-
+  📝 Queued: rbi-allows-banks-to-exclude-fcnr-b-ecb-a
+  📝 Queued: rbi-introduces-forex-swap-facility-to-su
+  📝 Queued: rbi-launches-fcnr-b-swap-facility-to-enc
 
 ============================================================
-Done. 6 new items processed.
+Done. 18 new items processed.
 ============================================================
 
