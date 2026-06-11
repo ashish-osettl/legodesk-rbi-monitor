@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 10 Jun 2026 07:04 UTC
+RBI Monitor v2 — 11 Jun 2026 07:25 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -20,37 +20,40 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 160
-New lender-relevant items (deduplicated): 18
+Total items fetched: 162
+New lender-relevant items (deduplicated): 21
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting value: line 87 column 137 (char 10061)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 79 column 9 (char 9728)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: banking-on-takeovers-rbi-s-new-acquisiti
-  📝 Queued: rbi-imposes-3-50-lakh-penalty-on-2-coope
-  📝 Queued: fcnr-b-deposits-why-higher-interest-rate
-  📝 Queued: fixed-deposits-above-1-crore-account-for
-  📝 Queued: kisan-vikas-patra-kvp-2026-interest-rate
-  📝 Queued: icici-axis-bank-and-other-lenders-rise-a
-  📝 Queued: rbi-imposed-a-penalty-on-canara-bank-for
-  📝 Queued: rbi-imposes-2-5-lakh-penalty-on-canara-b
-  📝 Queued: rbi-consolidates-rules-on-pre-2005-bankn
-  📝 Queued: rbi-consolidates-instructions-on-2000-no
-  📝 Queued: rbi-regional-rural-banks-cash-reserve-ra
-  📝 Queued: rbi-rural-co-operative-banks-cash-reserv
-  📝 Queued: rbi-urban-co-operative-banks-cash-reserv
-  📝 Queued: rbi-small-finance-banks-cash-reserve-rat
-  📝 Queued: rbi-commercial-banks-cash-reserve-ratio-
-  📝 Queued: rbi-allows-banks-to-exclude-fcnr-b-ecb-a
-  📝 Queued: rbi-introduces-forex-swap-facility-to-su
-  📝 Queued: rbi-launches-fcnr-b-swap-facility-to-enc
+  📝 Queued: rbi-issued-final-revised-guidelines-for-
+  📝 Queued: rbi-levies-penalties-on-cooperative-bank
+  📝 Queued: fig-paper-no-59-ai-in-indian-financial-s
+  📝 Queued: restrictions-on-loknete-r-d-kshirsagar-s
+  📝 Queued: india-banks-could-raise-35-40-billion-vi
+  📝 Queued: rbi-imposes-41-8-lakh-penalty-on-canara-
+  📝 Queued: 135-nbfcs-registration-cancelled-by-rbi-
+  📝 Queued: rbi-updates-loan-guidelines-for-reits-an
+  📝 Queued: rbi-permits-banks-to-lend-only-to-sebi-r
+  📝 Queued: rbi-seeks-comments-on-draft-amendments-t
+  📝 Queued: bt-explainer-rbi-tightens-lending-norms-
+  📝 Queued: the-reserve-bank-of-india-has-extended-t
+  📝 Queued: rbi-eases-lending-norms-for-reits-invits
+  📝 Queued: rbi-proposes-new-rules-for-bank-derivati
+  📝 Queued: why-fiis-are-increasing-stakes-in-south-
+  📝 Queued: know-your-customer-kyc-regulatory-direct
+  📝 Queued: rbi-all-india-financial-institutions-cre
+  📝 Queued: rbi-small-finance-banks-credit-facilitie
+  📝 Queued: rbi-commercial-banks-prudential-norms-on
+  📝 Queued: rbi-commercial-banks-concentration-risk-
+  📝 Queued: rbi-commercial-banks-credit-facilities-t
 
 ============================================================
-Done. 18 new items processed.
+Done. 21 new items processed.
 ============================================================
 
