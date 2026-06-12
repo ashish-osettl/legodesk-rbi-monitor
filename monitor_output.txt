@@ -1,59 +1,52 @@
 
 ============================================================
-RBI Monitor v2 — 11 Jun 2026 07:25 UTC
+RBI Monitor v2 — 12 Jun 2026 07:18 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 21
+Total items fetched: 65
+New lender-relevant items (deduplicated): 14
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 79 column 9 (char 9728)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9785)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-issued-final-revised-guidelines-for-
-  📝 Queued: rbi-levies-penalties-on-cooperative-bank
-  📝 Queued: fig-paper-no-59-ai-in-indian-financial-s
-  📝 Queued: restrictions-on-loknete-r-d-kshirsagar-s
-  📝 Queued: india-banks-could-raise-35-40-billion-vi
+  📝 Queued: banking-on-takeovers-rbi-s-new-acquisiti
+  📝 Queued: fig-paper-no-60-comparative-analysis-com
+  📝 Queued: reserve-bank-of-india-suggests-new-safet
+  📝 Queued: rbi-proposes-unified-framework-for-banks
+  📝 Queued: reits-and-invits-may-get-a-boost-as-rbi-
+  📝 Queued: what-rbi-s-new-fcnr-swap-facility-means-
   📝 Queued: rbi-imposes-41-8-lakh-penalty-on-canara-
-  📝 Queued: 135-nbfcs-registration-cancelled-by-rbi-
-  📝 Queued: rbi-updates-loan-guidelines-for-reits-an
-  📝 Queued: rbi-permits-banks-to-lend-only-to-sebi-r
-  📝 Queued: rbi-seeks-comments-on-draft-amendments-t
-  📝 Queued: bt-explainer-rbi-tightens-lending-norms-
-  📝 Queued: the-reserve-bank-of-india-has-extended-t
-  📝 Queued: rbi-eases-lending-norms-for-reits-invits
-  📝 Queued: rbi-proposes-new-rules-for-bank-derivati
-  📝 Queued: why-fiis-are-increasing-stakes-in-south-
-  📝 Queued: know-your-customer-kyc-regulatory-direct
-  📝 Queued: rbi-all-india-financial-institutions-cre
-  📝 Queued: rbi-small-finance-banks-credit-facilitie
-  📝 Queued: rbi-commercial-banks-prudential-norms-on
-  📝 Queued: rbi-commercial-banks-concentration-risk-
-  📝 Queued: rbi-commercial-banks-credit-facilities-t
+  📝 Queued: dcb-bank-files-brsr-for-fy-2025-26-scanx
+  📝 Queued: rbi-may-resume-new-co-operative-bank-lic
+  📝 Queued: rbi-allows-banks-to-lend-to-listed-reits
+  📝 Queued: rbi-grade-b-exam-day-guidelines-2026-rep
+  📝 Queued: rbi-opens-more-bank-funding-avenues-for-
+  📝 Queued: penalty-on-bandhan-bank-for-kyc-and-risk
+  📝 Queued: penalty-on-muthoot-housing-finance-compa
 
 ============================================================
-Done. 21 new items processed.
+Done. 14 new items processed.
 ============================================================
 
