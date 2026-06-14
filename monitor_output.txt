@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 13 Jun 2026 06:54 UTC
+RBI Monitor v2 — 14 Jun 2026 07:19 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -18,39 +18,28 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 4 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 169
-New lender-relevant items (deduplicated): 18
+Total items fetched: 162
+New lender-relevant items (deduplicated): 7
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 10002)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9518)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: gold-loan-interest-rates-2026-lowest-gol
-  📝 Queued: rbi-orders-removal-of-seven-directors-fr
-  📝 Queued: rbi-proposes-mandatory-cco-and-hia-posit
-  📝 Queued: rbi-proposes-unified-framework-for-banks
-  📝 Queued: rbi-allows-banks-to-lend-directly-to-rei
-  📝 Queued: rbi-imposes-restrictions-on-mogaveera-co
-  📝 Queued: dcb-bank-agm-scheduled-for-july-3-2026-s
-  📝 Queued: rbi-levies-penalty-of-rs-70-000-on-repco
-  📝 Queued: last-minute-preparation-tips-for-rbi-gra
-  📝 Queued: bank-holiday-today-june-13-2026-check-if
-  📝 Queued: rbi-tightens-lending-norms-for-reits-inv
-  📝 Queued: rbi-penalises-repco-home-finance-iifl-sa
-  📝 Queued: rbi-invites-comments-on-harmonisation-an
-  📝 Queued: rbi-seeks-public-feedback-on-standardise
-  📝 Queued: rbi-penalty-on-muthoot-housing-finance-c
-  📝 Queued: rbi-revised-lending-guidelines-for-urban
-  📝 Queued: rbi-foreign-exchange-management-authoris
-  📝 Queued: rbi-rural-co-operative-banks-governance-
+  📝 Queued: india-sees-3-bln-debt-fundraising-rush-a
+  📝 Queued: yes-bank-secures-rbi-approval-for-mska-a
+  📝 Queued: federal-bank-gold-loan-interest-rate-202
+  📝 Queued: post-office-savings-account-posa-interes
+  📝 Queued: monetary-penalty-on-iifl-samasta-finance
+  📝 Queued: reserve-bank-of-india-rural-co-operative
+  📝 Queued: rbi-revocation-of-nbfc-registrations-maj
 
 ============================================================
-Done. 18 new items processed.
+Done. 7 new items processed.
 ============================================================
 
