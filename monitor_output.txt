@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 17 Jun 2026 08:24 UTC
+RBI Monitor v2 — 18 Jun 2026 08:03 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,58 +18,38 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 166
-New lender-relevant items (deduplicated): 37
+Total items fetched: 162
+New lender-relevant items (deduplicated): 17
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 105 column 11 (char 9324)
+  ⚠️  AI analysis failed: Expecting ',' delimiter: line 91 column 8 (char 9526)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rebalancing-bank-nbfc-relationships-law-
-  📝 Queued: rbi-eases-capital-rules-for-banks-under-
-  📝 Queued: kssfcl-souharda-cooperative-banks-seek-c
-  📝 Queued: banks-nbfcs-to-be-accountable-for-influe
-  📝 Queued: rbi-imposes-5-lakh-penalty-on-mahila-coo
-  📝 Queued: rbi-cracks-down-on-mis-selling-banks-bar
-  📝 Queued: rbi-imposes-rs-5-lakh-penalty-on-mahila-
-  📝 Queued: rbi-streamlines-payment-system-regulatio
-  📝 Queued: rbi-bans-11-deceptive-banking-practices-
-  📝 Queued: rbi-tightens-rules-on-bank-sales-what-ch
-  📝 Queued: banks-seek-clarity-on-leveraging-fcnr-de
-  📝 Queued: rbi-implements-stricter-regulations-to-p
-  📝 Queued: rbi-commercial-banks-prudential-norms-on
-  📝 Queued: rbi-all-india-financial-institutions-pru
-  📝 Queued: rbi-urban-co-operative-banks-prudential-
-  📝 Queued: rbi-regional-rural-banks-prudential-norm
-  📝 Queued: rbi-nbfcs-prudential-norms-on-capital-ad
-  📝 Queued: rbi-small-finance-banks-prudential-norms
-  📝 Queued: rbi-commercial-banks-responsible-busines
-  📝 Queued: rbi-small-finance-banks-responsible-busi
-  📝 Queued: rbi-payments-banks-responsible-business-
-  📝 Queued: rbi-local-area-banks-responsible-busines
-  📝 Queued: rbi-regional-rural-banks-responsible-bus
-  📝 Queued: rbi-urban-co-operative-banks-responsible
-  📝 Queued: rbi-rural-co-operative-banks-responsible
-  📝 Queued: rbi-nbfcs-responsible-business-conduct-s
-  📝 Queued: rbi-housing-finance-companies-second-ame
-  📝 Queued: rbi-commercial-banks-undertaking-of-fina
-  📝 Queued: rbi-small-finance-banks-undertaking-of-f
-  📝 Queued: rbi-payments-banks-undertaking-of-financ
-  📝 Queued: rbi-regional-rural-banks-undertaking-of-
-  📝 Queued: rbi-rural-co-operative-banks-undertaking
-  📝 Queued: rbi-urban-co-operative-banks-undertaking
-  📝 Queued: rbi-nbfcs-undertaking-of-financial-servi
-  📝 Queued: master-directions-on-authorisation-to-op
-  📝 Queued: rbi-standardizes-bank-lending-to-reits-a
-  📝 Queued: responsible-business-conduct-second-amen
+  📝 Queued: compulsory-bundling-dark-patterns-banned
+  📝 Queued: rbi-removes-interest-rate-caps-on-select
+  📝 Queued: rbi-temporarily-lifts-interest-rate-caps
+  📝 Queued: kisan-vikas-patra-kvp-interest-rate-apri
+  📝 Queued: rbi-s-gift-to-nris-banks-free-to-offer-h
+  📝 Queued: idbi-jam-interview-admit-card-2026-out-a
+  📝 Queued: rbi-tightens-rules-for-banks-and-nbfcs-s
+  📝 Queued: rbi-extended-regulatory-directions-on-ga
+  📝 Queued: rbi-consolidates-payment-system-authoris
+  📝 Queued: rbi-cracks-down-on-mis-selling-by-banks-
+  📝 Queued: ignosis-ai-launches-multi-agentic-collec
+  📝 Queued: rbi-rural-co-operative-banks-interest-ra
+  📝 Queued: rbi-urban-co-operative-banks-interest-ra
+  📝 Queued: rbi-local-area-banks-interest-rate-on-de
+  📝 Queued: rbi-regional-rural-banks-interest-rate-o
+  📝 Queued: rbi-small-finance-banks-interest-rate-on
+  📝 Queued: rbi-commercial-banks-interest-rate-on-de
 
 ============================================================
-Done. 37 new items processed.
+Done. 17 new items processed.
 ============================================================
 
