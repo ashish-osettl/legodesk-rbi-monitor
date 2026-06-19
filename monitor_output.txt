@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 18 Jun 2026 08:03 UTC
+RBI Monitor v2 — 19 Jun 2026 08:27 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -18,38 +18,33 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 17
+Total items fetched: 165
+New lender-relevant items (deduplicated): 12
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting ',' delimiter: line 91 column 8 (char 9526)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10125)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: compulsory-bundling-dark-patterns-banned
-  📝 Queued: rbi-removes-interest-rate-caps-on-select
+  📝 Queued: rbi-imposes-4-10-lakh-penalty-on-5-coope
+  📝 Queued: restrictions-on-gauhati-co-op-urban-bank
+  📝 Queued: rbi-cancels-licence-of-karnataka-based-s
+  📝 Queued: hdfc-bank-shares-in-focus-as-board-appro
+  📝 Queued: rbi-injects-72-300-crore-as-advance-tax-
+  📝 Queued: rbi-issues-amendment-directions-on-adver
+  📝 Queued: india-s-silver-loan-market-struggles-ami
+  📝 Queued: rbi-removes-interest-rate-cap-on-new-fcn
   📝 Queued: rbi-temporarily-lifts-interest-rate-caps
-  📝 Queued: kisan-vikas-patra-kvp-interest-rate-apri
-  📝 Queued: rbi-s-gift-to-nris-banks-free-to-offer-h
-  📝 Queued: idbi-jam-interview-admit-card-2026-out-a
-  📝 Queued: rbi-tightens-rules-for-banks-and-nbfcs-s
-  📝 Queued: rbi-extended-regulatory-directions-on-ga
-  📝 Queued: rbi-consolidates-payment-system-authoris
-  📝 Queued: rbi-cracks-down-on-mis-selling-by-banks-
-  📝 Queued: ignosis-ai-launches-multi-agentic-collec
-  📝 Queued: rbi-rural-co-operative-banks-interest-ra
-  📝 Queued: rbi-urban-co-operative-banks-interest-ra
-  📝 Queued: rbi-local-area-banks-interest-rate-on-de
-  📝 Queued: rbi-regional-rural-banks-interest-rate-o
-  📝 Queued: rbi-small-finance-banks-interest-rate-on
-  📝 Queued: rbi-commercial-banks-interest-rate-on-de
+  📝 Queued: trade-relief-push-rbi-extends-export-tim
+  📝 Queued: npa-of-banks-in-state-declined-by-15-8-s
+  📝 Queued: reserve-bank-of-india-commercial-banks-r
 
 ============================================================
-Done. 17 new items processed.
+Done. 12 new items processed.
 ============================================================
 
