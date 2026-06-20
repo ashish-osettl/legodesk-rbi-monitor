@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 19 Jun 2026 08:27 UTC
+RBI Monitor v2 — 20 Jun 2026 06:57 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -20,31 +20,35 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 165
-New lender-relevant items (deduplicated): 12
+Total items fetched: 167
+New lender-relevant items (deduplicated): 16
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10125)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 96 column 7 (char 9586)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-4-10-lakh-penalty-on-5-coope
-  📝 Queued: restrictions-on-gauhati-co-op-urban-bank
-  📝 Queued: rbi-cancels-licence-of-karnataka-based-s
-  📝 Queued: hdfc-bank-shares-in-focus-as-board-appro
-  📝 Queued: rbi-injects-72-300-crore-as-advance-tax-
-  📝 Queued: rbi-issues-amendment-directions-on-adver
-  📝 Queued: india-s-silver-loan-market-struggles-ami
-  📝 Queued: rbi-removes-interest-rate-cap-on-new-fcn
-  📝 Queued: rbi-temporarily-lifts-interest-rate-caps
-  📝 Queued: trade-relief-push-rbi-extends-export-tim
-  📝 Queued: npa-of-banks-in-state-declined-by-15-8-s
-  📝 Queued: reserve-bank-of-india-commercial-banks-r
+  📝 Queued: expert-take-rbi-opens-the-exit-door-for-
+  📝 Queued: rbi-revises-kisan-credit-card-norms-stan
+  📝 Queued: rbi-defers-implementation-of-revised-kcc
+  📝 Queued: kisan-credit-card-rules-revised-rbi-issu
+  📝 Queued: rbi-imposes-5-lakh-penalty-on-mahila-coo
+  📝 Queued: rbi-penalises-five-co-op-banks-for-compl
+  📝 Queued: rbi-revamps-lead-bank-scheme-strengthens
+  📝 Queued: bank-holiday-today-are-banks-closed-on-s
+  📝 Queued: sbi-fd-and-rd-interest-rates-for-june-20
+  📝 Queued: post-office-monthly-income-scheme-pomis-
+  📝 Queued: foreign-exchange-reserves-declined-in-th
+  📝 Queued: rbi-tightens-financial-sales-norms-from-
+  📝 Queued: bank-holiday-today-june-20-2026-check-if
+  📝 Queued: rbi-exempts-long-term-nre-deposits-from-
+  📝 Queued: reporting-of-fcnr-b-deposits-ecb-ofcb-mo
+  📝 Queued: monetary-penalty-on-navapur-mercantile-c
 
 ============================================================
-Done. 12 new items processed.
+Done. 16 new items processed.
 ============================================================
 
