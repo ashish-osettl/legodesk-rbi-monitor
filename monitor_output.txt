@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 20 Jun 2026 06:57 UTC
+RBI Monitor v2 — 21 Jun 2026 07:29 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 62 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,35 +20,34 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 167
-New lender-relevant items (deduplicated): 16
+Total items fetched: 169
+New lender-relevant items (deduplicated): 15
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 96 column 7 (char 9586)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9546)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: expert-take-rbi-opens-the-exit-door-for-
-  📝 Queued: rbi-revises-kisan-credit-card-norms-stan
+  📝 Queued: penalty-of-rs6-20-lakh-imposed-on-five-s
   📝 Queued: rbi-defers-implementation-of-revised-kcc
-  📝 Queued: kisan-credit-card-rules-revised-rbi-issu
-  📝 Queued: rbi-imposes-5-lakh-penalty-on-mahila-coo
-  📝 Queued: rbi-penalises-five-co-op-banks-for-compl
-  📝 Queued: rbi-revamps-lead-bank-scheme-strengthens
-  📝 Queued: bank-holiday-today-are-banks-closed-on-s
-  📝 Queued: sbi-fd-and-rd-interest-rates-for-june-20
-  📝 Queued: post-office-monthly-income-scheme-pomis-
-  📝 Queued: foreign-exchange-reserves-declined-in-th
-  📝 Queued: rbi-tightens-financial-sales-norms-from-
-  📝 Queued: bank-holiday-today-june-20-2026-check-if
-  📝 Queued: rbi-exempts-long-term-nre-deposits-from-
-  📝 Queued: reporting-of-fcnr-b-deposits-ecb-ofcb-mo
-  📝 Queued: monetary-penalty-on-navapur-mercantile-c
+  📝 Queued: rbi-revises-kisan-credit-card-norms-gk-t
+  📝 Queued: how-nris-ocis-may-benefit-as-rbi-allows-
+  📝 Queued: hdfc-bank-extends-keki-mistry-s-chairman
+  📝 Queued: rbi-temporarily-lifts-interest-rate-caps
+  📝 Queued: pnb-initiates-sarfaesi-action-over-16-64
+  📝 Queued: audit-of-foreign-subsidiaries-for-annual
+  📝 Queued: rbi-issues-new-kcc-directions-to-expand-
+  📝 Queued: rbi-issues-new-kcc-directions-for-rrbs-t
+  📝 Queued: rbi-issues-new-kcc-directions-for-small-
+  📝 Queued: rbi-issues-new-kcc-directions-for-commer
+  📝 Queued: rbi-revises-lead-bank-scheme-guidelines-
+  📝 Queued: no-fema-violation-where-foreign-national
+  📝 Queued: reserve-bank-of-india-commercial-banks-r
 
 ============================================================
-Done. 16 new items processed.
+Done. 15 new items processed.
 ============================================================
 
