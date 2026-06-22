@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 21 Jun 2026 07:29 UTC
+RBI Monitor v2 — 22 Jun 2026 08:53 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 62 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,36 +18,33 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 169
-New lender-relevant items (deduplicated): 15
+Total items fetched: 168
+New lender-relevant items (deduplicated): 12
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9546)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10379)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: penalty-of-rs6-20-lakh-imposed-on-five-s
-  📝 Queued: rbi-defers-implementation-of-revised-kcc
-  📝 Queued: rbi-revises-kisan-credit-card-norms-gk-t
-  📝 Queued: how-nris-ocis-may-benefit-as-rbi-allows-
-  📝 Queued: hdfc-bank-extends-keki-mistry-s-chairman
-  📝 Queued: rbi-temporarily-lifts-interest-rate-caps
-  📝 Queued: pnb-initiates-sarfaesi-action-over-16-64
-  📝 Queued: audit-of-foreign-subsidiaries-for-annual
-  📝 Queued: rbi-issues-new-kcc-directions-to-expand-
-  📝 Queued: rbi-issues-new-kcc-directions-for-rrbs-t
-  📝 Queued: rbi-issues-new-kcc-directions-for-small-
-  📝 Queued: rbi-issues-new-kcc-directions-for-commer
-  📝 Queued: rbi-revises-lead-bank-scheme-guidelines-
-  📝 Queued: no-fema-violation-where-foreign-national
-  📝 Queued: reserve-bank-of-india-commercial-banks-r
+  📝 Queued: reserve-bank-of-india-suggests-new-safet
+  📝 Queued: janata-sah-bank-directors-move-hc-agains
+  📝 Queued: post-office-fd-interest-rates-2026-and-b
+  📝 Queued: rbi-overhauls-lead-bank-scheme-after-rev
+  📝 Queued: exclusive-rbi-s-updated-upper-layer-nbfc
+  📝 Queued: reserve-bank-issues-revised-guidelines-f
+  📝 Queued: rbi-s-updated-upper-layer-nbfc-list-like
+  📝 Queued: tamilnad-mercantile-bank-files-brsr-for-
+  📝 Queued: india-s-microfinance-sector-signs-of-rec
+  📝 Queued: rbi-kisan-credit-card-revision-new-kcc-r
+  📝 Queued: rbi-slaps-12-lakh-penalty-on-can-fin-hom
+  📝 Queued: rbi-keeps-repo-rate-unchanged-at-5-25-du
 
 ============================================================
-Done. 15 new items processed.
+Done. 12 new items processed.
 ============================================================
 
