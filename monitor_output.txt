@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 22 Jun 2026 08:53 UTC
+RBI Monitor v2 — 23 Jun 2026 06:44 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -20,31 +20,35 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 168
-New lender-relevant items (deduplicated): 12
+Total items fetched: 164
+New lender-relevant items (deduplicated): 16
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10379)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9615)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: reserve-bank-of-india-suggests-new-safet
   📝 Queued: janata-sah-bank-directors-move-hc-agains
-  📝 Queued: post-office-fd-interest-rates-2026-and-b
-  📝 Queued: rbi-overhauls-lead-bank-scheme-after-rev
-  📝 Queued: exclusive-rbi-s-updated-upper-layer-nbfc
-  📝 Queued: reserve-bank-issues-revised-guidelines-f
-  📝 Queued: rbi-s-updated-upper-layer-nbfc-list-like
-  📝 Queued: tamilnad-mercantile-bank-files-brsr-for-
-  📝 Queued: india-s-microfinance-sector-signs-of-rec
-  📝 Queued: rbi-kisan-credit-card-revision-new-kcc-r
-  📝 Queued: rbi-slaps-12-lakh-penalty-on-can-fin-hom
-  📝 Queued: rbi-keeps-repo-rate-unchanged-at-5-25-du
+  📝 Queued: insurance-ombudsman-and-the-case-for-con
+  📝 Queued: rbi-slaps-7-lakh-penalty-on-3-cooperativ
+  📝 Queued: rbi-removes-interest-rate-caps-on-select
+  📝 Queued: banks-told-to-report-daily-fcnr-b-ecb-in
+  📝 Queued: rbi-temporarily-lifts-interest-rate-ceil
+  📝 Queued: banks-seek-rbi-clarity-on-leveraged-nri-
+  📝 Queued: rbi-imposes-6-20-lakh-penalty-on-five-st
+  📝 Queued: sbi-po-apply-online-2026-started-sbi-ban
+  📝 Queued: rbi-set-to-retain-tata-sons-in-upper-lay
+  📝 Queued: nbfcs-set-to-outperform-banks-in-fy27-sa
+  📝 Queued: rbi-revises-kisan-credit-card-rules-key-
+  📝 Queued: rbi-deregulates-interest-rates-on-select
+  📝 Queued: rbi-s-kisan-credit-card-scheme-eligibili
+  📝 Queued: rbi-credit-reporting-amendment-direction
+  📝 Queued: rbi-s-ecl-framework-from-incurred-loss-r
 
 ============================================================
-Done. 12 new items processed.
+Done. 16 new items processed.
 ============================================================
 
