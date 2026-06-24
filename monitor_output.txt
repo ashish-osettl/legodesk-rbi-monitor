@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 23 Jun 2026 06:44 UTC
+RBI Monitor v2 — 24 Jun 2026 06:41 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
@@ -18,37 +18,45 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 164
-New lender-relevant items (deduplicated): 16
+Total items fetched: 162
+New lender-relevant items (deduplicated): 24
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9615)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 94 column 7 (char 9968)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: janata-sah-bank-directors-move-hc-agains
-  📝 Queued: insurance-ombudsman-and-the-case-for-con
-  📝 Queued: rbi-slaps-7-lakh-penalty-on-3-cooperativ
-  📝 Queued: rbi-removes-interest-rate-caps-on-select
-  📝 Queued: banks-told-to-report-daily-fcnr-b-ecb-in
-  📝 Queued: rbi-temporarily-lifts-interest-rate-ceil
-  📝 Queued: banks-seek-rbi-clarity-on-leveraged-nri-
-  📝 Queued: rbi-imposes-6-20-lakh-penalty-on-five-st
-  📝 Queued: sbi-po-apply-online-2026-started-sbi-ban
-  📝 Queued: rbi-set-to-retain-tata-sons-in-upper-lay
-  📝 Queued: nbfcs-set-to-outperform-banks-in-fy27-sa
-  📝 Queued: rbi-revises-kisan-credit-card-rules-key-
-  📝 Queued: rbi-deregulates-interest-rates-on-select
-  📝 Queued: rbi-s-kisan-credit-card-scheme-eligibili
-  📝 Queued: rbi-credit-reporting-amendment-direction
-  📝 Queued: rbi-s-ecl-framework-from-incurred-loss-r
+  📝 Queued: rbi-imposes-monetary-penalties-on-hinduj
+  📝 Queued: rbi-issues-2026-directions-to-streamline
+  📝 Queued: rbi-issues-strict-new-rules-to-curb-mis-
+  📝 Queued: bank-holidays-ahead-in-june-2026-what-ha
+  📝 Queued: india-s-central-bank-not-in-favour-of-of
+  📝 Queued: rbi-unveils-final-treds-framework-allows
+  📝 Queued: india-banks-can-lend-against-fcnr-b-depo
+  📝 Queued: rbi-says-upi-linked-credit-lines-must-fo
+  📝 Queued: will-the-supreme-court-finally-rein-in-r
+  📝 Queued: rbi-clarifies-fcnr-b-loan-sblc-eligibili
+  📝 Queued: rbi-allows-guarantee-cover-for-treds-fin
+  📝 Queued: rbi-overhauls-treds-rules-to-boost-msme-
+  📝 Queued: rbi-tightens-bank-loans-to-brokers-to-cu
+  📝 Queued: how-rbi-wants-to-fix-msme-cash-flow-prob
+  📝 Queued: rbi-permits-bank-lending-to-reits-new-fu
+  📝 Queued: rbi-cancels-licence-of-karnataka-based-s
+  📝 Queued: rbi-permits-banks-to-issue-loans-against
+  📝 Queued: central-bank-of-india-invites-bids-to-of
+  📝 Queued: can-a-bank-seize-your-vehicle-after-emi-
+  📝 Queued: rbi-allows-exclusion-of-hedged-fcnr-b-ec
+  📝 Queued: rbi-issues-master-direction-on-treds-to-
+  📝 Queued: rbi-clarifies-prudential-norms-for-upi-c
+  📝 Queued: rbi-amends-sfb-credit-rules-to-ensure-un
+  📝 Queued: reserve-bank-of-india-responsible-busine
 
 ============================================================
-Done. 16 new items processed.
+Done. 24 new items processed.
 ============================================================
 
