@@ -1,62 +1,61 @@
 
 ============================================================
-RBI Monitor v2 — 24 Jun 2026 06:41 UTC
+RBI Monitor v2 — 25 Jun 2026 06:42 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 24
+Total items fetched: 65
+New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 94 column 7 (char 9968)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 96 column 18 (char 9352)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-imposes-monetary-penalties-on-hinduj
-  📝 Queued: rbi-issues-2026-directions-to-streamline
-  📝 Queued: rbi-issues-strict-new-rules-to-curb-mis-
-  📝 Queued: bank-holidays-ahead-in-june-2026-what-ha
-  📝 Queued: india-s-central-bank-not-in-favour-of-of
-  📝 Queued: rbi-unveils-final-treds-framework-allows
+  📝 Queued: rbi-s-digital-fraud-compensation-rules-2
+  📝 Queued: rbi-finalises-nbfc-upper-layer-framework
+  📝 Queued: rbi-finalises-1-lakh-cr-above-as-asset-s
   📝 Queued: india-banks-can-lend-against-fcnr-b-depo
-  📝 Queued: rbi-says-upi-linked-credit-lines-must-fo
+  📝 Queued: nbfcs-with-rs-1-lakh-cr-assets-now-upper
+  📝 Queued: rbi-wants-to-mandate-ai-kill-switch-for-
   📝 Queued: will-the-supreme-court-finally-rein-in-r
-  📝 Queued: rbi-clarifies-fcnr-b-loan-sblc-eligibili
-  📝 Queued: rbi-allows-guarantee-cover-for-treds-fin
-  📝 Queued: rbi-overhauls-treds-rules-to-boost-msme-
-  📝 Queued: rbi-tightens-bank-loans-to-brokers-to-cu
-  📝 Queued: how-rbi-wants-to-fix-msme-cash-flow-prob
-  📝 Queued: rbi-permits-bank-lending-to-reits-new-fu
-  📝 Queued: rbi-cancels-licence-of-karnataka-based-s
-  📝 Queued: rbi-permits-banks-to-issue-loans-against
-  📝 Queued: central-bank-of-india-invites-bids-to-of
-  📝 Queued: can-a-bank-seize-your-vehicle-after-emi-
-  📝 Queued: rbi-allows-exclusion-of-hedged-fcnr-b-ec
-  📝 Queued: rbi-issues-master-direction-on-treds-to-
-  📝 Queued: rbi-clarifies-prudential-norms-for-upi-c
-  📝 Queued: rbi-amends-sfb-credit-rules-to-ensure-un
-  📝 Queued: reserve-bank-of-india-responsible-busine
+  📝 Queued: rbi-faqs-loans-sblcs-allowed-for-nris-ag
+  📝 Queued: rbi-to-raise-large-exposure-limit-for-up
+  📝 Queued: rbi-upper-layer-nbfc-directions-will-tat
+  📝 Queued: which-nbfcs-are-classified-in-the-upper-
+  📝 Queued: rbi-mandates-kill-switch-for-ai-models-a
+  📝 Queued: rbi-finalises-digital-banking-fraud-prot
+  📝 Queued: rbi-proposes-guidelines-for-banks-to-man
+  📝 Queued: rbi-issues-treds-directions-2026-simplif
+  📝 Queued: rbi-asks-banks-to-report-daily-data-on-f
+  📝 Queued: rbi-allows-banks-to-mobilise-fcnr-b-depo
+  📝 Queued: rbi-updates-fraud-compensation-rules-ban
+  📝 Queued: rbi-allows-banks-to-lend-against-fcnr-b-
+  📝 Queued: rbi-drafts-ai-governance-rules-requiring
+  📝 Queued: rbi-aligns-forex-risk-capital-charge-for
+  📝 Queued: monetary-penalty-on-navapur-mercantile-c
+  📝 Queued: monetary-penalties-on-four-cooperative-b
 
 ============================================================
-Done. 24 new items processed.
+Done. 23 new items processed.
 ============================================================
 
