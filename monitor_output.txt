@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 25 Jun 2026 06:42 UTC
+RBI Monitor v2 — 26 Jun 2026 06:50 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
@@ -18,44 +18,43 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 65
-New lender-relevant items (deduplicated): 23
+Total items fetched: 71
+New lender-relevant items (deduplicated): 22
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 96 column 18 (char 9352)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9908)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-s-digital-fraud-compensation-rules-2
-  📝 Queued: rbi-finalises-nbfc-upper-layer-framework
-  📝 Queued: rbi-finalises-1-lakh-cr-above-as-asset-s
-  📝 Queued: india-banks-can-lend-against-fcnr-b-depo
-  📝 Queued: nbfcs-with-rs-1-lakh-cr-assets-now-upper
-  📝 Queued: rbi-wants-to-mandate-ai-kill-switch-for-
-  📝 Queued: will-the-supreme-court-finally-rein-in-r
-  📝 Queued: rbi-faqs-loans-sblcs-allowed-for-nris-ag
-  📝 Queued: rbi-to-raise-large-exposure-limit-for-up
-  📝 Queued: rbi-upper-layer-nbfc-directions-will-tat
-  📝 Queued: which-nbfcs-are-classified-in-the-upper-
+  📝 Queued: rbi-opens-term-money-market-to-nbfcs-aif
+  📝 Queued: rbi-proposes-to-allow-nbfcs-in-money-mar
+  📝 Queued: rbi-s-draft-guidelines-push-banks-toward
+  📝 Queued: rbi-proposes-to-enhance-money-market-par
+  📝 Queued: rbi-issues-final-amendment-directions-on
+  📝 Queued: rbi-proposes-to-further-enhance-money-ma
+  📝 Queued: rbi-tightens-rules-on-recovery-of-excess
+  📝 Queued: from-credit-models-to-frontier-ai-inside
+  📝 Queued: rbi-fines-three-cooperative-banks-5-lakh
+  📝 Queued: why-banks-are-raising-deposit-rates-redi
+  📝 Queued: reserve-bank-of-india-issues-final-rules
+  📝 Queued: short-positions-in-g-secs-on-cards-to-im
+  📝 Queued: reserve-bank-issues-draft-regulatory-pri
   📝 Queued: rbi-mandates-kill-switch-for-ai-models-a
-  📝 Queued: rbi-finalises-digital-banking-fraud-prot
   📝 Queued: rbi-proposes-guidelines-for-banks-to-man
-  📝 Queued: rbi-issues-treds-directions-2026-simplif
-  📝 Queued: rbi-asks-banks-to-report-daily-data-on-f
-  📝 Queued: rbi-allows-banks-to-mobilise-fcnr-b-depo
-  📝 Queued: rbi-updates-fraud-compensation-rules-ban
-  📝 Queued: rbi-allows-banks-to-lend-against-fcnr-b-
-  📝 Queued: rbi-drafts-ai-governance-rules-requiring
-  📝 Queued: rbi-aligns-forex-risk-capital-charge-for
-  📝 Queued: monetary-penalty-on-navapur-mercantile-c
-  📝 Queued: monetary-penalties-on-four-cooperative-b
+  📝 Queued: india-gold-loan-market-surges-to-19-4-la
+  📝 Queued: rbi-directs-banks-to-seek-consent-before
+  📝 Queued: tata-group-stocks-rise-on-rbi-nbfc-listi
+  📝 Queued: digital-lending-in-india-how-it-works-rb
+  📝 Queued: rbi-master-direction-on-trade-receivable
+  📝 Queued: rbi-withdrawal-of-concentration-risk-exe
+  📝 Queued: rbi-penalty-on-nbfcs-and-housing-finance
 
 ============================================================
-Done. 23 new items processed.
+Done. 22 new items processed.
 ============================================================
 
