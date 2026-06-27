@@ -1,60 +1,76 @@
 
 ============================================================
-RBI Monitor v2 — 26 Jun 2026 06:50 UTC
+RBI Monitor v2 — 27 Jun 2026 06:25 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ TaxGuru — RBI: 100 items
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 71
-New lender-relevant items (deduplicated): 22
+Total items fetched: 168
+New lender-relevant items (deduplicated): 38
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9908)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9798)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-opens-term-money-market-to-nbfcs-aif
   📝 Queued: rbi-proposes-to-allow-nbfcs-in-money-mar
-  📝 Queued: rbi-s-draft-guidelines-push-banks-toward
-  📝 Queued: rbi-proposes-to-enhance-money-market-par
-  📝 Queued: rbi-issues-final-amendment-directions-on
-  📝 Queued: rbi-proposes-to-further-enhance-money-ma
-  📝 Queued: rbi-tightens-rules-on-recovery-of-excess
-  📝 Queued: from-credit-models-to-frontier-ai-inside
-  📝 Queued: rbi-fines-three-cooperative-banks-5-lakh
-  📝 Queued: why-banks-are-raising-deposit-rates-redi
-  📝 Queued: reserve-bank-of-india-issues-final-rules
-  📝 Queued: short-positions-in-g-secs-on-cards-to-im
-  📝 Queued: reserve-bank-issues-draft-regulatory-pri
-  📝 Queued: rbi-mandates-kill-switch-for-ai-models-a
+  📝 Queued: beyond-psl-how-rbi-s-2025-co-lending-dir
+  📝 Queued: bank-led-acquisition-finance-in-india-an
+  📝 Queued: one-rulebook-for-the-g-sec-market-inside
+  📝 Queued: rbi-issues-final-norms-to-expand-credit-
+  📝 Queued: the-legal-architecture-around-the-rbi-s-
   📝 Queued: rbi-proposes-guidelines-for-banks-to-man
-  📝 Queued: india-gold-loan-market-surges-to-19-4-la
-  📝 Queued: rbi-directs-banks-to-seek-consent-before
-  📝 Queued: tata-group-stocks-rise-on-rbi-nbfc-listi
-  📝 Queued: digital-lending-in-india-how-it-works-rb
-  📝 Queued: rbi-master-direction-on-trade-receivable
-  📝 Queued: rbi-withdrawal-of-concentration-risk-exe
-  📝 Queued: rbi-penalty-on-nbfcs-and-housing-finance
+  📝 Queued: rbi-finalises-credit-derivatives-framewo
+  📝 Queued: how-rbi-s-2026-treds-directions-advance-
+  📝 Queued: rbi-proposes-to-enhance-money-market-par
+  📝 Queued: rbi-injects-1-41-trillion-to-ease-bankin
+  📝 Queued: rbi-allows-banks-to-lend-against-fcnr-b-
+  📝 Queued: mahindra-finance-fy26-turnover-18-445-cr
+  📝 Queued: business-news-rbi-issues-final-norms-to-
+  📝 Queued: drat-chennai-upholds-order-allowing-bank
+  📝 Queued: rbi-issues-new-credit-derivatives-direct
+  📝 Queued: rbi-expands-credit-derivatives-market-by
+  📝 Queued: rbi-s-new-treds-master-direction-2026-wh
+  📝 Queued: rbi-strengthens-customer-protection-agai
+  📝 Queued: rbi-revises-ucb-fraud-rules-because-cust
+  📝 Queued: rbi-strengthens-customer-protection-by-i
+  📝 Queued: rbi-strengthens-payments-bank-customer-p
+  📝 Queued: rbi-strengthens-customer-protection-by-r
+  📝 Queued: rbi-exempts-government-owned-nbfc-uls-fr
+  📝 Queued: rbi-exempts-government-owned-nbfcs-from-
+  📝 Queued: rbi-withdraws-concentration-norm-exempti
+  📝 Queued: rbi-simplifies-upper-layer-nbfc-classifi
+  📝 Queued: rbi-revises-aifi-forex-risk-norms-to-ali
+  📝 Queued: rbi-revises-capital-adequacy-rules-for-r
+  📝 Queued: rbi-revises-ucb-capital-norms-because-ne
+  📝 Queued: rbi-revises-rrb-capital-norms-because-ne
+  📝 Queued: rbi-amends-lab-capital-adequacy-norms-be
+  📝 Queued: rbi-revises-sfb-forex-rules-because-net-
+  📝 Queued: rbi-amends-capital-adequacy-norms-becaus
+  📝 Queued: rbi-amends-pension-recovery-rules-becaus
+  📝 Queued: why-rbi-s-bank-in-initiative-needs-compl
+  📝 Queued: swap-facility-for-fcnr-b-deposits-ecbs-o
+  📝 Queued: rbi-circular-on-lead-bank-scheme-revised
 
 ============================================================
-Done. 22 new items processed.
+Done. 38 new items processed.
 ============================================================
 
