@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 27 Jun 2026 06:25 UTC
+RBI Monitor v2 — 28 Jun 2026 06:58 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
@@ -18,59 +18,27 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ⚠️  Claude search: no JSON array in response
 
 Total items fetched: 168
-New lender-relevant items (deduplicated): 38
+New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9798)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9877)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-proposes-to-allow-nbfcs-in-money-mar
   📝 Queued: beyond-psl-how-rbi-s-2025-co-lending-dir
-  📝 Queued: bank-led-acquisition-finance-in-india-an
-  📝 Queued: one-rulebook-for-the-g-sec-market-inside
-  📝 Queued: rbi-issues-final-norms-to-expand-credit-
-  📝 Queued: the-legal-architecture-around-the-rbi-s-
-  📝 Queued: rbi-proposes-guidelines-for-banks-to-man
-  📝 Queued: rbi-finalises-credit-derivatives-framewo
-  📝 Queued: how-rbi-s-2026-treds-directions-advance-
-  📝 Queued: rbi-proposes-to-enhance-money-market-par
-  📝 Queued: rbi-injects-1-41-trillion-to-ease-bankin
-  📝 Queued: rbi-allows-banks-to-lend-against-fcnr-b-
-  📝 Queued: mahindra-finance-fy26-turnover-18-445-cr
-  📝 Queued: business-news-rbi-issues-final-norms-to-
-  📝 Queued: drat-chennai-upholds-order-allowing-bank
-  📝 Queued: rbi-issues-new-credit-derivatives-direct
-  📝 Queued: rbi-expands-credit-derivatives-market-by
-  📝 Queued: rbi-s-new-treds-master-direction-2026-wh
-  📝 Queued: rbi-strengthens-customer-protection-agai
-  📝 Queued: rbi-revises-ucb-fraud-rules-because-cust
-  📝 Queued: rbi-strengthens-customer-protection-by-i
-  📝 Queued: rbi-strengthens-payments-bank-customer-p
-  📝 Queued: rbi-strengthens-customer-protection-by-r
-  📝 Queued: rbi-exempts-government-owned-nbfc-uls-fr
-  📝 Queued: rbi-exempts-government-owned-nbfcs-from-
-  📝 Queued: rbi-withdraws-concentration-norm-exempti
-  📝 Queued: rbi-simplifies-upper-layer-nbfc-classifi
-  📝 Queued: rbi-revises-aifi-forex-risk-norms-to-ali
-  📝 Queued: rbi-revises-capital-adequacy-rules-for-r
-  📝 Queued: rbi-revises-ucb-capital-norms-because-ne
-  📝 Queued: rbi-revises-rrb-capital-norms-because-ne
-  📝 Queued: rbi-amends-lab-capital-adequacy-norms-be
-  📝 Queued: rbi-revises-sfb-forex-rules-because-net-
-  📝 Queued: rbi-amends-capital-adequacy-norms-becaus
-  📝 Queued: rbi-amends-pension-recovery-rules-becaus
-  📝 Queued: why-rbi-s-bank-in-initiative-needs-compl
-  📝 Queued: swap-facility-for-fcnr-b-deposits-ecbs-o
-  📝 Queued: rbi-circular-on-lead-bank-scheme-revised
+  📝 Queued: rbi-proposes-to-further-enhance-money-ma
+  📝 Queued: july-1-brings-6-big-financial-changes-it
+  📝 Queued: rbi-proposes-strict-ai-rules-for-banks-a
+  📝 Queued: rbi-issues-final-rules-to-expand-india-s
+  📝 Queued: big-defaulters-get-easy-loans-small-borr
 
 ============================================================
-Done. 38 new items processed.
+Done. 6 new items processed.
 ============================================================
 
