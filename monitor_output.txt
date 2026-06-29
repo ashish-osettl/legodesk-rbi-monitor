@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 28 Jun 2026 06:58 UTC
+RBI Monitor v2 — 29 Jun 2026 07:25 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -18,27 +18,30 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude search: no JSON array in response
+  ✅ Claude web search: 5 RBI items found
 
 Total items fetched: 168
-New lender-relevant items (deduplicated): 6
+New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9877)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 10014)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: beyond-psl-how-rbi-s-2025-co-lending-dir
-  📝 Queued: rbi-proposes-to-further-enhance-money-ma
-  📝 Queued: july-1-brings-6-big-financial-changes-it
-  📝 Queued: rbi-proposes-strict-ai-rules-for-banks-a
-  📝 Queued: rbi-issues-final-rules-to-expand-india-s
-  📝 Queued: big-defaulters-get-easy-loans-small-borr
+  📝 Queued: bank-led-acquisition-finance-in-india-an
+  📝 Queued: kisan-credit-card-scheme-how-banks-will-
+  📝 Queued: why-banks-are-raising-deposit-rates-redi
+  📝 Queued: rbi-s-consumer-protection-push-raises-th
+  📝 Queued: major-financial-changes-from-july-1-2026
+  📝 Queued: rbi-non-banking-financial-companies-resp
+  📝 Queued: rbi-revised-lead-bank-scheme-circular
+  📝 Queued: rbi-trade-receivables-discounting-system
+  📝 Queued: update-to-rbi-non-banking-financial-comp
 
 ============================================================
-Done. 6 new items processed.
+Done. 9 new items processed.
 ============================================================
 
