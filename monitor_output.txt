@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 30 Jun 2026 06:52 UTC
+RBI Monitor v2 — 01 Jul 2026 07:06 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 64 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,38 +18,40 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 7 RBI items found
+  ✅ Claude web search: 4 RBI items found
 
-Total items fetched: 172
-New lender-relevant items (deduplicated): 17
+Total items fetched: 177
+New lender-relevant items (deduplicated): 19
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 10412)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 101 column 28 (char 9797)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-digital-fraud-compensation-rules-key
-  📝 Queued: rbi-s-draft-guidelines-push-banks-toward
-  📝 Queued: 3-coop-banks-penalized-total-fine-rs5-la
-  📝 Queued: hdfc-bank-appoints-rajiv-kumar-as-part-t
-  📝 Queued: icici-bank-re-appoints-vibha-paul-rishi-
-  📝 Queued: rbi-issues-final-norms-to-expand-credit-
-  📝 Queued: icici-bank-fixes-august-3-as-record-date
-  📝 Queued: hdfc-bank-appoints-puneet-sharma-as-cfo-
+  📝 Queued: rbi-penalizes-56-cooperative-banks-in-si
+  📝 Queued: rbi-opens-bank-lending-for-acquisitions-
+  📝 Queued: rbi-imposes-7-50-lakh-penalty-on-3-coope
+  📝 Queued: icici-bank-ibn-plans-aug-2026-agm-and-ex
+  📝 Queued: rbi-revises-rules-for-nbfcs-opting-to-vo
+  📝 Queued: rbi-revises-certificate-of-registration-
   📝 Queued: rbi-finalises-credit-derivatives-framewo
-  📝 Queued: india-s-proprietary-trading-firms-face-o
-  📝 Queued: rbi-proposes-to-enhance-money-market-par
-  📝 Queued: rbi-drafts-new-money-market-rules-to-boo
-  📝 Queued: rbi-issues-draft-master-direction-to-con
-  📝 Queued: rbi-credit-derivatives-master-direction-
-  📝 Queued: penalty-on-muthoot-housing-finance-compa
-  📝 Queued: penalty-on-bandhan-bank-for-kyc-and-regu
-  📝 Queued: rbi-responsible-business-conduct-second-
+  📝 Queued: from-itr-deadline-to-aadhaar-and-credit-
+  📝 Queued: reserve-bank-of-india-s-short-dollar-boo
+  📝 Queued: new-rules-from-july-1-6-financial-change
+  📝 Queued: one-bank-s-non-participation-cannot-null
+  📝 Queued: rbi-grade-b-mains-exam-date-2026-out-che
+  📝 Queued: rbi-issues-final-norms-to-expand-credit-
+  📝 Queued: big-defaulters-get-easy-loans-small-borr
+  📝 Queued: 10-best-bank-auction-property-websites-t
+  📝 Queued: calcutta-hc-orders-completion-of-32-bank
+  📝 Queued: reserve-bank-of-india-amendment-directio
+  📝 Queued: reserve-bank-of-india-nbfc-ul-scale-base
+  📝 Queued: reserve-bank-of-india-trade-receivables-
 
 ============================================================
-Done. 17 new items processed.
+Done. 19 new items processed.
 ============================================================
 
