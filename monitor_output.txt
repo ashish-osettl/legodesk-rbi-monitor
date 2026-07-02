@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 01 Jul 2026 07:06 UTC
+RBI Monitor v2 — 02 Jul 2026 06:35 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 64 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,40 +18,35 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 4 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 177
-New lender-relevant items (deduplicated): 19
+Total items fetched: 171
+New lender-relevant items (deduplicated): 14
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 101 column 28 (char 9797)
+  ⚠️  AI analysis failed: Expecting value: line 92 column 7 (char 9411)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
+  📝 Queued: rbi-s-new-rule-leaves-tata-sons-nbfc-exi
+  📝 Queued: rbi-extends-directions-on-samarth-sah-ba
+  📝 Queued: indian-banks-bad-loans-to-keep-below-2-t
   📝 Queued: rbi-penalizes-56-cooperative-banks-in-si
+  📝 Queued: the-rbi-just-published-a-list-of-the-tri
+  📝 Queued: why-banks-are-raising-deposit-rates-redi
+  📝 Queued: kotak-mahindra-bank-ceo-succession-parit
+  📝 Queued: itr-filing-aadhaar-credit-cards-and-more
+  📝 Queued: forgot-money-in-an-old-bank-account-here
+  📝 Queued: 13-key-rbi-draft-proposals-in-2026-from-
+  📝 Queued: rbi-s-consumer-protection-push-raises-th
+  📝 Queued: rbi-updates-nbfc-voluntary-exit-process-
+  📝 Queued: rbi-expands-credit-derivatives-market-in
   📝 Queued: rbi-opens-bank-lending-for-acquisitions-
-  📝 Queued: rbi-imposes-7-50-lakh-penalty-on-3-coope
-  📝 Queued: icici-bank-ibn-plans-aug-2026-agm-and-ex
-  📝 Queued: rbi-revises-rules-for-nbfcs-opting-to-vo
-  📝 Queued: rbi-revises-certificate-of-registration-
-  📝 Queued: rbi-finalises-credit-derivatives-framewo
-  📝 Queued: from-itr-deadline-to-aadhaar-and-credit-
-  📝 Queued: reserve-bank-of-india-s-short-dollar-boo
-  📝 Queued: new-rules-from-july-1-6-financial-change
-  📝 Queued: one-bank-s-non-participation-cannot-null
-  📝 Queued: rbi-grade-b-mains-exam-date-2026-out-che
-  📝 Queued: rbi-issues-final-norms-to-expand-credit-
-  📝 Queued: big-defaulters-get-easy-loans-small-borr
-  📝 Queued: 10-best-bank-auction-property-websites-t
-  📝 Queued: calcutta-hc-orders-completion-of-32-bank
-  📝 Queued: reserve-bank-of-india-amendment-directio
-  📝 Queued: reserve-bank-of-india-nbfc-ul-scale-base
-  📝 Queued: reserve-bank-of-india-trade-receivables-
 
 ============================================================
-Done. 19 new items processed.
+Done. 14 new items processed.
 ============================================================
 
