@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 03 Jul 2026 06:25 UTC
+RBI Monitor v2 — 04 Jul 2026 06:13 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ⚠️  Google News: RBI circular notification lender NBFC ba: HTTP Error 503: Service Unavailable
+  ⚠️  Google News: RBI directions banking regulation 2025 2: HTTP Error 503: Service Unavailable
+  ⚠️  Google News: Reserve Bank India NPA recovery SARFAESI: HTTP Error 503: Service Unavailable
+  ⚠️  Google News: RBI Fair Practices Code collections: HTTP Error 503: Service Unavailable
+  ⚠️  Google News: RBI NBFC directions penalty circular: HTTP Error 503: Service Unavailable
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,37 +18,9 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ⚠️  Claude search: no JSON array in response
 
-Total items fetched: 168
-New lender-relevant items (deduplicated): 16
-
-Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 9942)
-
-Sending notifications...
-  ✅ Google Chat sent (HTTP 200)
-  ✅ Email sent to ashish@legodesk.com
-
-Queuing Academy content...
-  📝 Queued: updated-scale-based-regulations-for-nbfc
-  📝 Queued: rbi-penalises-pune-cooperative-bank-over
-  📝 Queued: rbi-fines-3-cooperative-banks-2-15-lakh-
-  📝 Queued: rbi-bars-pre-payment-charges-on-transfer
-  📝 Queued: rbi-penalizes-56-cooperative-banks-in-si
-  📝 Queued: rbi-extends-restrictions-on-three-co-op-
-  📝 Queued: m-a-funding-norms-to-intensify-competiti
-  📝 Queued: kotak-mahindra-bank-completes-rs-9-587-6
-  📝 Queued: rbi-finalises-credit-derivatives-framewo
-  📝 Queued: rbi-extends-regulatory-directions-for-ba
-  📝 Queued: rbi-extends-the-period-of-regulatory-dir
-  📝 Queued: india-private-credit-market-seen-hitting
-  📝 Queued: rbi-2025-nbfc-rules-leave-tata-sons-faci
-  📝 Queued: exim-bank-syllabus-2026-out-for-deputy-m
-  📝 Queued: ibps-po-syllabus-and-exam-pattern-2026-r
-  📝 Queued: reserve-bank-integrated-ombudsman-scheme
-
-============================================================
-Done. 16 new items processed.
-============================================================
-
+Total items fetched: 102
+New lender-relevant items (deduplicated): 0
+✅ No new updates today.
+Headline: No new lender-relevant RBI updates found
