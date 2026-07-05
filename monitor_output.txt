@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 04 Jul 2026 06:13 UTC
+RBI Monitor v2 — 05 Jul 2026 06:35 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ⚠️  Google News: RBI circular notification lender NBFC ba: HTTP Error 503: Service Unavailable
-  ⚠️  Google News: RBI directions banking regulation 2025 2: HTTP Error 503: Service Unavailable
-  ⚠️  Google News: Reserve Bank India NPA recovery SARFAESI: HTTP Error 503: Service Unavailable
-  ⚠️  Google News: RBI Fair Practices Code collections: HTTP Error 503: Service Unavailable
-  ⚠️  Google News: RBI NBFC directions penalty circular: HTTP Error 503: Service Unavailable
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
+  ✅ Google News: RBI Fair Practices Code collections: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,9 +18,42 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude search: no JSON array in response
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 102
-New lender-relevant items (deduplicated): 0
-✅ No new updates today.
-Headline: No new lender-relevant RBI updates found
+Total items fetched: 176
+New lender-relevant items (deduplicated): 21
+
+Running AI analysis...
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9555)
+
+Sending notifications...
+  ✅ Google Chat sent (HTTP 200)
+  ✅ Email sent to ashish@legodesk.com
+
+Queuing Academy content...
+  📝 Queued: rbi-imposes-66-7-lakh-penalty-on-bank-of
+  📝 Queued: rbi-slaps-bank-of-baroda-gic-housing-fin
+  📝 Queued: rbi-imposes-rs-66-7-lakh-penalty-on-bank
+  📝 Queued: rbi-imposes-monetary-penalty-on-gic-hous
+  📝 Queued: rbi-fines-bank-of-baroda-63-6-lakh-for-f
+  📝 Queued: what-is-regulatory-compliance-in-indian-
+  📝 Queued: jagsonpal-services-gets-rbi-approval-to-
+  📝 Queued: bank-of-baroda-to-pay-63-60-lakh-penalty
+  📝 Queued: small-finance-bank-fixed-deposit-fd-inte
+  📝 Queued: rbi-fines-bank-of-baroda-64l-for-breachi
+  📝 Queued: kotak-mahindra-bank-completes-rs-9-587-6
+  📝 Queued: gic-housing-finance-pays-3-10-lakh-rbi-p
+  📝 Queued: kotak-mahindra-bank-confirms-no-encumbra
+  📝 Queued: rbi-fines-bank-of-baroda-gic-housing-fin
+  📝 Queued: hdfc-bank-q1fy27-gross-advances-jump-15-
+  📝 Queued: hdfc-bank-q1-update-shows-15-growth-in-l
+  📝 Queued: rbi-extends-regulatory-directions-on-the
+  📝 Queued: jagsonpal-services-gets-rbi-nod-for-welc
+  📝 Queued: rbi-imposes-63-6-lakh-penalty-on-bank-of
+  📝 Queued: rbi-levies-rs-63-lakh-penalty-on-bank-of
+  📝 Queued: rbi-responsible-business-conduct-second-
+
+============================================================
+Done. 21 new items processed.
+============================================================
+
