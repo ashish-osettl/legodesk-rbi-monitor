@@ -1,45 +1,44 @@
 
 ============================================================
-RBI Monitor v2 — 06 Jul 2026 07:06 UTC
+RBI Monitor v2 — 07 Jul 2026 06:40 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 65 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 68 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
-  ✅ Google News: RBI Fair Practices Code collections: 3 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ TaxGuru — RBI: 100 items
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 78
-New lender-relevant items (deduplicated): 7
+Total items fetched: 178
+New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9935)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9183)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: india-reserve-bank-of-india-rbi-flags-ri
-  📝 Queued: private-banks-in-india-list-of-private-s
-  📝 Queued: senior-citizen-fd-rates-in-july-2026-hig
-  📝 Queued: rbi-imposes-rs-63-60-lakh-penalty-on-ban
-  📝 Queued: rbi-penalises-yes-bank-hinduja-housing-f
-  📝 Queued: rbi-penalty-order-fair-practices-code-ky
-  📝 Queued: rbi-penalty-order-gic-housing-finance-ky
+  📝 Queued: mcx-was-supposed-to-be-safe-from-rbi-s-b
+  📝 Queued: rwa-tokenization-should-move-offshore-fi
+  📝 Queued: silver-s-new-role-in-india-loan-collater
+  📝 Queued: rbi-extends-regulatory-directions-for-sa
+  📝 Queued: rbi-has-extended-the-period-of-regulator
+  📝 Queued: rbi-slaps-bank-of-baroda-gic-housing-fin
 
 ============================================================
-Done. 7 new items processed.
+Done. 6 new items processed.
 ============================================================
 
