@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 08 Jul 2026 05:44 UTC
+RBI Monitor v2 — 10 Jul 2026 06:38 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
@@ -15,30 +15,34 @@ Fetching aggregator RSS feeds...
   ✅ TaxGuru — RBI: 100 items
   ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
-  ⚠️  Taxmann — NBFC: The read operation timed out
+  ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 171
-New lender-relevant items (deduplicated): 6
+Total items fetched: 156
+New lender-relevant items (deduplicated): 10
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 10041)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9584)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: kerala-hc-backs-rbi-s-power-to-supersede
-  📝 Queued: nbfcs-strike-gold-jewellery-backed-loans
-  📝 Queued: india-s-credit-risk-capital-overhaul-set
-  📝 Queued: banks-can-t-blacklist-lawyers-for-neglig
-  📝 Queued: rbi-imposes-rs-66-7-lakh-penalty-on-bank
-  📝 Queued: rbi-imposes-penalties-on-bank-of-baroda-
+  📝 Queued: india-central-bank-backs-crypto-ban-tax-
+  📝 Queued: goa-incorporates-rbi-directions-into-co-
+  📝 Queued: cost-of-free-alerts-rbi-s-sms-order-may-
+  📝 Queued: why-trai-s-1600-number-series-is-new-hot
+  📝 Queued: sbi-cbo-interview-questions-2026-check-q
+  📝 Queued: bank-credit-to-industry-grows-at-robust-
+  📝 Queued: patspin-india-ltd-faces-sarfaesi-action-
+  📝 Queued: rbi-removes-co-peratieve-rabobank-u-a-fr
+  📝 Queued: rbi-penalty-on-bank-of-baroda-and-gic-ho
+  📝 Queued: rbi-s-responsible-business-conduct-secon
 
 ============================================================
-Done. 6 new items processed.
+Done. 10 new items processed.
 ============================================================
 
