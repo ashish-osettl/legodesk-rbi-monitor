@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 11 Jul 2026 05:34 UTC
+RBI Monitor v2 — 12 Jul 2026 05:50 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,30 +18,27 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 155
-New lender-relevant items (deduplicated): 9
+Total items fetched: 154
+New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9628)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9509)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-compliant-emandate-infrastructure-gu
-  📝 Queued: compounding-of-non-reporting-contraventi
-  📝 Queued: hdfc-bank-q1fy27-jefferies-bernstein-sta
-  📝 Queued: bombay-hc-sets-aside-bank-of-indias-frau
-  📝 Queued: ireda-labels-gensol-engineering-loan-acc
-  📝 Queued: bank-of-maharashtra-announces-financial-
-  📝 Queued: tahmar-enterprises-receives-24-40-cr-dem
-  📝 Queued: rbi-slaps-bank-of-baroda-gic-housing-fin
-  📝 Queued: rbi-penalty-order-bank-of-baroda-and-gic
+  📝 Queued: rbi-directs-banks-to-comply-with-updated
+  📝 Queued: icici-bank-savings-account-interest-rate
+  📝 Queued: the-wall-around-mint-street-how-the-rbi-
+  📝 Queued: ireda-flags-rs-672-crore-loans-to-gensol
+  📝 Queued: tamil-nadu-expands-crop-loan-waiver-up-t
+  📝 Queued: msme-borrower-must-establish-status-befo
 
 ============================================================
-Done. 9 new items processed.
+Done. 6 new items processed.
 ============================================================
 
