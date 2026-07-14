@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 13 Jul 2026 06:09 UTC
+RBI Monitor v2 — 14 Jul 2026 05:23 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 38 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 33 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -18,26 +18,28 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 147
-New lender-relevant items (deduplicated): 5
+Total items fetched: 146
+New lender-relevant items (deduplicated): 7
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting value: line 94 column 22 (char 9755)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 10328)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: ireda-declares-gensol-engineering-and-ge
-  📝 Queued: hdfc-bank-ceo-pay-rises-19-to-15-13-cror
-  📝 Queued: rbi-clarifies-banks-cannot-block-phone-n
-  📝 Queued: rbi-guidelines-protect-borrowers-from-lo
-  📝 Queued: penalty-on-bank-of-baroda-and-gic-housin
+  📝 Queued: rbi-directs-banks-to-comply-with-updated
+  📝 Queued: global-access-providers-in-ifsc-gift-cit
+  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: karur-vysya-bank-announces-107th-agm-and
+  📝 Queued: consumer-forums-cannot-hear-bank-loan-re
+  📝 Queued: rbi-imposes-penalty-on-bank-of-baroda-fo
+  📝 Queued: rbi-imposes-penalty-on-gic-housing-finan
 
 ============================================================
-Done. 5 new items processed.
+Done. 7 new items processed.
 ============================================================
 
