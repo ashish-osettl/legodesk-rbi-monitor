@@ -1,45 +1,55 @@
 
 ============================================================
-RBI Monitor v2 — 14 Jul 2026 05:23 UTC
+RBI Monitor v2 — 15 Jul 2026 05:24 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 33 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 44 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 146
-New lender-relevant items (deduplicated): 7
+Total items fetched: 53
+New lender-relevant items (deduplicated): 17
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 10328)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 85 column 145 (char 10286)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-directs-banks-to-comply-with-updated
-  📝 Queued: global-access-providers-in-ifsc-gift-cit
-  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: pending-arbitration-doesn-t-bar-wilful-d
+  📝 Queued: rbi-plans-easier-rules-for-bank-stake-ac
+  📝 Queued: rbi-proposes-easing-rules-for-mutual-fun
+  📝 Queued: utkarsh-small-finance-bank-sets-10th-agm
+  📝 Queued: rbi-proposes-easier-bank-share-acquisiti
+  📝 Queued: 5-cooperative-banks-penalised-44-80-lakh
+  📝 Queued: delhivery-arm-secures-rbi-approval-for-t
+  📝 Queued: raising-bank-stakes-gets-easier-for-diis
+  📝 Queued: rbi-cracks-down-on-co-op-banks-five-lend
+  📝 Queued: rbi-proposes-one-time-approval-for-insti
+  📝 Queued: ireda-declares-gensol-engineering-loan-a
+  📝 Queued: rbi-governor-meets-bank-ceos-to-discuss-
+  📝 Queued: rbi-proposes-one-time-approval-for-mfs-i
+  📝 Queued: morarka-finance-q1-fy27-rbi-nbfc
   📝 Queued: karur-vysya-bank-announces-107th-agm-and
-  📝 Queued: consumer-forums-cannot-hear-bank-loan-re
-  📝 Queued: rbi-imposes-penalty-on-bank-of-baroda-fo
-  📝 Queued: rbi-imposes-penalty-on-gic-housing-finan
+  📝 Queued: sc-pulls-up-sbi-says-banks-harass-small-
+  📝 Queued: why-a-fragmented-collections-workflow-is
 
 ============================================================
-Done. 7 new items processed.
+Done. 17 new items processed.
 ============================================================
 
