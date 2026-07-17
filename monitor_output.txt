@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 16 Jul 2026 05:33 UTC
+RBI Monitor v2 — 17 Jul 2026 05:35 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 5 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
+  ✅ Google News: RBI Fair Practices Code collections: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,34 +20,46 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 165
-New lender-relevant items (deduplicated): 15
+Total items fetched: 162
+New lender-relevant items (deduplicated): 27
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting value: line 87 column 144 (char 10028)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 101 column 28 (char 9495)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-proposes-norms-for-banks-nbfcs-to-fu
+  📝 Queued: rbi-bars-banks-from-selling-stressed-ass
+  📝 Queued: rbi-s-new-snfa-rules-banks-barred-from-s
   📝 Queued: rbi-proposes-board-led-data-governance-f
-  📝 Queued: rbi-directs-bank-boards-to-sharpen-strat
-  📝 Queued: co-lending-explained-how-blended-persona
-  📝 Queued: rbi-wants-banks-and-non-banks-to-have-a-
-  📝 Queued: delhivery-shares-in-focus-as-arm-receive
-  📝 Queued: rbi-updates-bank-shareholding-rules-simp
-  📝 Queued: consumer-forums-cannot-hear-bank-loan-re
-  📝 Queued: earnings-call-transcript-union-bank-of-i
-  📝 Queued: rbi-seeks-comments-on-draft-bank-shareho
-  📝 Queued: rbi-rationalises-local-area-bank-board-g
-  📝 Queued: rbi-rationalises-payments-bank-board-gov
-  📝 Queued: rbi-rationalises-small-finance-bank-boar
-  📝 Queued: rbi-rationalises-commercial-bank-board-g
-  📝 Queued: bank-of-baroda-and-gic-housing-finance-p
+  📝 Queued: bt-explainer-when-banks-can-seize-proper
+  📝 Queued: rbi-amends-bank-board-governance-norms-n
+  📝 Queued: rbi-bars-banks-nbfcs-from-selling-acquir
+  📝 Queued: raising-bank-stakes-gets-easier-for-diis
+  📝 Queued: rbi-bars-banks-nbfcs-from-selling-stress
+  📝 Queued: rbi-bars-lenders-from-selling-stressed-a
+  📝 Queued: rbi-clears-multi-unit-project-funding-by
+  📝 Queued: rbi-directs-banks-not-to-recognise-unrea
+  📝 Queued: no-foreclosure-charges-on-floating-rate-
+  📝 Queued: rbi-bars-banks-from-selling-recovered-as
+  📝 Queued: south-indian-bank-q1-fy27-profit-jumps-1
+  📝 Queued: rbi-proposes-one-time-approval-for-mfs-i
+  📝 Queued: rbi-introduces-prudential-framework-for-
+  📝 Queued: rbi-gives-banks-7-years-to-sell-properti
+  📝 Queued: rbi-rejects-lenders-bid-to-acquire-pre-n
+  📝 Queued: rbi-sets-seven-year-deadline-for-banks-t
+  📝 Queued: when-recovery-becomes-harassment-my-orde
+  📝 Queued: new-fema-compounding-framework-shift-fro
+  📝 Queued: rbi-revises-urban-cooperative-bank-credi
+  📝 Queued: rbi-revises-aifi-credit-directions-for-p
+  📝 Queued: rbi-revises-nbfc-credit-directions-for-p
+  📝 Queued: rbi-revises-small-finance-bank-credit-di
+  📝 Queued: rbi-revises-commercial-bank-credit-direc
+  📝 Queued: resolution-of-stressed-assets-directions
 
 ============================================================
-Done. 15 new items processed.
+Done. 27 new items processed.
 ============================================================
 
