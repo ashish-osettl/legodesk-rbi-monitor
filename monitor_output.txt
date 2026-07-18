@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 17 Jul 2026 05:35 UTC
+RBI Monitor v2 — 18 Jul 2026 05:18 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 7 items
   ✅ Google News: RBI Fair Practices Code collections: 3 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,48 +18,47 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 27
+Total items fetched: 170
+New lender-relevant items (deduplicated): 26
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 101 column 28 (char 9495)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 10014)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-bars-banks-from-selling-stressed-ass
+  📝 Queued: rbi-tightens-governance-norms-for-lender
   📝 Queued: rbi-s-new-snfa-rules-banks-barred-from-s
-  📝 Queued: rbi-proposes-board-led-data-governance-f
-  📝 Queued: bt-explainer-when-banks-can-seize-proper
-  📝 Queued: rbi-amends-bank-board-governance-norms-n
-  📝 Queued: rbi-bars-banks-nbfcs-from-selling-acquir
-  📝 Queued: raising-bank-stakes-gets-easier-for-diis
-  📝 Queued: rbi-bars-banks-nbfcs-from-selling-stress
-  📝 Queued: rbi-bars-lenders-from-selling-stressed-a
-  📝 Queued: rbi-clears-multi-unit-project-funding-by
-  📝 Queued: rbi-directs-banks-not-to-recognise-unrea
-  📝 Queued: no-foreclosure-charges-on-floating-rate-
-  📝 Queued: rbi-bars-banks-from-selling-recovered-as
-  📝 Queued: south-indian-bank-q1-fy27-profit-jumps-1
-  📝 Queued: rbi-proposes-one-time-approval-for-mfs-i
-  📝 Queued: rbi-introduces-prudential-framework-for-
-  📝 Queued: rbi-gives-banks-7-years-to-sell-properti
-  📝 Queued: rbi-rejects-lenders-bid-to-acquire-pre-n
-  📝 Queued: rbi-sets-seven-year-deadline-for-banks-t
-  📝 Queued: when-recovery-becomes-harassment-my-orde
-  📝 Queued: new-fema-compounding-framework-shift-fro
-  📝 Queued: rbi-revises-urban-cooperative-bank-credi
-  📝 Queued: rbi-revises-aifi-credit-directions-for-p
-  📝 Queued: rbi-revises-nbfc-credit-directions-for-p
-  📝 Queued: rbi-revises-small-finance-bank-credit-di
-  📝 Queued: rbi-revises-commercial-bank-credit-direc
-  📝 Queued: resolution-of-stressed-assets-directions
+  📝 Queued: rbi-s-new-prudential-framework-for-speci
+  📝 Queued: rbi-caps-holding-period-for-immovable-as
+  📝 Queued: rbi-issues-fifth-amendment-to-commercial
+  📝 Queued: rbi-prevents-bank-nbfcs-from-selling-acq
+  📝 Queued: rbi-bars-banks-from-selling-seized-asset
+  📝 Queued: banks-barred-from-selling-recovered-immo
+  📝 Queued: rbi-amends-local-area-bank-income-recogn
+  📝 Queued: rbi-amends-rrb-income-recognition-rules-
+  📝 Queued: rbi-revises-snfa-income-recognition-rule
+  📝 Queued: rbi-revises-income-recognition-rules-for
+  📝 Queued: rbi-prescribes-income-recognition-norms-
+  📝 Queued: rbi-prescribes-snfa-income-recognition-n
+  📝 Queued: rbi-revises-snfa-income-recognition-norm
+  📝 Queued: rbi-prescribes-snfa-income-recognition-r
+  📝 Queued: rbi-introduces-snfa-prudential-norms-for
+  📝 Queued: rbi-introduces-snfa-prudential-framework
+  📝 Queued: rbi-issues-snfa-prudential-norms-for-rur
+  📝 Queued: rbi-prescribes-snfa-prudential-norms-for
+  📝 Queued: rbi-introduces-prudential-norms-for-nbfc
+  📝 Queued: rbi-prescribes-prudential-norms-for-snfa
+  📝 Queued: rbi-introduces-prudential-norms-for-spec
+  📝 Queued: rbi-governance-amendment-directions-on-m
+  📝 Queued: rbi-draft-amendment-directions-acquisiti
+  📝 Queued: rbi-resolution-of-stressed-assets-direct
 
 ============================================================
-Done. 27 new items processed.
+Done. 26 new items processed.
 ============================================================
 
