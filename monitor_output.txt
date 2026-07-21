@@ -1,53 +1,46 @@
 
 ============================================================
-RBI Monitor v2 — 20 Jul 2026 06:10 UTC
+RBI Monitor v2 — 21 Jul 2026 05:43 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 8 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 9 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 7 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 179
-New lender-relevant items (deduplicated): 15
+Total items fetched: 74
+New lender-relevant items (deduplicated): 8
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 112 column 3 (char 9958)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 113 column 15 (char 9417)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-bars-lenders-from-selling-stressed-a
-  📝 Queued: hdfc-bank-nyse-hdb-gains-rbi-approval-fo
-  📝 Queued: rbi-caps-holding-period-for-immovable-as
-  📝 Queued: rbi-cracks-down-on-nashik-s-co-op-bank-c
-  📝 Queued: axis-bank-appoints-ex-bandhan-bank-cfo-r
-  📝 Queued: axis-bank-weighs-raising-stake-in-its-in
-  📝 Queued: rbi-bars-banks-from-selling-recovered-as
-  📝 Queued: axis-bank-evaluates-raising-stake-in-max
-  📝 Queued: punjab-sind-bank-posts-23-profit-jump-to
-  📝 Queued: rbi-imposes-monetary-penalty-on-avail-fi
-  📝 Queued: rbi-imposes-monetary-penalty-on-muthoot-
-  📝 Queued: rbi-imposes-monetary-penalty-on-pan-emam
-  📝 Queued: rbi-imposes-monetary-penalty-on-satya-mi
-  📝 Queued: rbi-imposes-monetary-penalty-on-dhani-lo
-  📝 Queued: rbi-issues-amendment-directions-on-gover
+  📝 Queued: hdfc-bank-nyse-hdb-reports-190-6b-profit
+  📝 Queued: axis-bank-weighs-raising-max-life-stake-
+  📝 Queued: axis-bank-appoints-rajeev-mantri-as-chie
+  📝 Queued: hdfc-bank-q1-profit-rises-5-to-19-060-cr
+  📝 Queued: utkarsh-small-finance-bank-to-meet-july-
+  📝 Queued: what-happens-after-bank-takes-over-your-
+  📝 Queued: resolution-of-stressed-assets-directions
+  📝 Queued: penalties-on-non-banking-financial-compa
 
 ============================================================
-Done. 15 new items processed.
+Done. 8 new items processed.
 ============================================================
 
