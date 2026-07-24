@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 23 Jul 2026 05:48 UTC
+RBI Monitor v2 — 24 Jul 2026 05:43 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 8 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,32 +20,38 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 4 RBI items found
 
-Total items fetched: 175
-New lender-relevant items (deduplicated): 13
+Total items fetched: 176
+New lender-relevant items (deduplicated): 19
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 10054)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9755)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rethinking-open-offer-financing-the-impa
-  📝 Queued: india-central-bank-proposes-wider-test-f
+  📝 Queued: rbi-tightens-screws-on-five-co-op-banks-
+  📝 Queued: device-locking-in-digital-lending-welcom
+  📝 Queued: three-co-op-banks-penalized-heavy-fine-o
+  📝 Queued: utkarsh-small-finance-bank-to-redeem-195
+  📝 Queued: icici-bank-nyse-ibn-plans-agm-executive-
+  📝 Queued: personal-loan-vs-gold-loan-for-emergenci
+  📝 Queued: rbi-slaps-penalties-on-multiple-cooperat
+  📝 Queued: uco-bank-continues-rupee-trade-for-iran-
+  📝 Queued: sbi-cbo-2026-notification-soon-expected-
+  📝 Queued: sg-finserve-launches-digital-lending-sol
+  📝 Queued: ucb-npas-fall-to-rs-21-769-crore-state-c
   📝 Queued: gross-npas-of-scheduled-commercial-banks
-  📝 Queued: icici-bank-nyse-ibn-posts-15-440-cr-q1-2
-  📝 Queued: hdfc-bank-financial-results-for-the-quar
-  📝 Queued: npas-of-banks-decline-to-1-73-in-march-2
-  📝 Queued: saturday-bank-holiday-are-banks-open-or-
-  📝 Queued: ebixcash-world-money-becomes-first-non-b
-  📝 Queued: axis-bank-names-rajeev-mantri-as-chief-f
-  📝 Queued: rbi-issues-amendment-directions-on-matte
-  📝 Queued: rbi-invites-comments-on-draft-amendment-
-  📝 Queued: rbi-issues-final-directions-on-specified
-  📝 Queued: rbi-directs-banks-not-to-recognise-unrea
+  📝 Queued: punjab-sind-bank-targets-rs-1-000-crore-
+  📝 Queued: punjab-sind-bank-targets-1-000-cr-recove
+  📝 Queued: rbi-fines-bandhan-bank-41-8-lakh-muthoot
+  📝 Queued: commercial-banks-income-recognition-asse
+  📝 Queued: commercial-banks-resolution-of-stressed-
+  📝 Queued: muthoot-finance-limited-penalty-order-fo
+  📝 Queued: avail-financial-services-limited-penalty
 
 ============================================================
-Done. 13 new items processed.
+Done. 19 new items processed.
 ============================================================
 
