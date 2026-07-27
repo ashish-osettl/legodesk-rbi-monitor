@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 26 Jul 2026 05:54 UTC
+RBI Monitor v2 — 27 Jul 2026 06:22 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 36 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 9 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 38 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 7 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -18,25 +18,25 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 154
+Total items fetched: 152
 New lender-relevant items (deduplicated): 6
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9460)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 103 column 18 (char 9294)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: saturday-bank-holiday-are-banks-open-or-
-  📝 Queued: rbi-asks-banks-to-sell-immovable-assets-
-  📝 Queued: rikhav-securities-publishes-open-offer-i
-  📝 Queued: rbi-penalty-on-muthoot-finance-limited-k
-  📝 Queued: rbi-penalty-on-avail-financial-services-
-  📝 Queued: rbi-penalty-on-united-puri-nimapara-cent
+  📝 Queued: rbi-extends-restrictions-on-two-cooperat
+  📝 Queued: bank-of-maharashtra-accepts-resignation-
+  📝 Queued: kotak-mahindra-bank-says-subsidiary-kmil
+  📝 Queued: explained-rbi-s-new-property-seizure-rul
+  📝 Queued: one-rulebook-two-nbfcs-making-sense-of-r
+  📝 Queued: penalties-on-nbfcs-for-kyc-and-governanc
 
 ============================================================
 Done. 6 new items processed.
