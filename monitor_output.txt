@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 27 Jul 2026 06:22 UTC
+RBI Monitor v2 — 28 Jul 2026 05:40 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 38 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 41 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 7 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,27 +18,35 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
-Total items fetched: 152
-New lender-relevant items (deduplicated): 6
+Total items fetched: 155
+New lender-relevant items (deduplicated): 14
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 103 column 18 (char 9294)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 106 column 11 (char 10226)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-extends-restrictions-on-two-cooperat
-  📝 Queued: bank-of-maharashtra-accepts-resignation-
-  📝 Queued: kotak-mahindra-bank-says-subsidiary-kmil
-  📝 Queued: explained-rbi-s-new-property-seizure-rul
-  📝 Queued: one-rulebook-two-nbfcs-making-sense-of-r
-  📝 Queued: penalties-on-nbfcs-for-kyc-and-governanc
+  📝 Queued: public-funds-and-mandatory-listing-navig
+  📝 Queued: fig-paper-no-61-rbi-s-draft-data-governa
+  📝 Queued: no-proposal-for-one-time-loan-waiver-of-
+  📝 Queued: hdfc-bank-board-sends-warning-letters-an
+  📝 Queued: hdfc-bank-nyse-hdb-wraps-msrdc-internal-
+  📝 Queued: hdfc-bank-penalises-md-cfo-group-head-rs
+  📝 Queued: no-proposal-for-one-time-waiver-of-loans
+  📝 Queued: hdfc-bank-board-finds-business-overreach
+  📝 Queued: bank-of-baroda-faces-unverified-dark-web
+  📝 Queued: hdfc-bank-penalizes-ceo-cfo-1-lakh-over-
+  📝 Queued: hdfc-bank-penalises-ceo-sashidhar-jagdis
+  📝 Queued: gross-npas-of-scheduled-commercial-banks
+  📝 Queued: monetary-penalty-on-bank-of-baroda-and-g
+  📝 Queued: monetary-penalties-on-cooperative-banks
 
 ============================================================
-Done. 6 new items processed.
+Done. 14 new items processed.
 ============================================================
 
