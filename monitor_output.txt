@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 29 Jul 2026 05:45 UTC
+RBI Monitor v2 — 30 Jul 2026 05:33 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 35 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 43 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
@@ -18,26 +18,38 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 143
-New lender-relevant items (deduplicated): 5
+Total items fetched: 148
+New lender-relevant items (deduplicated): 17
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 77 column 18 (char 9941)
+  ⚠️  AI analysis failed: HTTP Error 400: Bad Request
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: india-court-orders-winding-up-of-paytm-p
-  📝 Queued: government-says-no-proposal-under-consid
-  📝 Queued: nearly-90-of-locker-theft-incidents-in-p
-  📝 Queued: 29-july-current-affairs-paytm-payments-b
-  📝 Queued: paytm-payments-bank-shut-down-what-happe
+  📝 Queued: delhi-hc-orders-closure-of-paytm-payment
+  📝 Queued: private-banks-collect-rs-4-949-crore-in-
+  📝 Queued: delhi-high-court-orders-winding-up-of-pa
+  📝 Queued: bank-of-baroda-breach-triplex-dumps-1-tb
+  📝 Queued: no-proposal-for-one-time-waiver-of-loans
+  📝 Queued: dhanlaxmi-bank-re-appoints-rajan-sleeba-
+  📝 Queued: bank-of-maharashtra-accepts-cco-uma-vedu
+  📝 Queued: rise-in-loan-recovery-harassment-complai
+  📝 Queued: dhanlaxmi-bank-q1fy27-net-profit-doubles
+  📝 Queued: rbi-imposes-1-lakh-penalty-on-co-operati
+  📝 Queued: private-banks-collect-11-000-crore-in-ba
+  📝 Queued: bank-of-baroda-faces-unverified-dark-web
+  📝 Queued: hdfc-bank-penalizes-ceo-cfo-1-lakh-over-
+  📝 Queued: bank-locker-thefts-liability-capped-at-1
+  📝 Queued: delhi-hc-orders-paytm-payments-bank-wind
+  📝 Queued: rbi-bars-banks-from-bundling-insurance-d
+  📝 Queued: govt-notifies-new-fema-compounding-rules
 
 ============================================================
-Done. 5 new items processed.
+Done. 17 new items processed.
 ============================================================
 
