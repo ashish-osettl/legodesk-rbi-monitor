@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 31 Jul 2026 06:05 UTC
+RBI Monitor v2 — 01 Aug 2026 05:49 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 63 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -18,13 +18,13 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ⚠️  Claude web search: HTTP Error 400: Bad Request
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 159
-New lender-relevant items (deduplicated): 25
+Total items fetched: 167
+New lender-relevant items (deduplicated): 18
 
 Running AI analysis...
-  ⚠️  AI analysis failed: HTTP Error 400: Bad Request
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9747)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
@@ -32,32 +32,25 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: rbi-allows-banks-to-offer-differential-r
-  📝 Queued: banks-given-more-flexibility-to-price-bu
-  📝 Queued: paytm-payments-bank-operations-will-be-w
+  📝 Queued: explainer-what-the-rbi-s-new-banking-ame
   📝 Queued: banking-smses-are-quietly-slipping-off-t
-  📝 Queued: rbi-issues-revised-basel-pillar-3-disclo
-  📝 Queued: bank-holidays-in-august-sbi-hdfc-other-l
+  📝 Queued: india-s-rbi-allows-differential-rates-on
   📝 Queued: no-proposal-for-one-time-waiver-of-loans
-  📝 Queued: rise-in-loan-recovery-harassment-complai
-  📝 Queued: delhi-high-court-orders-winding-up-of-pa
-  📝 Queued: hdfc-bank-axis-bank-collect-highest-pena
-  📝 Queued: 29-july-current-affairs-paytm-payments-b
-  📝 Queued: the-future-of-personal-loans-is-pay-for-
+  📝 Queued: rbi-issues-second-amendment-directions-f
   📝 Queued: rbi-s-new-bulk-deposit-pricing-rules-wha
-  📝 Queued: banks-may-get-selective-on-property-sett
-  📝 Queued: public-sector-banks-report-zero-locker-t
-  📝 Queued: rbi-s-new-fd-rule-from-october-will-bank
-  📝 Queued: bank-locker-thefts-liability-capped-at-1
-  📝 Queued: ipl-2-fema-case-most-penalties-against-b
-  📝 Queued: bank-attachment-valid-where-transactions
-  📝 Queued: safema-upholds-pmla-attachment-in-gold-l
-  📝 Queued: safema-refuses-to-enhance-fema-penalty-o
-  📝 Queued: safema-deletes-fema-penalty-on-technical
-  📝 Queued: safema-tribunal-rejects-vicarious-liabil
-  📝 Queued: safema-tribunal-quashes-fema-penalties-i
-  📝 Queued: safema-tribunal-refuses-to-confiscate-ta
+  📝 Queued: bank-deposits-to-be-governed-by-new-rbi-
+  📝 Queued: rbi-finalises-new-deposit-interest-rate-
+  📝 Queued: rbi-releases-64-consolidated-directions-
+  📝 Queued: rbi-introduces-new-bank-deposit-rules-fr
+  📝 Queued: rbi-consolidates-rules-628-circulars-rep
+  📝 Queued: rbi-directs-banks-in-border-districts-to
+  📝 Queued: rbi-asks-banks-to-identify-counterfeit-c
+  📝 Queued: rbi-allows-variable-interest-rates-on-bu
+  📝 Queued: hdfc-bank-governance-review-1-lakh-penal
+  📝 Queued: safema-tribunal-upholds-1-25-crore-pmla-
+  📝 Queued: reserve-bank-of-india-commercial-banks-i
 
 ============================================================
-Done. 25 new items processed.
+Done. 18 new items processed.
 ============================================================
 
