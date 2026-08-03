@@ -1,45 +1,58 @@
 
 ============================================================
-RBI Monitor v2 — 02 Aug 2026 05:50 UTC
+RBI Monitor v2 — 03 Aug 2026 06:14 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 61 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ TaxGuru — RBI: 100 items
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 4 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 70
-New lender-relevant items (deduplicated): 7
+Total items fetched: 155
+New lender-relevant items (deduplicated): 20
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 8895)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9179)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: public-funds-and-mandatory-listing-navig
-  📝 Queued: hc-adjourns-rbi-governance-directions-ca
-  📝 Queued: 29-july-current-affairs-paytm-payments-b
-  📝 Queued: rbi-issues-amendment-directions-on-inter
-  📝 Queued: rbi-imposes-monetary-penalty-on-raigad-d
-  📝 Queued: rbi-imposes-monetary-penalty-on-sangli-d
-  📝 Queued: rbi-imposes-monetary-penalty-on-jilla-sa
+  📝 Queued: rbi-fixed-deposit-rules-changes-could-th
+  📝 Queued: jagsonpal-services-shareholders-approve-
+  📝 Queued: rbi-fixed-deposit-rule-changes-big-updat
+  📝 Queued: hdfc-bank-faces-governance-probes-ceo-re
+  📝 Queued: rbi-revises-commercial-bank-basel-pillar
+  📝 Queued: rbi-amends-commercial-bank-asset-liabili
+  📝 Queued: rbi-amends-commercial-bank-governance-di
+  📝 Queued: rbi-amends-commercial-bank-financial-dis
+  📝 Queued: rbi-amends-payments-bank-governance-dire
+  📝 Queued: rbi-amends-payments-bank-financial-discl
+  📝 Queued: rbi-revises-small-finance-bank-basel-pil
+  📝 Queued: rbi-amends-small-finance-bank-asset-liab
+  📝 Queued: rbi-amends-small-finance-bank-governance
+  📝 Queued: rbi-amends-small-finance-bank-financial-
+  📝 Queued: rbi-amends-commercial-bank-deposit-inter
+  📝 Queued: rbi-amends-small-finance-bank-deposit-in
+  📝 Queued: rbi-amends-regional-rural-bank-deposit-i
+  📝 Queued: rbi-amends-payments-bank-deposit-interes
+  📝 Queued: rbi-amends-local-area-bank-deposit-inter
+  📝 Queued: rbi-amends-ucb-deposit-interest-rate-dis
 
 ============================================================
-Done. 7 new items processed.
+Done. 20 new items processed.
 ============================================================
 
