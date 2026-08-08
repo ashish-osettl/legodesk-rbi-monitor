@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 07 Aug 2026 04:49 UTC
+RBI Monitor v2 — 08 Aug 2026 04:07 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 49 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,44 +18,51 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 5 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
 Total items fetched: 160
-New lender-relevant items (deduplicated): 23
+New lender-relevant items (deduplicated): 30
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9448)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 10147)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: karnataka-hc-defers-hearing-on-rbi-gover
-  📝 Queued: tata-sons-continues-in-rbi-s-nbfc-upper-
+  📝 Queued: rbi-new-loan-recovery-rules-from-2027-ba
   📝 Queued: tata-sons-designated-as-upper-layer-nbfc
-  📝 Queued: rbi-classifies-tata-sons-as-upper-layer-
-  📝 Queued: breaking-supreme-court-directs-rbi-state
-  📝 Queued: rbi-fines-kedarnath-urban-co-op-bank-ind
-  📝 Queued: small-finance-bank-fixed-deposit-new-int
-  📝 Queued: rbi-proposes-higher-housing-loan-limits-
-  📝 Queued: rbi-issues-second-amendment-directions-f
-  📝 Queued: rbi-extends-the-period-of-regulatory-dir
+  📝 Queued: why-rbi-is-rewriting-the-rulebook-for-ru
+  📝 Queued: rbi-proposes-comprehensive-overhaul-of-c
+  📝 Queued: rbi-penalises-kedarnath-urban-co-operati
+  📝 Queued: rbi-proposes-to-bar-most-nbfcs-from-offe
+  📝 Queued: rbi-moves-to-tighten-bank-leverage-norms
+  📝 Queued: rbi-proposes-ban-on-revolving-credit-by-
+  📝 Queued: rbi-changes-loan-recovery-rules-no-haras
   📝 Queued: rbi-released-the-list-of-upper-layer-nbf
   📝 Queued: the-reserve-bank-of-india-has-issued-dra
+  📝 Queued: rbi-grade-b-2027-notification-exam-date-
   📝 Queued: rbi-introduces-new-fd-rules-for-small-fi
-  📝 Queued: sbi-sees-stable-interest-rates-in-fy27-a
-  📝 Queued: business-news-tata-sons-designated-as-up
+  📝 Queued: can-banks-lock-your-phone-for-loan-defau
   📝 Queued: rbi-issued-revised-guidelines-on-the-con
-  📝 Queued: rbi-invites-public-comments-on-draft-on-
-  📝 Queued: rbi-keeps-repo-rate-at-5-25-announces-ma
-  📝 Queued: rbi-penalty-orders-against-bank-of-barod
-  📝 Queued: rbi-consolidated-supervisory-directions-
-  📝 Queued: rbi-amendment-directions-on-local-area-b
-  📝 Queued: rbi-amendment-directions-on-bulk-deposit
-  📝 Queued: rbi-integrated-ombudsman-scheme-revised-
+  📝 Queued: ed-cannot-attach-bona-fide-buyers-accoun
+  📝 Queued: rbi-issues-draft-nbfc-credit-facility-am
+  📝 Queued: rbi-issues-draft-rcb-concentration-risk-
+  📝 Queued: rbi-issues-comprehensive-commercial-bank
+  📝 Queued: rbi-issues-comprehensive-sfb-recovery-ag
+  📝 Queued: rbi-issues-comprehensive-lab-recovery-ag
+  📝 Queued: rbi-issues-comprehensive-rrb-recovery-ag
+  📝 Queued: rbi-issues-comprehensive-ucb-recovery-ag
+  📝 Queued: rbi-issues-comprehensive-rcb-recovery-ag
+  📝 Queued: rbi-issues-comprehensive-aifi-recovery-a
+  📝 Queued: rbi-issues-comprehensive-nbfc-recovery-a
+  📝 Queued: rbi-amends-hfc-directions-to-align-recov
+  📝 Queued: penalty-on-bank-of-baroda-for-fair-pract
+  📝 Queued: penalty-on-gic-housing-finance-for-regul
+  📝 Queued: reserve-bank-integrated-ombudsman-scheme
 
 ============================================================
-Done. 23 new items processed.
+Done. 30 new items processed.
 ============================================================
 
