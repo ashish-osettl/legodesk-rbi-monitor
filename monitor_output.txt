@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 13 Aug 2026 04:46 UTC
+RBI Monitor v2 — 14 Aug 2026 04:43 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
-  ✅ Google News: RBI Fair Practices Code collections: 3 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,39 +20,44 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 4 RBI items found
 
-Total items fetched: 176
-New lender-relevant items (deduplicated): 20
+Total items fetched: 175
+New lender-relevant items (deduplicated): 25
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 9733)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 10197)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-invites-public-comments-on-draft-rul
-  📝 Queued: rbi-revises-loan-recovery-rules-gk-today
-  📝 Queued: rbi-s-new-fd-rules-from-october-1-what-c
-  📝 Queued: banks-to-reveal-loan-rates-every-month-i
-  📝 Queued: banks-write-off-loans-close-to-rs-10-lak
-  📝 Queued: rbi-to-resume-issuing-fresh-licences-for
-  📝 Queued: banks-recovery-agents-must-be-iibf-certi
-  📝 Queued: namco-bank-gets-agm-nod-to-merge-stresse
-  📝 Queued: gold-loans-tamil-nadu-leads-with-4-12-la
-  📝 Queued: purple-finance-approves-rs-5-38-crore-lo
-  📝 Queued: rbi-proposes-unified-interest-rate-rules
-  📝 Queued: state-bank-of-india-targets-20-share-in-
-  📝 Queued: aiboc-uttar-pradesh-unit-seeks-district-
-  📝 Queued: defaulted-on-your-loan-here-s-what-banks
-  📝 Queued: rbi-nbfcs-statutory-audit-directions-202
-  📝 Queued: state-money-lending-laws-inapplicable-to
-  📝 Queued: reserve-bank-of-india-commercial-banks-r
-  📝 Queued: monetary-penalty-on-infinity-fincorp-sol
-  📝 Queued: monetary-penalty-on-namdev-finvest
-  📝 Queued: monetary-penalty-on-bank-of-baroda
+  📝 Queued: rbi-s-draft-revolving-credit-curbs-may-d
+  📝 Queued: rbi-tightens-loan-recovery-norms-new-rul
+  📝 Queued: rbi-proposes-comprehensive-overhaul-of-c
+  📝 Queued: rbi-proposes-common-interest-rate-rules-
+  📝 Queued: bank-boards-need-better-processes-not-ju
+  📝 Queued: rbi-s-loan-pricing-rules-brokerages-deco
+  📝 Queued: nbfcs-bad-gold-loan-fall-to-0-81-from-2-
+  📝 Queued: rbi-proposes-new-interest-rate-rules-for
+  📝 Queued: 86-917-crore-is-lying-unclaimed-with-rbi
+  📝 Queued: rbi-floats-harmonised-interest-rate-rule
+  📝 Queued: rbi-extends-loan-recovery-norms-implemen
+  📝 Queued: bank-fraud-cases-above-1-crore-jump-to-1
+  📝 Queued: bank-account-frozen-over-a-scam-you-didn
+  📝 Queued: rbi-issues-draft-guidelines-to-harmonise
+  📝 Queued: rbi-invites-public-comments-on-new-draft
+  📝 Queued: ai-new-way-of-running-a-bank-rbi-governo
+  📝 Queued: rbi-proposes-leverage-buffer-for-branche
+  📝 Queued: rbi-mulls-common-interest-rate-rules-for
+  📝 Queued: nbfc-gold-loans-continue-near-70-growth-
+  📝 Queued: bank-defaulters-are-bane-to-healthy-econ
+  📝 Queued: rbi-slaps-12-lakh-penalty-on-3-nbfcs-for
+  📝 Queued: rbi-extends-recovery-norms-deadline-and-
+  📝 Queued: rbi-imposes-penalties-on-bank-of-baroda-
+  📝 Queued: rbi-monetary-penalty-on-infinity-fincorp
+  📝 Queued: rbi-monetary-penalty-on-namdev-finvest-l
 
 ============================================================
-Done. 20 new items processed.
+Done. 25 new items processed.
 ============================================================
 
