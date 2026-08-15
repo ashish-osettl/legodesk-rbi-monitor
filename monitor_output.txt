@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 14 Aug 2026 04:43 UTC
+RBI Monitor v2 — 15 Aug 2026 03:32 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 5 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,46 +18,44 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 4 RBI items found
+  ✅ Claude web search: 2 RBI items found
 
 Total items fetched: 175
-New lender-relevant items (deduplicated): 25
+New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 10197)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 10065)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-s-draft-revolving-credit-curbs-may-d
   📝 Queued: rbi-tightens-loan-recovery-norms-new-rul
-  📝 Queued: rbi-proposes-comprehensive-overhaul-of-c
-  📝 Queued: rbi-proposes-common-interest-rate-rules-
+  📝 Queued: rbi-revives-licensing-for-urban-cooperat
+  📝 Queued: small-finance-banks-make-representations
   📝 Queued: bank-boards-need-better-processes-not-ju
-  📝 Queued: rbi-s-loan-pricing-rules-brokerages-deco
-  📝 Queued: nbfcs-bad-gold-loan-fall-to-0-81-from-2-
-  📝 Queued: rbi-proposes-new-interest-rate-rules-for
-  📝 Queued: 86-917-crore-is-lying-unclaimed-with-rbi
-  📝 Queued: rbi-floats-harmonised-interest-rate-rule
-  📝 Queued: rbi-extends-loan-recovery-norms-implemen
-  📝 Queued: bank-fraud-cases-above-1-crore-jump-to-1
-  📝 Queued: bank-account-frozen-over-a-scam-you-didn
-  📝 Queued: rbi-issues-draft-guidelines-to-harmonise
-  📝 Queued: rbi-invites-public-comments-on-new-draft
-  📝 Queued: ai-new-way-of-running-a-bank-rbi-governo
-  📝 Queued: rbi-proposes-leverage-buffer-for-branche
-  📝 Queued: rbi-mulls-common-interest-rate-rules-for
-  📝 Queued: nbfc-gold-loans-continue-near-70-growth-
-  📝 Queued: bank-defaulters-are-bane-to-healthy-econ
-  📝 Queued: rbi-slaps-12-lakh-penalty-on-3-nbfcs-for
-  📝 Queued: rbi-extends-recovery-norms-deadline-and-
-  📝 Queued: rbi-imposes-penalties-on-bank-of-baroda-
-  📝 Queued: rbi-monetary-penalty-on-infinity-fincorp
-  📝 Queued: rbi-monetary-penalty-on-namdev-finvest-l
+  📝 Queued: rbi-slaps-4-30-lakh-penalty-on-bhind-jil
+  📝 Queued: hdfc-bank-mclr-cut-august-2026-who-actua
+  📝 Queued: rbi-slaps-penalty-on-indusind-bank-three
+  📝 Queued: rbi-s-new-loan-rules-experts-explain-fas
+  📝 Queued: best-personal-loan-apps-in-india-2026-to
+  📝 Queued: gold-loan-npas-government-shares-state-w
+  📝 Queued: rbi-fines-indusind-bank-59-2-lakh-for-re
+  📝 Queued: experts-seek-tougher-rbi-penalty-rules-a
+  📝 Queued: indusind-bank-fined-59-20-lakh-by-rbi-fo
+  📝 Queued: rbi-proposes-unified-interest-rate-rules
+  📝 Queued: india-gold-loans-surge-69-as-bad-loans-d
+  📝 Queued: kgbof-and-kgbef-urge-karnataka-grameena-
+  📝 Queued: rbi-imposed-a-fine-of-310-000-on-muthoot
+  📝 Queued: bankers-books-evidence-act-2026
+  📝 Queued: rbi-proposes-revised-leverage-ratio-fram
+  📝 Queued: rbi-proposes-revised-cva-framework-for-c
+  📝 Queued: rbi-proposes-harmonised-interest-rate-fr
+  📝 Queued: rbi-imposes-penalties-on-indusind-bank-a
+  📝 Queued: rbi-imposes-penalties-on-three-nbfcs-for
 
 ============================================================
-Done. 25 new items processed.
+Done. 23 new items processed.
 ============================================================
 
