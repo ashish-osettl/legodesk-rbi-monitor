@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 15 Aug 2026 03:32 UTC
+RBI Monitor v2 — 16 Aug 2026 03:42 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 5 items
 
 Fetching aggregator RSS feeds...
@@ -18,44 +18,40 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 6 RBI items found
 
-Total items fetched: 175
-New lender-relevant items (deduplicated): 23
+Total items fetched: 173
+New lender-relevant items (deduplicated): 19
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 28 (char 10065)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 10080)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-tightens-loan-recovery-norms-new-rul
+  📝 Queued: rbi-invites-public-comments-on-draft-rul
   📝 Queued: rbi-revives-licensing-for-urban-cooperat
+  📝 Queued: banks-to-reveal-loan-rates-every-month-i
   📝 Queued: small-finance-banks-make-representations
-  📝 Queued: bank-boards-need-better-processes-not-ju
-  📝 Queued: rbi-slaps-4-30-lakh-penalty-on-bhind-jil
-  📝 Queued: hdfc-bank-mclr-cut-august-2026-who-actua
-  📝 Queued: rbi-slaps-penalty-on-indusind-bank-three
+  📝 Queued: rbi-s-loan-pricing-rules-brokerages-deco
+  📝 Queued: smartphone-to-be-locked-for-missed-emi-r
   📝 Queued: rbi-s-new-loan-rules-experts-explain-fas
   📝 Queued: best-personal-loan-apps-in-india-2026-to
   📝 Queued: gold-loan-npas-government-shares-state-w
+  📝 Queued: rbi-governor-sanjay-malhotra-sets-out-ai
   📝 Queued: rbi-fines-indusind-bank-59-2-lakh-for-re
-  📝 Queued: experts-seek-tougher-rbi-penalty-rules-a
-  📝 Queued: indusind-bank-fined-59-20-lakh-by-rbi-fo
-  📝 Queued: rbi-proposes-unified-interest-rate-rules
-  📝 Queued: india-gold-loans-surge-69-as-bad-loans-d
-  📝 Queued: kgbof-and-kgbef-urge-karnataka-grameena-
-  📝 Queued: rbi-imposed-a-fine-of-310-000-on-muthoot
-  📝 Queued: bankers-books-evidence-act-2026
-  📝 Queued: rbi-proposes-revised-leverage-ratio-fram
-  📝 Queued: rbi-proposes-revised-cva-framework-for-c
-  📝 Queued: rbi-proposes-harmonised-interest-rate-fr
-  📝 Queued: rbi-imposes-penalties-on-indusind-bank-a
-  📝 Queued: rbi-imposes-penalties-on-three-nbfcs-for
+  📝 Queued: bank-holiday-august-15-are-banks-open-or
+  📝 Queued: rbi-invites-public-comments-on-new-draft
+  📝 Queued: rbi-consolidated-supervisory-directions-
+  📝 Queued: rbi-penalty-on-indusind-bank-and-three-n
+  📝 Queued: rbi-penalty-orders-on-bank-of-baroda-and
+  📝 Queued: rbi-penalty-orders-on-three-nbfcs-august
+  📝 Queued: rbi-deposit-rates-and-bulk-deposit-discl
+  📝 Queued: rbi-commercial-banks-responsible-busines
 
 ============================================================
-Done. 23 new items processed.
+Done. 19 new items processed.
 ============================================================
 
