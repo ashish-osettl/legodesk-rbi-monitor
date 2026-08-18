@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 17 Aug 2026 03:43 UTC
+RBI Monitor v2 — 18 Aug 2026 03:38 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,33 +20,38 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 5 RBI items found
 
-Total items fetched: 163
-New lender-relevant items (deduplicated): 14
+Total items fetched: 171
+New lender-relevant items (deduplicated): 19
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 85 column 18 (char 10001)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 97 column 291 (char 9936)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-slaps-penalty-on-indusind-bank-three
-  📝 Queued: rbi-revives-licensing-for-urban-cooperat
-  📝 Queued: nbfcs-seek-rbi-rethink-on-revolving-cred
-  📝 Queued: govt-in-talks-with-banks-to-cut-kisan-cr
-  📝 Queued: small-finance-banks-seek-rbi-nod-to-join
-  📝 Queued: rbi-issues-draft-guidelines-to-harmonise
-  📝 Queued: nbfcs-urge-rbi-to-rethink-revolving-cred
-  📝 Queued: pfrda-grade-a-cut-off-2026-check-cut-off
-  📝 Queued: rbi-s-loan-pricing-reforms-reading-the-f
-  📝 Queued: rbi-imposes-monetary-penalty-on-fusion-f
-  📝 Queued: rbi-imposes-monetary-penalty-on-indusind
-  📝 Queued: rbi-imposes-monetary-penalty-on-northern
-  📝 Queued: rbi-imposes-monetary-penalty-on-muthoot-
+  📝 Queued: fidc-to-flag-nbfc-concerns-over-rbi-s-pr
+  📝 Queued: rbi-seeks-nbfc-feedback-on-revolving-cre
+  📝 Queued: rbi-cybersecurity-compliance-in-2026-why
+  📝 Queued: indian-banks-fast-track-dollar-fundraisi
+  📝 Queued: reserve-bank-of-india-in-news-2026-lates
+  📝 Queued: smartphone-to-be-locked-for-missed-emi-r
+  📝 Queued: rbi-loan-recovery-rules-2027-what-recove
+  📝 Queued: yes-bank-makes-bond-market-comeback-year
+  📝 Queued: supreme-court-tightens-grip-on-digital-a
+  📝 Queued: burnpur-cement-secures-uv-arc-approval-f
+  📝 Queued: reserve-bank-of-india-imposes-monetary-p
+  📝 Queued: kgbof-and-kgbef-urge-karnataka-grameena-
+  📝 Queued: india-s-bank-npas-at-record-low-what-wil
+  📝 Queued: rbi-slaps-71-20-lakh-penalty-on-indusind
+  📝 Queued: rbi-commercial-banks-responsible-busines
   📝 Queued: rbi-non-banking-financial-companies-resp
+  📝 Queued: rbi-penalty-order-on-indusind-bank-fusio
+  📝 Queued: rbi-draft-directions-on-harmonised-inter
+  📝 Queued: rbi-penalty-order-on-valuefin-india-cred
 
 ============================================================
-Done. 14 new items processed.
+Done. 19 new items processed.
 ============================================================
 
