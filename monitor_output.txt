@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 19 Aug 2026 03:40 UTC
+RBI Monitor v2 — 20 Aug 2026 03:40 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 44 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,31 +20,42 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 3 RBI items found
 
-Total items fetched: 154
-New lender-relevant items (deduplicated): 12
+Total items fetched: 163
+New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting ',' delimiter: line 107 column 109 (char 9827)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 100 column 9 (char 10010)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-guidelines-and-regulations-on-cybers
-  📝 Queued: personal-loan-prepayment-charges-what-rb
-  📝 Queued: india-s-central-bank-intervenes-across-m
-  📝 Queued: personal-loan-prepayment-in-2026-underst
-  📝 Queued: icici-bank-ends-hdfc-bank-s-3-year-run-a
-  📝 Queued: paul-merchants-finance-launches-loan-aga
   📝 Queued: rbi-seeks-nbfc-feedback-on-revolving-cre
-  📝 Queued: northern-arc-capital-authorizes-rs-5-000
-  📝 Queued: fema-put-options-foreign-award-enforceme
-  📝 Queued: reserve-bank-of-india-imposes-monetary-p
-  📝 Queued: rbi-amendment-directions-on-responsible-
-  📝 Queued: rbi-imposes-monetary-penalty-on-bank-of-
+  📝 Queued: rbi-cybersecurity-compliance-in-2026-why
+  📝 Queued: rbi-guidelines-and-regulations-on-cybers
+  📝 Queued: lic-gets-rbi-nod-to-raise-hdfc-bank-hold
+  📝 Queued: personal-loan-prepayment-charges-what-rb
+  📝 Queued: lic-receives-rbi-nod-to-raise-hdfc-bank-
+  📝 Queued: lic-gets-rbi-approval-to-raise-stake-in-
+  📝 Queued: rbi-approves-lic-acquisition-of-up-to-9-
+  📝 Queued: new-rbi-loan-rules-from-2027-how-home-pe
+  📝 Queued: rbi-loan-recovery-rules-2027-what-recove
+  📝 Queued: dhanlaxmi-bank-approves-esop-2025-for-up
+  📝 Queued: nbfcs-seek-rbi-rethink-on-revolving-cred
+  📝 Queued: latest-sbi-fd-interest-rates-state-bank-
+  📝 Queued: lic-gets-rbi-nod-to-raise-hdfc-bank-stak
+  📝 Queued: hdfc-bank-rbi-approves-lic-s-stake-incre
+  📝 Queued: hdfc-bank-lic-shares-in-focus-as-rbi-app
+  📝 Queued: rbi-drafts-new-lending-rules-impact-on-b
+  📝 Queued: hdfc-bank-faces-scrutiny-over-rs-1-200-f
+  📝 Queued: life-insurance-corporation-of-india-gain
+  📝 Queued: bank-of-baroda-penalised-2-15-lakh-for-c
+  📝 Queued: rbi-imposes-monetary-penalty-on-indusind
+  📝 Queued: rbi-imposes-monetary-penalty-on-northern
+  📝 Queued: rbi-imposes-monetary-penalty-on-fusion-f
 
 ============================================================
-Done. 12 new items processed.
+Done. 23 new items processed.
 ============================================================
 
