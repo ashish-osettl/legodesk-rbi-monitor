@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 20 Aug 2026 03:40 UTC
+RBI Monitor v2 — 21 Aug 2026 03:44 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 44 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -18,42 +18,42 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 5 RBI items found
 
-Total items fetched: 163
+Total items fetched: 158
 New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 100 column 9 (char 10010)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 113 column 15 (char 9449)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-seeks-nbfc-feedback-on-revolving-cre
-  📝 Queued: rbi-cybersecurity-compliance-in-2026-why
-  📝 Queued: rbi-guidelines-and-regulations-on-cybers
-  📝 Queued: lic-gets-rbi-nod-to-raise-hdfc-bank-hold
-  📝 Queued: personal-loan-prepayment-charges-what-rb
+  📝 Queued: rbi-seeks-nbfc-feedback-on-draft-rules-f
+  📝 Queued: rbi-draft-rules-may-hit-nbfc-lending-pir
+  📝 Queued: rbi-clears-bigger-lic-stake-in-hdfc-bank
+  📝 Queued: rbi-grants-approval-to-lic-for-raising-s
+  📝 Queued: rbi-allows-lic-to-raise-stake-in-hdfc-ba
   📝 Queued: lic-receives-rbi-nod-to-raise-hdfc-bank-
-  📝 Queued: lic-gets-rbi-approval-to-raise-stake-in-
-  📝 Queued: rbi-approves-lic-acquisition-of-up-to-9-
-  📝 Queued: new-rbi-loan-rules-from-2027-how-home-pe
-  📝 Queued: rbi-loan-recovery-rules-2027-what-recove
-  📝 Queued: dhanlaxmi-bank-approves-esop-2025-for-up
-  📝 Queued: nbfcs-seek-rbi-rethink-on-revolving-cred
-  📝 Queued: latest-sbi-fd-interest-rates-state-bank-
+  📝 Queued: hdfc-bank-shares-advance-1-as-rbi-approv
+  📝 Queued: hdfc-bank-shares-rise-snap-2-day-fall-li
+  📝 Queued: lic-gets-rbi-nod-to-hike-hdfc-bank-holdi
+  📝 Queued: rbi-clears-lic-to-raise-hdfc-bank-stake-
   📝 Queued: lic-gets-rbi-nod-to-raise-hdfc-bank-stak
-  📝 Queued: hdfc-bank-rbi-approves-lic-s-stake-incre
-  📝 Queued: hdfc-bank-lic-shares-in-focus-as-rbi-app
-  📝 Queued: rbi-drafts-new-lending-rules-impact-on-b
-  📝 Queued: hdfc-bank-faces-scrutiny-over-rs-1-200-f
-  📝 Queued: life-insurance-corporation-of-india-gain
-  📝 Queued: bank-of-baroda-penalised-2-15-lakh-for-c
-  📝 Queued: rbi-imposes-monetary-penalty-on-indusind
+  📝 Queued: fd-rules-changing-from-october-1-2026-un
+  📝 Queued: rbi-approves-lic-stake-hike-in-hdfc-bank
+  📝 Queued: hdfc-bank-share-price-rises-1-after-lic-
+  📝 Queued: hdfc-bank-shares-rise-as-lic-gets-rbi-no
+  📝 Queued: hdfc-bank-rbi-approves-lic-stake-increas
+  📝 Queued: rbi-grants-approval-to-lic-for-acquiring
+  📝 Queued: lic-gets-rbi-s-approval-to-raise-stake-i
+  📝 Queued: bad-loans-at-a-decade-low-but-agricultur
+  📝 Queued: 3-fundamentally-strong-nbfc-stocks-in-in
   📝 Queued: rbi-imposes-monetary-penalty-on-northern
-  📝 Queued: rbi-imposes-monetary-penalty-on-fusion-f
+  📝 Queued: rbi-imposes-monetary-penalty-on-muthoot-
+  📝 Queued: rbi-cancels-certificate-of-registration-
 
 ============================================================
 Done. 23 new items processed.
