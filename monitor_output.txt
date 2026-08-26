@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 25 Aug 2026 03:42 UTC
+RBI Monitor v2 — 26 Aug 2026 03:47 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 6 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,33 +18,35 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 3 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 169
-New lender-relevant items (deduplicated): 12
+Total items fetched: 170
+New lender-relevant items (deduplicated): 14
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 107 column 11 (char 9510)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9804)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-gold-loan-policy-2026-explained-new-
-  📝 Queued: axis-bank-to-redeem-600-million-4-10-add
-  📝 Queued: rbi-tightens-loan-recovery-rules-what-bo
-  📝 Queued: indian-overseas-bank-receives-rs-4-360-c
-  📝 Queued: lic-gets-rbi-approval-to-raise-stake-in-
-  📝 Queued: 741-banks-are-live-on-upi-network-fintec
-  📝 Queued: fd-rules-changing-from-october-1-2026-un
-  📝 Queued: govt-asks-google-to-take-down-firebase-p
-  📝 Queued: rbi-imposes-penalty-on-progfin-shri-ram-
-  📝 Queued: reserve-bank-of-india-responsible-busine
-  📝 Queued: rbi-monetary-penalty-on-indusind-bank-li
-  📝 Queued: rbi-penalty-on-bank-of-baroda-for-fair-p
+  📝 Queued: fig-paper-no-62-vda-series-12-regulating
+  📝 Queued: hdfc-bank-shares-rise-snap-2-day-fall-li
+  📝 Queued: top-20-companies-in-global-digital-lendi
+  📝 Queued: rbi-imposes-5-50-lakh-penalty-on-3-coope
+  📝 Queued: rbi-proposal-to-curb-nbfcs-revolving-cre
+  📝 Queued: hdfc-bank-limited-hdb-investors-securiti
+  📝 Queued: sadbhav-engineering-secures-sbi-icici-ac
+  📝 Queued: rbi-tightens-exposure-rules-for-upper-la
+  📝 Queued: nbfcs-expand-gold-loan-portfolios-despit
+  📝 Queued: rbi-revises-concentration-risk-framework
+  📝 Queued: rbi-cuts-crr-and-slr-exemption-timeline-
+  📝 Queued: rbi-revises-crr-slr-exemption-period-for
+  📝 Queued: rbi-cuts-rrb-crr-and-slr-exemption-deadl
+  📝 Queued: rbi-cuts-crr-slr-exemption-period-for-ru
 
 ============================================================
-Done. 12 new items processed.
+Done. 14 new items processed.
 ============================================================
 
