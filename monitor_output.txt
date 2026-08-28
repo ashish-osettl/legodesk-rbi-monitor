@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 27 Aug 2026 13:36 UTC
+RBI Monitor v2 — 28 Aug 2026 14:47 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 49 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,43 +18,33 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 159
-New lender-relevant items (deduplicated): 22
+Total items fetched: 156
+New lender-relevant items (deduplicated): 12
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 83 column 7 (char 9927)
+  ⚠️  AI analysis failed: Extra data: line 115 column 1 (char 9625)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: reserve-bank-of-india-suggests-new-safet
-  📝 Queued: rbi-s-new-data-rules-force-banks-nbfcs-t
-  📝 Queued: rbi-proposal-to-curb-nbfcs-revolving-cre
-  📝 Queued: rbi-shortens-crr-slr-and-interest-rate-r
-  📝 Queued: draft-foreign-exchange-management-foreig
-  📝 Queued: hdfc-bank-chair-rajiv-kumar-informs-rbi-
-  📝 Queued: hdfc-bank-gets-2-fresh-triggers-12-stock
-  📝 Queued: card91-introduces-five-point-credit-life
+  📝 Queued: press-release-official-website-of-reserv
+  📝 Queued: india-s-rbi-gives-banks-more-flexibility
+  📝 Queued: hdfc-bank-chairman-rajiv-kumar-briefs-rb
+  📝 Queued: rbi-slaps-50-000-penalty-on-jalna-dcc-ba
   📝 Queued: hdfc-bank-faces-class-action-lawsuit-in-
-  📝 Queued: punjab-national-bank-to-host-investor-me
-  📝 Queued: rbi-proposes-new-loan-pricing-rules-to-b
-  📝 Queued: banks-nbfcs-revamp-fintech-deals-to-meet
-  📝 Queued: loans-and-rbi-s-rules-of-fair-recovery-d
+  📝 Queued: how-gold-lending-companies-are-navigatin
+  📝 Queued: fidc-challenges-rbi-proposal-to-ban-nbfc
+  📝 Queued: rbi-draft-norms-on-nbfc-credit-lines-ris
+  📝 Queued: fino-payments-bank-targets-q4-fy27-for-s
+  📝 Queued: cheque-book-new-rule-banks-add-alphanume
   📝 Queued: the-growing-role-of-drt-lawyers-and-debt
-  📝 Queued: rbi-cuts-temporary-deposit-rate-relaxati
-  📝 Queued: rbi-cuts-ucb-deposit-rate-relaxation-per
-  📝 Queued: rbi-shortens-rrb-deposit-interest-rate-r
-  📝 Queued: rbi-shortens-local-area-banks-deposit-ra
-  📝 Queued: rbi-shortens-small-finance-banks-deposit
-  📝 Queued: rbi-shortens-commercial-bank-deposit-rat
-  📝 Queued: calcutta-hc-quashes-npa-classification-o
-  📝 Queued: rbi-draft-securitisation-transactions-am
+  📝 Queued: i-am-a-victim-is-not-enough-without-bank
 
 ============================================================
-Done. 22 new items processed.
+Done. 12 new items processed.
 ============================================================
 
