@@ -1,50 +1,120 @@
 
 ============================================================
-RBI Monitor v2 — 28 Aug 2026 14:47 UTC
+RBI Monitor v2 — 29 Aug 2026 09:38 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
   ✅ Google News: RBI directions banking regulation 2025 2: 49 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 6 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 12
+Total items fetched: 162
+New lender-relevant items (deduplicated): 82
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Extra data: line 115 column 1 (char 9625)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 97 column 29 (char 10068)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
+  📝 Queued: fidc-urges-rbi-to-revisit-proposed-revol
   📝 Queued: press-release-official-website-of-reserv
-  📝 Queued: india-s-rbi-gives-banks-more-flexibility
-  📝 Queued: hdfc-bank-chairman-rajiv-kumar-briefs-rb
-  📝 Queued: rbi-slaps-50-000-penalty-on-jalna-dcc-ba
-  📝 Queued: hdfc-bank-faces-class-action-lawsuit-in-
-  📝 Queued: how-gold-lending-companies-are-navigatin
-  📝 Queued: fidc-challenges-rbi-proposal-to-ban-nbfc
-  📝 Queued: rbi-draft-norms-on-nbfc-credit-lines-ris
-  📝 Queued: fino-payments-bank-targets-q4-fy27-for-s
-  📝 Queued: cheque-book-new-rule-banks-add-alphanume
-  📝 Queued: the-growing-role-of-drt-lawyers-and-debt
-  📝 Queued: i-am-a-victim-is-not-enough-without-bank
+  📝 Queued: rbi-freezes-withdrawals-at-ashok-sahakar
+  📝 Queued: rbi-restricts-desaiganj-co-op-bank-freez
+  📝 Queued: rbi-revises-temporary-interest-rate-rela
+  📝 Queued: indian-banking-stocks-face-price-gaps-af
+  📝 Queued: bank-holiday-today-august-29-2026-check-
+  📝 Queued: fema-rbi-i-am-a-victim-is-not-enough-wit
+  📝 Queued: fema-rbi-rbi-cuts-temporary-deposit-rate
+  📝 Queued: fema-rbi-rbi-cuts-ucb-deposit-rate-relax
+  📝 Queued: fema-rbi-rbi-shortens-rrb-deposit-intere
+  📝 Queued: fema-rbi-rbi-shortens-local-area-banks-d
+  📝 Queued: fema-rbi-rbi-shortens-small-finance-bank
+  📝 Queued: fema-rbi-rbi-shortens-commercial-bank-de
+  📝 Queued: fema-rbi-calcutta-hc-quashes-npa-classif
+  📝 Queued: fema-rbi-rbi-revises-concentration-risk-
+  📝 Queued: fema-rbi-rbi-cuts-crr-and-slr-exemption-
+  📝 Queued: fema-rbi-rbi-revises-crr-slr-exemption-p
+  📝 Queued: fema-rbi-rbi-cuts-rrb-crr-and-slr-exempt
+  📝 Queued: fema-rbi-rbi-cuts-crr-slr-exemption-peri
+  📝 Queued: fema-rbi-rbi-consolidates-nbfc-superviso
+  📝 Queued: fema-rbi-fema-put-options-foreign-award-
+  📝 Queued: fema-rbi-rbi-s-loan-pricing-reforms-read
+  📝 Queued: fema-rbi-bankers-books-evidence-act-2026
+  📝 Queued: fema-rbi-rbi-proposes-revised-leverage-r
+  📝 Queued: fema-rbi-rbi-proposes-revised-cva-framew
+  📝 Queued: fema-rbi-rbi-proposes-harmonised-interes
+  📝 Queued: fema-rbi-rbi-nbfcs-statutory-audit-direc
+  📝 Queued: fema-rbi-state-money-lending-laws-inappl
+  📝 Queued: fema-rbi-rbi-assigns-sbi-lead-bank-respo
+  📝 Queued: fema-rbi-madras-hc-upheld-rbi-ombudsman-
+  📝 Queued: fema-rbi-rbi-fcnr-b-swap-scheme-2026-hig
+  📝 Queued: fema-rbi-rbi-dollar-rupee-forex-swap-sch
+  📝 Queued: fema-rbi-rbi-excludes-eligible-fcnr-b-nr
+  📝 Queued: fema-rbi-ed-cannot-attach-bona-fide-buye
+  📝 Queued: fema-rbi-rbi-issues-draft-nbfc-credit-fa
+  📝 Queued: fema-rbi-rbi-issues-draft-rcb-concentrat
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-commer
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-sfb-re
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-lab-re
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-rrb-re
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-ucb-re
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-rcb-re
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-aifi-r
+  📝 Queued: fema-rbi-rbi-issues-comprehensive-nbfc-r
+  📝 Queued: fema-rbi-rbi-amends-hfc-directions-to-al
+  📝 Queued: fema-rbi-rbi-invites-public-comments-on-
+  📝 Queued: fema-rbi-rbi-keeps-repo-rate-at-5-25-ann
+  📝 Queued: fema-rbi-government-details-financial-fr
+  📝 Queued: fema-rbi-bombay-hc-quashes-wilful-defaul
+  📝 Queued: fema-rbi-bombay-hc-sets-aside-wilful-def
+  📝 Queued: fema-rbi-six-orders-in-ten-days-what-rbi
+  📝 Queued: fema-rbi-rbi-issues-2026-fraud-risk-mana
+  📝 Queued: fema-rbi-rbi-local-area-banks-concurrent
+  📝 Queued: fema-rbi-rbi-local-area-banks-compliance
+  📝 Queued: fema-rbi-rbi-issues-ucb-miscellaneous-su
+  📝 Queued: fema-rbi-rbi-urban-co-operative-banks-su
+  📝 Queued: fema-rbi-rbi-issues-urban-co-operative-b
+  📝 Queued: fema-rbi-rbi-notifies-urban-co-operative
+  📝 Queued: fema-rbi-rbi-issues-cybersecurity-techno
+  📝 Queued: fema-rbi-rbi-issues-payments-banks-misce
+  📝 Queued: fema-rbi-rbi-issues-payments-banks-super
+  📝 Queued: fema-rbi-rbi-notifies-payments-banks-sta
+  📝 Queued: fema-rbi-rbi-issues-payments-banks-inter
+  📝 Queued: fema-rbi-rbi-issues-payments-banks-fraud
+  📝 Queued: fema-rbi-rbi-issues-digital-payment-secu
+  📝 Queued: fema-rbi-rbi-issues-payments-banks-cyber
+  📝 Queued: fema-rbi-rbi-issues-small-finance-banks-
+  📝 Queued: fema-rbi-rbi-issues-nbfc-cybersecurity-a
+  📝 Queued: fema-rbi-rbi-issues-nbfc-compliance-func
+  📝 Queued: fema-rbi-rbi-issues-all-india-financial-
+  📝 Queued: fema-rbi-rbi-issues-cybersecurity-and-te
+  📝 Queued: fema-rbi-rbi-issues-regional-rural-banks
+  📝 Queued: fema-rbi-rbi-issues-rural-co-operative-b
+  📝 Queued: fema-rbi-rbi-issues-local-area-banks-mis
+  📝 Queued: fema-rbi-rbi-directs-banks-to-strengthen
+  📝 Queued: amendment-directions-on-conduct-of-regul
+  📝 Queued: rbi-imposes-monetary-penalty-on-indusind
+  📝 Queued: rbi-imposes-monetary-penalty-on-northern
+  📝 Queued: rbi-imposes-monetary-penalty-on-muthoot-
+  📝 Queued: rbi-imposes-monetary-penalty-on-fusion-f
+  📝 Queued: rbi-imposes-penalties-on-multiple-nbfcs-
 
 ============================================================
-Done. 12 new items processed.
+Done. 82 new items processed.
 ============================================================
 
