@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 30 Aug 2026 08:49 UTC
+RBI Monitor v2 — 31 Aug 2026 09:12 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 44 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 43 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,26 +18,26 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 5 RBI items found
 
-Total items fetched: 153
+Total items fetched: 156
 New lender-relevant items (deduplicated): 7
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting ',' delimiter: line 89 column 171 (char 10096)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9313)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: india-s-nbfc-body-asks-rbi-to-ease-restr
-  📝 Queued: rbi-s-new-data-rules-force-banks-nbfcs-t
-  📝 Queued: j-k-bank-agm-seeks-shareholder-nod-for-1
-  📝 Queued: south-indian-bank-director-mazhuvancheri
+  📝 Queued: rbi-data-governance-draft-redraws-bank-f
   📝 Queued: sashidhar-jagdishan-era-at-hdfc-bank-tra
-  📝 Queued: reserve-bank-of-india-non-banking-financ
-  📝 Queued: penalty-on-bank-of-baroda-and-gic-housin
+  📝 Queued: jefferies-rebalances-india-portfolio-to-
+  📝 Queued: rbi-non-banking-financial-companies-resp
+  📝 Queued: rbi-monetary-penalty-on-fusion-finance-l
+  📝 Queued: rbi-monetary-penalties-on-multiple-nbfcs
+  📝 Queued: rbi-consolidated-master-directions-depar
 
 ============================================================
 Done. 7 new items processed.
