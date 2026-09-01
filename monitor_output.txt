@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 31 Aug 2026 09:12 UTC
+RBI Monitor v2 — 01 Sep 2026 08:11 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 43 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
@@ -18,28 +18,29 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 5 RBI items found
+  ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 7
+Total items fetched: 155
+New lender-relevant items (deduplicated): 8
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 87 column 11 (char 9313)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 111 column 5 (char 8980)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-data-governance-draft-redraws-bank-f
-  📝 Queued: sashidhar-jagdishan-era-at-hdfc-bank-tra
-  📝 Queued: jefferies-rebalances-india-portfolio-to-
-  📝 Queued: rbi-non-banking-financial-companies-resp
-  📝 Queued: rbi-monetary-penalty-on-fusion-finance-l
-  📝 Queued: rbi-monetary-penalties-on-multiple-nbfcs
-  📝 Queued: rbi-consolidated-master-directions-depar
+  📝 Queued: press-release-official-website-of-reserv
+  📝 Queued: draft-foreign-exchange-management-foreig
+  📝 Queued: rbi-data-shows-sharp-rise-in-bank-credit
+  📝 Queued: gold-loan-growth-cools-as-banks-adapt-to
+  📝 Queued: over-40s-hold-76-of-india-s-individual-b
+  📝 Queued: hdfc-bank-faces-class-action-lawsuit-in-
+  📝 Queued: canara-bank-must-pay-full-value-for-stol
+  📝 Queued: reserve-bank-of-india-housing-finance-co
 
 ============================================================
-Done. 7 new items processed.
+Done. 8 new items processed.
 ============================================================
 
