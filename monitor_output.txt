@@ -1,46 +1,50 @@
 
 ============================================================
-RBI Monitor v2 — 03 Sep 2026 07:37 UTC
+RBI Monitor v2 — 04 Sep 2026 07:36 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 25 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 37 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 130
-New lender-relevant items (deduplicated): 8
+Total items fetched: 143
+New lender-relevant items (deduplicated): 12
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9743)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 93 column 6 (char 10101)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: india-s-nbfc-body-asks-rbi-to-ease-restr
-  📝 Queued: why-nbfc-flexi-loans-deserve-a-place-in-
-  📝 Queued: punjab-national-bank-sets-sept-25-egm-to
-  📝 Queued: hdb-alert-hagens-berman-national-trial-a
-  📝 Queued: fusion-finance-turns-profitable-in-q1fy2
+  📝 Queued: rbi-allows-urban-co-op-banks-to-buy-idpi
+  📝 Queued: rbi-imposes-2-23-lakh-penalty-on-2-coope
+  📝 Queued: nbfcs-nudge-rbi-on-trai-s-1600-series-ru
+  📝 Queued: indian-central-bank-steps-up-rupee-suppo
+  📝 Queued: gocredit-launches-free-loan-app-checker-
+  📝 Queued: rbi-resumes-on-tap-urban-co-operative-ba
+  📝 Queued: rbi-sets-5-growth-pillars-for-nbfcs-hfcs
+  📝 Queued: bank-can-invoke-sarfaesi-act-to-recover-
   📝 Queued: msme-borrower-can-t-raise-revival-framew
-  📝 Queued: fema-rbi-rbi-allows-ucbs-to-invest-in-id
-  📝 Queued: reserve-bank-of-india-commercial-banks-c
+  📝 Queued: fema-rbi-five-fema-missteps-that-can-cos
+  📝 Queued: fema-rbi-rbi-dispenses-with-reporting-re
+  📝 Queued: reserve-bank-of-india-responsible-busine
 
 ============================================================
-Done. 8 new items processed.
+Done. 12 new items processed.
 ============================================================
 
