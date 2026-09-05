@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 04 Sep 2026 07:36 UTC
+RBI Monitor v2 — 05 Sep 2026 07:17 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 37 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 42 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -18,33 +18,30 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 143
-New lender-relevant items (deduplicated): 12
+Total items fetched: 152
+New lender-relevant items (deduplicated): 9
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 93 column 6 (char 10101)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 80 column 30 (char 10071)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
   ✅ Email sent to ashish@legodesk.com
 
 Queuing Academy content...
-  📝 Queued: rbi-allows-urban-co-op-banks-to-buy-idpi
-  📝 Queued: rbi-imposes-2-23-lakh-penalty-on-2-coope
+  📝 Queued: revolving-credit-ban-could-affect-more-l
+  📝 Queued: rbi-can-supersede-multi-state-co-operati
+  📝 Queued: how-india-s-rbi-could-tackle-a-liquidity
+  📝 Queued: rbi-imposes-monetary-penalty-on-three-ci
   📝 Queued: nbfcs-nudge-rbi-on-trai-s-1600-series-ru
-  📝 Queued: indian-central-bank-steps-up-rupee-suppo
-  📝 Queued: gocredit-launches-free-loan-app-checker-
-  📝 Queued: rbi-resumes-on-tap-urban-co-operative-ba
-  📝 Queued: rbi-sets-5-growth-pillars-for-nbfcs-hfcs
-  📝 Queued: bank-can-invoke-sarfaesi-act-to-recover-
-  📝 Queued: msme-borrower-can-t-raise-revival-framew
-  📝 Queued: fema-rbi-five-fema-missteps-that-can-cos
-  📝 Queued: fema-rbi-rbi-dispenses-with-reporting-re
-  📝 Queued: reserve-bank-of-india-responsible-busine
+  📝 Queued: post-office-savings-account-posa-interes
+  📝 Queued: pfrda-grade-a-notification-2026-out-for-
+  📝 Queued: supreme-court-allows-banks-to-use-sarfae
+  📝 Queued: rbi-imposed-a-penalty-of-4-20-lakh-on-sa
 
 ============================================================
-Done. 12 new items processed.
+Done. 9 new items processed.
 ============================================================
 
