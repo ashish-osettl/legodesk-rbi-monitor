@@ -1,47 +1,46 @@
 
 ============================================================
-RBI Monitor v2 — 05 Sep 2026 07:17 UTC
+RBI Monitor v2 — 06 Sep 2026 07:30 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 42 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 41 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 3 RBI items found
 
 Total items fetched: 152
-New lender-relevant items (deduplicated): 9
+New lender-relevant items (deduplicated): 8
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 80 column 30 (char 10071)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9633)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ✅ Email sent to ashish@legodesk.com
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-143243bfbe3sm17605078c88.11 - gsmtp')
 
 Queuing Academy content...
-  📝 Queued: revolving-credit-ban-could-affect-more-l
-  📝 Queued: rbi-can-supersede-multi-state-co-operati
-  📝 Queued: how-india-s-rbi-could-tackle-a-liquidity
-  📝 Queued: rbi-imposes-monetary-penalty-on-three-ci
-  📝 Queued: nbfcs-nudge-rbi-on-trai-s-1600-series-ru
-  📝 Queued: post-office-savings-account-posa-interes
-  📝 Queued: pfrda-grade-a-notification-2026-out-for-
-  📝 Queued: supreme-court-allows-banks-to-use-sarfae
-  📝 Queued: rbi-imposed-a-penalty-of-4-20-lakh-on-sa
+  📝 Queued: rbi-imposes-monetary-penalty-on-crif-hig
+  📝 Queued: loan-recovery-calls-nbfcs-seek-rbi-clari
+  📝 Queued: eight-banks-five-months-india-s-biggest-
+  📝 Queued: rbi-imposes-penalties-on-5-firms-over-cr
+  📝 Queued: india-banking-liquidity-hits-10-5-lakh-c
+  📝 Queued: rbi-penalty-order-on-transunion-cibil-li
+  📝 Queued: rbi-penalty-order-on-sammaan-finserve-li
+  📝 Queued: rbi-penalty-order-on-hinduja-leyland-fin
 
 ============================================================
-Done. 9 new items processed.
+Done. 8 new items processed.
 ============================================================
 
