@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 08 Sep 2026 07:41 UTC
+RBI Monitor v2 — 09 Sep 2026 07:45 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -21,33 +21,36 @@ Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
 Total items fetched: 153
-New lender-relevant items (deduplicated): 22
+New lender-relevant items (deduplicated): 25
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Expecting ',' delimiter: line 91 column 8 (char 10035)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 96 column 18 (char 10116)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-7f9f7adfaefsm14265922a34.23 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-7f9f72d3d3csm17010199a34.18 - gsmtp')
 
 Queuing Academy content...
-  📝 Queued: rbi-s-power-to-supersede-multi-state-co-
   📝 Queued: rbi-extends-directions-on-nasik-jilha-ma
   📝 Queued: rbi-allows-urban-co-op-banks-to-buy-idpi
-  📝 Queued: reserve-bank-of-india-suggests-new-safet
+  📝 Queued: rbi-approves-icici-prudential-amc-to-buy
   📝 Queued: rbi-imposes-monetary-penalty-on-equifax-
+  📝 Queued: csb-bank-gets-rbi-nod-for-icici-prudenti
+  📝 Queued: indian-central-bank-likely-intervened-to
   📝 Queued: rbi-extends-regulatory-directions-on-nas
-  📝 Queued: eight-banks-five-months-india-s-biggest-
   📝 Queued: rbi-imposes-monetary-penalty-on-crif-hig
   📝 Queued: loan-recovery-calls-nbfcs-seek-rbi-clari
   📝 Queued: rbi-imposes-monetary-penalty-on-three-ci
+  📝 Queued: eight-banks-five-months-india-s-biggest-
+  📝 Queued: fusion-finance-sells-54-16-crore-stresse
   📝 Queued: csb-bank-appoints-m-p-chitale-co-as-join
-  📝 Queued: small-savings-scheme-interest-rates-for-
   📝 Queued: rbi-imposes-penalties-on-5-firms-over-cr
   📝 Queued: rbi-second-amendment-directions-2026-inv
+  📝 Queued: csb-bank-rbi-approves-9-95-stake-acquisi
   📝 Queued: relaxation-in-timeline-with-respect-to-a
-  📝 Queued: india-banking-liquidity-hits-10-5-lakh-c
+  📝 Queued: dcb-bank-rbi-approves-9-95-stake-acquisi
   📝 Queued: indusind-bank-targets-15-20-microfinance
+  📝 Queued: icici-prudential-asset-management-compan
   📝 Queued: union-finance-ministry-public-sector-ban
   📝 Queued: drt-can-decide-legality-of-sarfaesi-acti
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
@@ -55,6 +58,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 22 new items processed.
+Done. 25 new items processed.
 ============================================================
 
