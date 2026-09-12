@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 11 Sep 2026 07:40 UTC
+RBI Monitor v2 — 12 Sep 2026 07:34 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,52 +20,60 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 159
-New lender-relevant items (deduplicated): 40
+Total items fetched: 162
+New lender-relevant items (deduplicated): 48
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9737)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 103 column 18 (char 9440)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-4c32eb41142sm1507655b6e.2 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-803f3b16ee7sm4758833a34.3 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: rbi-extends-directions-on-nasik-jilha-ma
   📝 Queued: rbi-approves-icici-prudential-amc-to-buy
-  📝 Queued: banks-can-t-outsource-accountability-for
+  📝 Queued: rbi-proposes-bank-account-freeze-rules-f
   📝 Queued: csb-bank-gets-rbi-nod-for-icici-prudenti
+  📝 Queued: rbi-governance-reset-puts-spotlight-on-b
   📝 Queued: icici-prudential-amc-gets-rbi-nod-to-acq
   📝 Queued: rbi-extends-regulatory-directions-on-nas
   📝 Queued: rbi-gives-icici-bank-nyse-ibn-unit-one-y
-  📝 Queued: eight-banks-five-months-india-s-biggest-
   📝 Queued: rbi-s-restrictions-on-kanaka-pattana-sah
   📝 Queued: rbi-approves-icici-prudential-amc-to-acq
+  📝 Queued: banks-can-t-outsource-accountability-for
+  📝 Queued: rbi-fines-asset-reconstruction-firm-27-3
   📝 Queued: rbi-restrictions-on-up-civil-secretariat
   📝 Queued: rbi-extends-directions-on-amanath-co-ope
-  📝 Queued: why-fraud-monitoring-rules-are-tightenin
+  📝 Queued: rbi-extends-regulatory-directions-for-gu
+  📝 Queued: rbi-extends-regulatory-directions-on-lok
+  📝 Queued: eight-banks-five-months-india-s-biggest-
+  📝 Queued: rbi-slaps-1-15-lakh-penalty-on-azamgarh-
+  📝 Queued: rbi-imposes-27-3-lakh-penalty-on-asset-c
   📝 Queued: rbi-approves-icici-prudential-amc-s-up-t
   📝 Queued: dcb-bank-in-talks-with-pe-strategic-inve
-  📝 Queued: rbi-slaps-1-15-lakh-penalty-on-azamgarh-
   📝 Queued: icici-prudential-amc-gets-rbi-approval-t
-  📝 Queued: yubi-launches-pye-a-multi-lender-platfor
+  📝 Queued: au-small-finance-bank-issues-official-pr
   📝 Queued: your-shop-s-upi-qr-could-stop-on-sept-15
   📝 Queued: fusion-finance-sells-54-16-crore-stresse
+  📝 Queued: private-sector-bank-stock-up-20-in-3-yea
   📝 Queued: icici-prudential-amc-to-attend-jefferies
   📝 Queued: education-loan-govt-expands-credit-guara
-  📝 Queued: rbi-imposes-penalties-on-5-firms-over-cr
   📝 Queued: rbi-second-amendment-directions-2026-inv
   📝 Queued: rbi-issues-extension-in-period-of-operat
   📝 Queued: icici-prudential-amc-gets-rbi-nod-to-rai
+  📝 Queued: au-small-finance-bank-gets-rbi-nod-for-i
   📝 Queued: rbi-clears-9-95-dcb-bank-stake-icici-pru
   📝 Queued: csb-bank-rbi-approves-9-95-stake-acquisi
   📝 Queued: au-small-finance-bank-receives-rbi-appro
   📝 Queued: relaxation-in-timeline-with-respect-to-a
+  📝 Queued: rbi-imposes-rs-27-30-lakh-penalty-on-acr
   📝 Queued: dcb-bank-rbi-approves-9-95-stake-acquisi
-  📝 Queued: au-small-finance-bank-rbi-approves-icici
-  📝 Queued: icici-prudential-asset-management-compan
+  📝 Queued: yubi-launches-pye-a-multi-lender-platfor
   📝 Queued: union-finance-ministry-public-sector-ban
   📝 Queued: drt-can-decide-legality-of-sarfaesi-acti
+  📝 Queued: fema-rbi-rbi-priority-sector-lending-thi
+  📝 Queued: fema-rbi-rbi-issues-second-amendment-dir
   📝 Queued: fema-rbi-rbi-proposes-ban-on-revolving-c
   📝 Queued: fema-rbi-rbi-withdraws-seven-inoperative
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
@@ -73,6 +81,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 40 new items processed.
+Done. 48 new items processed.
 ============================================================
 
