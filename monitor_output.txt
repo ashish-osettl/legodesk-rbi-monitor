@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 14 Sep 2026 08:27 UTC
+RBI Monitor v2 — 15 Sep 2026 08:17 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -18,38 +18,38 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 0 RBI items found
+  ✅ Claude web search: 4 RBI items found
 
-Total items fetched: 157
-New lender-relevant items (deduplicated): 53
+Total items fetched: 160
+New lender-relevant items (deduplicated): 52
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9328)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 106 column 11 (char 10093)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-80825a9b5fasm1925450a34.22 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-48324c1b6d7sm1248630fac.18 - gsmtp')
 
 Queuing Academy content...
-  📝 Queued: rbi-extends-directions-on-nasik-jilha-ma
+  📝 Queued: hdfc-bank-nyse-hdb-details-roles-of-two-
   📝 Queued: rbi-approves-icici-prudential-amc-to-buy
-  📝 Queued: rbi-proposes-bank-account-freeze-rules-f
-  📝 Queued: after-30-months-rbi-rejects-tata-sons-pl
-  📝 Queued: csb-bank-gets-rbi-nod-for-icici-prudenti
-  📝 Queued: rbi-governance-reset-puts-spotlight-on-b
-  📝 Queued: hdfc-bank-sends-two-names-to-rbi-for-md-
-  📝 Queued: tata-sons-pushed-to-list-what-it-means-f
-  📝 Queued: hdfc-bank-sends-two-names-to-rbi-for-jag
   📝 Queued: rbi-extends-directions-on-two-co-op-bank
+  📝 Queued: after-30-months-rbi-rejects-tata-sons-pl
+  📝 Queued: rbi-proposes-bank-account-freeze-rules-f
+  📝 Queued: csb-bank-gets-rbi-nod-for-icici-prudenti
+  📝 Queued: tata-sons-pushed-to-list-what-it-means-f
+  📝 Queued: hdfc-bank-sends-two-names-to-rbi-for-md-
+  📝 Queued: hdfc-bank-proposes-two-candidates-for-md
+  📝 Queued: hdfc-bank-forwards-two-names-to-rbi-for-
+  📝 Queued: hdfc-bank-sends-two-names-to-rbi-for-jag
   📝 Queued: rbi-approves-icici-prudential-amc-to-acq
-  📝 Queued: rbi-draft-sets-60-day-limit-on-cyber-fra
-  📝 Queued: rbi-restrictions-on-up-civil-secretariat
-  📝 Queued: rbi-extends-directions-on-amanath-co-ope
+  📝 Queued: rbi-draft-says-banks-must-lift-cyber-fra
+  📝 Queued: hdfc-bank-board-approves-ceo-candidates-
+  📝 Queued: rbi-governance-reset-puts-spotlight-on-b
   📝 Queued: rbi-extends-regulatory-directions-for-gu
   📝 Queued: rbi-gives-icici-bank-nyse-ibn-unit-one-y
-  📝 Queued: rbi-extends-regulatory-directions-on-lok
-  📝 Queued: hdfc-bank-board-approves-ceo-candidates-
-  📝 Queued: rbi-imposes-27-3-lakh-penalty-on-asset-c
+  📝 Queued: au-small-finance-bank-appoints-anil-agar
+  📝 Queued: your-account-could-be-frozen-60-days-rbi
   📝 Queued: dcb-bank-in-talks-with-pe-strategic-inve
   📝 Queued: icici-prudential-amc-gets-rbi-approval-t
   📝 Queued: hdfc-bank-sends-two-ceo-picks-to-rbi-ahe
@@ -57,22 +57,17 @@ Queuing Academy content...
   📝 Queued: who-will-be-new-ceo-of-hdfc-bank-how-the
   📝 Queued: your-shop-s-upi-qr-could-stop-on-sept-15
   📝 Queued: fusion-finance-sells-54-16-crore-stresse
+  📝 Queued: private-sector-bank-stock-up-20-in-3-yea
   📝 Queued: icici-prudential-amc-to-attend-jefferies
-  📝 Queued: rbi-issues-extension-in-period-of-operat
-  📝 Queued: hdfc-bank-proposes-two-names-for-md-and-
   📝 Queued: icici-prudential-amc-gets-rbi-nod-to-rai
   📝 Queued: rbi-clears-9-95-dcb-bank-stake-icici-pru
   📝 Queued: hdfc-bank-begins-ceo-selection-process-s
   📝 Queued: rbi-proposes-new-rules-for-temporary-deb
   📝 Queued: rbi-proposes-new-rules-for-freezing-frau
-  📝 Queued: hdfc-bank-shares-after-jagdishan-exit-wh
   📝 Queued: au-small-finance-bank-receives-rbi-appro
-  📝 Queued: hdfc-bank-proposes-two-candidates-for-md
-  📝 Queued: rbi-proposes-60-day-debit-freeze-on-susp
-  📝 Queued: relaxation-in-timeline-with-respect-to-a
+  📝 Queued: hdfc-bank-shares-after-jagdishan-exit-wh
   📝 Queued: rbi-imposes-rs-27-30-lakh-penalty-on-acr
   📝 Queued: hdfc-bank-appoints-jimmy-tata-as-directo
-  📝 Queued: union-finance-ministry-public-sector-ban
   📝 Queued: flexiloans-the-loan-approval-that-seems-
   📝 Queued: fema-rbi-rbi-faqs-on-asset-reconstructio
   📝 Queued: fema-rbi-rbi-proposes-sop-for-suspected-
@@ -84,8 +79,12 @@ Queuing Academy content...
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
+  📝 Queued: reserve-bank-of-india-counterfeit-notes-
+  📝 Queued: rbi-monetary-penalty-order-hinduja-leyla
+  📝 Queued: rbi-monetary-penalty-order-sammaan-finse
+  📝 Queued: rbi-monetary-penalty-order-transunion-ci
 
 ============================================================
-Done. 53 new items processed.
+Done. 52 new items processed.
 ============================================================
 
