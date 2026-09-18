@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 17 Sep 2026 08:17 UTC
+RBI Monitor v2 — 18 Sep 2026 07:52 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 7 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
-  ✅ Google News: RBI Fair Practices Code collections: 5 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI Fair Practices Code collections: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,56 +20,50 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 171
-New lender-relevant items (deduplicated): 51
+Total items fetched: 169
+New lender-relevant items (deduplicated): 45
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 105 column 11 (char 9773)
+  ⚠️  AI analysis failed: Expecting value: line 69 column 165 (char 9330)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14395d4a48fsm11605939c88.10 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-33c2875b781sm2469467eec.17 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: supreme-court-asks-rbi-to-issue-directio
   📝 Queued: sc-to-rbi-enforce-lawful-vehicle-seizure
   📝 Queued: rbi-recovery-guidelines-exist-only-on-pa
   📝 Queued: supreme-court-directs-finance-company-to
+  📝 Queued: can-your-lender-take-your-car-after-an-e
   📝 Queued: hdfc-bank-nyse-hdb-details-roles-of-two-
+  📝 Queued: rbi-extends-directions-on-two-cooperativ
   📝 Queued: india-s-hdfc-bank-submits-two-candidates
-  📝 Queued: rbi-extends-directions-on-two-co-op-bank
-  📝 Queued: after-30-months-rbi-rejects-tata-sons-pl
+  📝 Queued: rbi-extends-regulatory-directions-on-val
   📝 Queued: loan-recovery-guidelines-exist-only-on-p
+  📝 Queued: after-30-months-rbi-rejects-tata-sons-pl
+  📝 Queued: rbi-draft-says-banks-must-lift-cyber-fra
   📝 Queued: hdfc-bank-sends-two-names-to-rbi-for-md-
-  📝 Queued: tata-sons-pushed-to-list-what-it-means-f
-  📝 Queued: rbi-extends-regulatory-directions-for-gu
   📝 Queued: hdfc-bank-board-approves-ceo-candidates-
+  📝 Queued: tata-sons-pushed-to-list-what-it-means-f
   📝 Queued: hdfc-bank-proposes-two-candidates-for-md
-  📝 Queued: hdfc-bank-forwards-two-names-to-rbi-for-
+  📝 Queued: rbi-extends-directions-on-two-co-op-bank
   📝 Queued: rbi-extends-regulatory-directions-on-lok
   📝 Queued: au-small-finance-bank-appoints-anil-agar
-  📝 Queued: rbi-gives-icici-bank-nyse-ibn-unit-one-y
   📝 Queued: rbi-draft-sets-outer-limit-for-bank-hold
-  📝 Queued: rbi-slaps-1-15-lakh-penalty-on-azamgarh-
-  📝 Queued: your-account-could-be-frozen-60-days-rbi
-  📝 Queued: rbi-allows-small-arcs-to-join-bids-in-in
-  📝 Queued: hdfc-bank-sends-two-ceo-picks-to-rbi-ahe
-  📝 Queued: hdfc-bank-nse-hdfcbank-md-ceo-and-direct
   📝 Queued: rbi-nbfc-faqs-offer-clarity-on-rules-rel
+  📝 Queued: hdfc-bank-nse-hdfcbank-md-ceo-and-direct
+  📝 Queued: rbi-extends-regulatory-directives-on-gau
+  📝 Queued: hdfc-bank-sends-two-ceo-picks-to-rbi-ahe
   📝 Queued: who-will-be-new-ceo-of-hdfc-bank-how-the
-  📝 Queued: private-sector-bank-stock-up-20-in-3-yea
+  📝 Queued: rbi-proposes-60-day-cap-on-bank-account-
+  📝 Queued: hdfc-bank-shares-climb-3-on-submitting-n
   📝 Queued: hdfc-bank-limited-hdb-investors-securiti
-  📝 Queued: are-banks-closed-in-new-delhi-on-septemb
-  📝 Queued: icici-prudential-amc-gets-rbi-approval-t
-  📝 Queued: icici-prudential-amc-to-attend-jefferies
-  📝 Queued: will-fixed-deposit-interest-rates-go-up-
-  📝 Queued: rbi-proposes-new-rules-for-freezing-frau
+  📝 Queued: raiffeisen-bank-international-linked-cus
   📝 Queued: hdfc-bank-begins-ceo-selection-process-s
   📝 Queued: rbi-proposes-new-rules-for-temporary-deb
   📝 Queued: hdfc-bank-appoints-jimmy-tata-as-directo
-  📝 Queued: bank-account-flagged-over-cyber-fraud-wi
-  📝 Queued: hdfc-bank-shares-after-jagdishan-exit-wh
-  📝 Queued: flexiloans-the-loan-approval-that-seems-
+  📝 Queued: cbdt-approves-iit-roorkee-for-scientific
   📝 Queued: loan-recovery-can-t-become-instrument-of
   📝 Queued: fema-rbi-all-you-wanted-to-know-about-nb
   📝 Queued: fema-rbi-rbi-faqs-on-asset-reconstructio
@@ -84,6 +78,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 51 new items processed.
+Done. 45 new items processed.
 ============================================================
 
