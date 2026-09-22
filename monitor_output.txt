@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 21 Sep 2026 08:28 UTC
+RBI Monitor v2 — 22 Sep 2026 08:09 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 7 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 49 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 8 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 4 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -18,48 +18,45 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 165
-New lender-relevant items (deduplicated): 50
+Total items fetched: 161
+New lender-relevant items (deduplicated): 46
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 23 (char 9779)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 79 column 29 (char 9788)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-93bedaf1001sm583601785a.28 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-144f29dc903sm3277059c88.3 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: loan-recovery-guidelines-exist-only-on-p
-  📝 Queued: sc-to-rbi-enforce-lawful-vehicle-seizure
+  📝 Queued: supreme-court-asks-rbi-to-issue-directio
+  📝 Queued: sc-asks-rbi-to-secure-compliance-of-norm
   📝 Queued: rbi-recovery-guidelines-exist-only-on-pa
   📝 Queued: banks-and-nbfcs-cannot-use-force-for-veh
-  📝 Queued: hdfc-bank-nyse-hdb-details-roles-of-two-
+  📝 Queued: rbi-denies-variable-pay-to-former-karnat
+  📝 Queued: rbi-issues-final-directions-on-minimum-c
+  📝 Queued: rbi-issues-final-basel-iii-market-risk-c
   📝 Queued: rbi-extends-directions-on-two-cooperativ
   📝 Queued: rbi-extends-regulatory-directions-on-val
-  📝 Queued: rbi-denies-variable-pay-to-former-karnat
-  📝 Queued: tata-sons-pushed-to-list-what-it-means-f
-  📝 Queued: rbi-removes-minister-patil-7-directors-f
+  📝 Queued: how-fd-interest-rates-are-really-decided
   📝 Queued: rbi-orders-removal-of-maharashtra-minist
   📝 Queued: rbi-nbfc-faqs-offer-clarity-on-rules-rel
-  📝 Queued: rbi-eases-kyc-documentation-for-foreign-
-  📝 Queued: au-small-finance-bank-appoints-anil-agar
+  📝 Queued: rbi-removes-minister-patil-7-directors-f
+  📝 Queued: rbi-issues-norms-on-capital-requirements
+  📝 Queued: rbi-issues-new-basel-iii-capital-rules-f
   📝 Queued: banking-nbfc-disputes-in-india-sarfaesi-
   📝 Queued: sachin-mittal-loanwalle-and-the-rbi-sile
   📝 Queued: rbi-extends-regulatory-directives-on-gau
-  📝 Queued: your-shop-s-upi-qr-could-stop-on-sept-15
-  📝 Queued: banks-will-freeze-only-disputed-amount-n
   📝 Queued: ibps-clerk-preference-update-2026-starts
-  📝 Queued: banks-plan-to-align-norms-for-project-fi
-  📝 Queued: sachin-mittal-loanwalle-a-high-court-rec
-  📝 Queued: j-k-bank-appoints-four-statutory-central
-  📝 Queued: visa-payment-passkey-goes-live-at-five-i
+  📝 Queued: punjab-national-bank-to-hold-virtual-inv
   📝 Queued: raiffeisen-bank-international-linked-cus
-  📝 Queued: rbi-directs-removal-of-maharashtra-minis
+  📝 Queued: visa-payment-passkey-goes-live-at-five-i
+  📝 Queued: rbi-issues-basel-iii-market-risk-capital
   📝 Queued: latur-dcc-bank-rbi-orders-removal-of-mah
   📝 Queued: using-recovery-agents-proves-costly-for-
-  📝 Queued: loan-recovery-can-t-become-instrument-of
   📝 Queued: fema-rbi-repatriating-uae-business-profi
   📝 Queued: fema-rbi-rbi-amends-rural-co-operative-b
   📝 Queued: fema-rbi-rbi-amends-urban-co-operative-b
@@ -80,9 +77,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
-  📝 Queued: rbi-cancellation-of-nbfc-certificates-of
 
 ============================================================
-Done. 50 new items processed.
+Done. 46 new items processed.
 ============================================================
 
