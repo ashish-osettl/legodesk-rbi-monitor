@@ -1,62 +1,63 @@
 
 ============================================================
-RBI Monitor v2 — 23 Sep 2026 08:11 UTC
+RBI Monitor v2 — 24 Sep 2026 08:02 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 8 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 40 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 42 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 5 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
-  ✅ Fintech India — Regulatory: 2 items
+  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  Fintech India — Regulatory: The read operation timed out
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 157
-New lender-relevant items (deduplicated): 53
+Total items fetched: 149
+New lender-relevant items (deduplicated): 54
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 10086)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 86 column 9 (char 9436)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 006d021491bc7-6d2c92c2619sm2136189eaf.0 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-33e939fdabcsm12613256eec.3 - gsmtp')
 
 Queuing Academy content...
-  📝 Queued: loan-recovery-guidelines-exist-only-on-p
-  📝 Queued: supreme-court-asks-rbi-to-issue-directio
-  📝 Queued: sc-to-rbi-enforce-lawful-vehicle-seizure
-  📝 Queued: rbi-recovery-guidelines-exist-only-on-pa
+  📝 Queued: your-vehicle-can-t-be-seized-without-not
   📝 Queued: banks-and-nbfcs-cannot-use-force-for-veh
+  📝 Queued: reserve-bank-of-india-commercial-banks-s
   📝 Queued: rbi-denies-variable-pay-to-former-karnat
   📝 Queued: rbi-issues-amendment-directions-2026-for
   📝 Queued: rbi-issues-final-directions-on-minimum-c
   📝 Queued: rbi-extends-directions-on-two-cooperativ
+  📝 Queued: rbi-governance-reset-puts-spotlight-on-b
   📝 Queued: rbi-extends-regulatory-directions-on-val
   📝 Queued: how-fd-interest-rates-are-really-decided
   📝 Queued: rbi-issues-final-basel-iii-market-risk-c
   📝 Queued: rbi-orders-removal-of-maharashtra-minist
   📝 Queued: rbi-issues-basel-iii-market-risk-capital
   📝 Queued: csb-bank-closes-trading-window-for-q2fy2
-  📝 Queued: rbi-removes-minister-patil-7-directors-f
-  📝 Queued: rbi-nbfc-faqs-offer-clarity-on-rules-rel
   📝 Queued: sachin-mittal-loanwalle-and-the-rbi-sile
   📝 Queued: banking-nbfc-disputes-in-india-sarfaesi-
   📝 Queued: rbi-extends-regulatory-directives-on-gau
   📝 Queued: ibps-clerk-preference-update-2026-starts
+  📝 Queued: jagsonpal-services-to-acquire-100-stake-
   📝 Queued: punjab-national-bank-to-hold-virtual-inv
-  📝 Queued: raiffeisen-bank-international-linked-cus
+  📝 Queued: sachin-mittal-loanwalle-a-high-court-rec
+  📝 Queued: visa-payment-passkey-goes-live-at-five-i
+  📝 Queued: rbi-issues-new-basel-iii-market-risk-cap
   📝 Queued: latur-dcc-bank-rbi-orders-removal-of-mah
   📝 Queued: using-recovery-agents-proves-costly-for-
-  📝 Queued: loan-recovery-can-t-become-instrument-of
+  📝 Queued: fema-rbi-public-sector-and-regional-rura
+  📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
   📝 Queued: fema-rbi-incomplete-bank-trail-fails-to-
   📝 Queued: fema-rbi-rbi-amends-payments-banks-inves
   📝 Queued: fema-rbi-rbi-amends-small-finance-banks-
@@ -86,6 +87,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 53 new items processed.
+Done. 54 new items processed.
 ============================================================
 
