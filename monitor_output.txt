@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 25 Sep 2026 08:26 UTC
+RBI Monitor v2 — 26 Sep 2026 08:13 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
   ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 2 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
@@ -20,20 +20,18 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 1 RBI items found
 
-Total items fetched: 160
-New lender-relevant items (deduplicated): 58
+Total items fetched: 158
+New lender-relevant items (deduplicated): 56
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 88 column 11 (char 9649)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 9 (char 9875)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3414504fae2sm4790761eec.20 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-91430df77adsm34499626d6.26 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: your-vehicle-can-t-be-seized-without-not
-  📝 Queued: banks-and-nbfcs-cannot-use-force-for-veh
-  📝 Queued: reserve-bank-of-india-commercial-banks-s
   📝 Queued: rbi-denies-variable-pay-to-former-karnat
   📝 Queued: rbi-issues-amendment-directions-2026-for
   📝 Queued: rbi-governance-reset-puts-spotlight-on-b
@@ -43,20 +41,20 @@ Queuing Academy content...
   📝 Queued: csb-bank-closes-trading-window-for-q2fy2
   📝 Queued: penalty-on-hero-fincorp-ola-financial-se
   📝 Queued: rbi-removes-minister-patil-7-directors-f
-  📝 Queued: rbi-issues-basel-iii-market-risk-capital
-  📝 Queued: rbi-alerts-co-op-banks-on-uapa-terrorist
+  📝 Queued: rbi-issues-norms-on-capital-requirements
   📝 Queued: sachin-mittal-loanwalle-and-the-rbi-sile
+  📝 Queued: rbi-alerts-co-op-banks-on-uapa-terrorist
   📝 Queued: rbi-issues-revised-rules-for-valuation-o
+  📝 Queued: kotak-mahindra-bank-approves-merger-of-t
   📝 Queued: banking-nbfc-disputes-in-india-sarfaesi-
   📝 Queued: rbi-removes-maha-minister-from-latur-ban
-  📝 Queued: ads-holders-gain-voting-channel-at-icici
   📝 Queued: rbi-slaps-penalty-on-hero-fincorp-for-ex
+  📝 Queued: fd-interest-rate-rules-to-change-from-oc
   📝 Queued: jagsonpal-services-to-acquire-100-stake-
   📝 Queued: punjab-national-bank-to-hold-virtual-inv
   📝 Queued: gold-loans-on-the-rise-as-indians-increa
-  📝 Queued: sachin-mittal-loanwalle-a-high-court-rec
   📝 Queued: visa-payment-passkey-goes-live-at-five-i
-  📝 Queued: rbi-issues-new-basel-iii-market-risk-cap
+  📝 Queued: rbi-issues-basel-iii-market-risk-capital
   📝 Queued: latur-dcc-bank-rbi-orders-removal-of-mah
   📝 Queued: using-recovery-agents-proves-costly-for-
   📝 Queued: fema-rbi-public-sector-and-regional-rura
@@ -88,9 +86,9 @@ Queuing Academy content...
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
-  📝 Queued: draft-reserve-bank-of-india-know-your-cu
+  📝 Queued: rbi-fmrd-2026-27-407-reserve-bank-of-ind
 
 ============================================================
-Done. 58 new items processed.
+Done. 56 new items processed.
 ============================================================
 
