@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 26 Sep 2026 08:13 UTC
+RBI Monitor v2 — 27 Sep 2026 08:50 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -18,17 +18,17 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 1 RBI items found
+  ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 158
-New lender-relevant items (deduplicated): 56
+Total items fetched: 162
+New lender-relevant items (deduplicated): 59
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 99 column 9 (char 9875)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9702)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-91430df77adsm34499626d6.26 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3434958c3adsm20917562eec.22 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: your-vehicle-can-t-be-seized-without-not
@@ -36,26 +36,30 @@ Queuing Academy content...
   📝 Queued: rbi-issues-amendment-directions-2026-for
   📝 Queued: rbi-governance-reset-puts-spotlight-on-b
   📝 Queued: how-fd-interest-rates-are-really-decided
-  📝 Queued: rbi-orders-removal-of-maharashtra-minist
   📝 Queued: rbi-issues-final-basel-iii-market-risk-c
   📝 Queued: csb-bank-closes-trading-window-for-q2fy2
   📝 Queued: penalty-on-hero-fincorp-ola-financial-se
-  📝 Queued: rbi-removes-minister-patil-7-directors-f
+  📝 Queued: are-all-banks-open-on-sunday-september-2
   📝 Queued: rbi-issues-norms-on-capital-requirements
-  📝 Queued: sachin-mittal-loanwalle-and-the-rbi-sile
-  📝 Queued: rbi-alerts-co-op-banks-on-uapa-terrorist
   📝 Queued: rbi-issues-revised-rules-for-valuation-o
   📝 Queued: kotak-mahindra-bank-approves-merger-of-t
+  📝 Queued: high-credit-deposit-ratio-doesn-t-indica
   📝 Queued: banking-nbfc-disputes-in-india-sarfaesi-
-  📝 Queued: rbi-removes-maha-minister-from-latur-ban
-  📝 Queued: rbi-slaps-penalty-on-hero-fincorp-for-ex
-  📝 Queued: fd-interest-rate-rules-to-change-from-oc
+  📝 Queued: are-banks-working-on-sunday-september-27
   📝 Queued: jagsonpal-services-to-acquire-100-stake-
+  📝 Queued: fd-interest-rate-rules-to-change-from-oc
+  📝 Queued: rbi-slaps-penalty-on-hero-fincorp-for-ex
   📝 Queued: punjab-national-bank-to-hold-virtual-inv
+  📝 Queued: foreign-exchange-reserves-decline-weekly
   📝 Queued: gold-loans-on-the-rise-as-indians-increa
-  📝 Queued: visa-payment-passkey-goes-live-at-five-i
+  📝 Queued: au-small-finance-bank-adopts-intellect-s
+  📝 Queued: punjab-sind-bank-extends-ravi-mehra-s-te
+  📝 Queued: punjab-sind-bank-board-to-consider-forei
+  📝 Queued: hdb-alert-hagens-berman-national-trial-a
   📝 Queued: rbi-issues-basel-iii-market-risk-capital
-  📝 Queued: latur-dcc-bank-rbi-orders-removal-of-mah
+  📝 Queued: kotak-mahindra-bank-board-approves-merge
+  📝 Queued: purple-finance-approves-rs-15-crore-ncd-
+  📝 Queued: gold-loans-surge-4-4x-gain-share-in-pers
   📝 Queued: using-recovery-agents-proves-costly-for-
   📝 Queued: fema-rbi-public-sector-and-regional-rura
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
@@ -86,9 +90,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
-  📝 Queued: rbi-fmrd-2026-27-407-reserve-bank-of-ind
 
 ============================================================
-Done. 56 new items processed.
+Done. 59 new items processed.
 ============================================================
 
