@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 27 Sep 2026 08:50 UTC
+RBI Monitor v2 — 28 Sep 2026 09:14 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 1 items
+  ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
@@ -20,47 +20,44 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 59
+Total items fetched: 156
+New lender-relevant items (deduplicated): 56
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 95 column 18 (char 9702)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 9878)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3434958c3adsm20917562eec.22 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-146bb6551d9sm16312906c88.9 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: your-vehicle-can-t-be-seized-without-not
-  📝 Queued: rbi-denies-variable-pay-to-former-karnat
   📝 Queued: rbi-issues-amendment-directions-2026-for
-  📝 Queued: rbi-governance-reset-puts-spotlight-on-b
-  📝 Queued: how-fd-interest-rates-are-really-decided
+  📝 Queued: banks-must-look-at-cash-flows-not-just-c
   📝 Queued: rbi-issues-final-basel-iii-market-risk-c
-  📝 Queued: csb-bank-closes-trading-window-for-q2fy2
   📝 Queued: penalty-on-hero-fincorp-ola-financial-se
+  📝 Queued: csb-bank-closes-trading-window-for-q2fy2
   📝 Queued: are-all-banks-open-on-sunday-september-2
-  📝 Queued: rbi-issues-norms-on-capital-requirements
-  📝 Queued: rbi-issues-revised-rules-for-valuation-o
-  📝 Queued: kotak-mahindra-bank-approves-merger-of-t
   📝 Queued: high-credit-deposit-ratio-doesn-t-indica
-  📝 Queued: banking-nbfc-disputes-in-india-sarfaesi-
+  📝 Queued: rbi-issues-norms-on-capital-requirements
+  📝 Queued: kotak-mahindra-bank-approves-merger-of-t
+  📝 Queued: rbi-issues-revised-rules-for-valuation-o
   📝 Queued: are-banks-working-on-sunday-september-27
-  📝 Queued: jagsonpal-services-to-acquire-100-stake-
-  📝 Queued: fd-interest-rate-rules-to-change-from-oc
+  📝 Queued: rbi-awaits-tata-sons-formal-response-on-
   📝 Queued: rbi-slaps-penalty-on-hero-fincorp-for-ex
+  📝 Queued: jagsonpal-services-to-acquire-100-stake-
+  📝 Queued: gold-loans-surge-4-4x-gain-share-in-pers
   📝 Queued: punjab-national-bank-to-hold-virtual-inv
   📝 Queued: foreign-exchange-reserves-decline-weekly
   📝 Queued: gold-loans-on-the-rise-as-indians-increa
-  📝 Queued: au-small-finance-bank-adopts-intellect-s
   📝 Queued: punjab-sind-bank-extends-ravi-mehra-s-te
-  📝 Queued: punjab-sind-bank-board-to-consider-forei
   📝 Queued: hdb-alert-hagens-berman-national-trial-a
+  📝 Queued: punjab-sind-bank-board-to-consider-forei
   📝 Queued: rbi-issues-basel-iii-market-risk-capital
-  📝 Queued: kotak-mahindra-bank-board-approves-merge
+  📝 Queued: nri-banking-guide-2026-critical-video-ky
   📝 Queued: purple-finance-approves-rs-15-crore-ncd-
-  📝 Queued: gold-loans-surge-4-4x-gain-share-in-pers
-  📝 Queued: using-recovery-agents-proves-costly-for-
+  📝 Queued: industry-seeks-immediate-ots-before-new-
+  📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-public-sector-and-regional-rura
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
   📝 Queued: fema-rbi-incomplete-bank-trail-fails-to-
@@ -71,20 +68,20 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-finalises-novation-rules-fo
   📝 Queued: fema-rbi-rbi-commercial-banks-minimum-ca
   📝 Queued: fema-rbi-repatriating-uae-business-profi
-  📝 Queued: fema-rbi-rbi-amends-rural-co-operative-b
-  📝 Queued: fema-rbi-rbi-amends-urban-co-operative-b
-  📝 Queued: fema-rbi-rbi-amends-regional-rural-banks
-  📝 Queued: fema-rbi-certified-kyc-copy-facility-ext
   📝 Queued: fema-rbi-sbi-mortgage-over-benami-proper
   📝 Queued: fema-rbi-company-liquidation-does-not-en
   📝 Queued: fema-rbi-safema-tribunal-condones-delay-
   📝 Queued: fema-rbi-fema-director-liability-penalty
+  📝 Queued: fema-rbi-rbi-amends-rural-co-operative-b
+  📝 Queued: fema-rbi-rbi-amends-urban-co-operative-b
+  📝 Queued: fema-rbi-rbi-amends-regional-rural-banks
+  📝 Queued: fema-rbi-certified-kyc-copy-facility-ext
   📝 Queued: fema-rbi-all-you-wanted-to-know-about-nb
   📝 Queued: fema-rbi-rbi-faqs-on-asset-reconstructio
-  📝 Queued: fema-rbi-rbi-proposes-sop-for-suspected-
   📝 Queued: fema-rbi-rbi-faqs-on-priority-sector-len
   📝 Queued: fema-rbi-rbi-priority-sector-lending-thi
   📝 Queued: fema-rbi-rbi-issues-second-amendment-dir
+  📝 Queued: fema-rbi-rbi-proposes-sop-for-suspected-
   📝 Queued: fema-rbi-rbi-proposes-ban-on-revolving-c
   📝 Queued: fema-rbi-rbi-withdraws-seven-inoperative
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
@@ -92,6 +89,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 59 new items processed.
+Done. 56 new items processed.
 ============================================================
 
