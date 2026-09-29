@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 28 Sep 2026 09:14 UTC
+RBI Monitor v2 — 29 Sep 2026 09:23 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -13,50 +13,49 @@ Fetching Google News RSS feeds...
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 100 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ✅ Claude web search: 0 RBI items found
 
-Total items fetched: 156
-New lender-relevant items (deduplicated): 56
+Total items fetched: 151
+New lender-relevant items (deduplicated): 55
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 9878)
+  ⚠️  AI analysis failed: Unterminated string starting at: line 89 column 11 (char 9539)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
-  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-146bb6551d9sm16312906c88.9 - gsmtp')
+  ⚠️  Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d75a77b69052e-533224454dcsm85280411cf.31 - gsmtp')
 
 Queuing Academy content...
   📝 Queued: your-vehicle-can-t-be-seized-without-not
   📝 Queued: rbi-issues-amendment-directions-2026-for
-  📝 Queued: banks-must-look-at-cash-flows-not-just-c
-  📝 Queued: rbi-issues-final-basel-iii-market-risk-c
+  📝 Queued: over-5-in-10-banking-users-faced-difficu
+  📝 Queued: are-all-banks-open-on-sunday-september-2
   📝 Queued: penalty-on-hero-fincorp-ola-financial-se
   📝 Queued: csb-bank-closes-trading-window-for-q2fy2
-  📝 Queued: are-all-banks-open-on-sunday-september-2
-  📝 Queued: high-credit-deposit-ratio-doesn-t-indica
-  📝 Queued: rbi-issues-norms-on-capital-requirements
   📝 Queued: kotak-mahindra-bank-approves-merger-of-t
-  📝 Queued: rbi-issues-revised-rules-for-valuation-o
-  📝 Queued: are-banks-working-on-sunday-september-27
-  📝 Queued: rbi-awaits-tata-sons-formal-response-on-
+  📝 Queued: tata-sons-restructuring-what-are-tata-tr
   📝 Queued: rbi-slaps-penalty-on-hero-fincorp-for-ex
   📝 Queued: jagsonpal-services-to-acquire-100-stake-
-  📝 Queued: gold-loans-surge-4-4x-gain-share-in-pers
-  📝 Queued: punjab-national-bank-to-hold-virtual-inv
-  📝 Queued: foreign-exchange-reserves-decline-weekly
-  📝 Queued: gold-loans-on-the-rise-as-indians-increa
-  📝 Queued: punjab-sind-bank-extends-ravi-mehra-s-te
-  📝 Queued: hdb-alert-hagens-berman-national-trial-a
-  📝 Queued: punjab-sind-bank-board-to-consider-forei
-  📝 Queued: rbi-issues-basel-iii-market-risk-capital
+  📝 Queued: federal-bank-appoints-virat-sunil-diwanj
+  📝 Queued: tata-trusts-pitch-tata-sons-restructurin
+  📝 Queued: october-1-to-mark-big-changes-in-rules-a
+  📝 Queued: tata-trusts-propose-merger-of-tess-tce-w
+  📝 Queued: jagsonpal-services-approves-10-crore-acq
+  📝 Queued: tata-trusts-pitch-restructuring-plan-to-
+  📝 Queued: tata-sons-listing-or-restructuring-tata-
+  📝 Queued: fd-interest-rate-rules-change-from-octob
   📝 Queued: nri-banking-guide-2026-critical-video-ky
-  📝 Queued: purple-finance-approves-rs-15-crore-ncd-
+  📝 Queued: kotak-mahindra-bank-to-integrate-kotak-m
+  📝 Queued: what-happens-to-a-dormant-or-inoperative
   📝 Queued: industry-seeks-immediate-ots-before-new-
+  📝 Queued: fema-rbi-union-budget-2026-27-changes-m-
+  📝 Queued: fema-rbi-bank-must-give-reasons-before-c
+  📝 Queued: fema-rbi-unserved-inspection-report-inva
   📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-public-sector-and-regional-rura
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
@@ -89,6 +88,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 56 new items processed.
+Done. 55 new items processed.
 ============================================================
 
