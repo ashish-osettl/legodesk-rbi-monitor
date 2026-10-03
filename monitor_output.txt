@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 02 Oct 2026 09:14 UTC
+RBI Monitor v2 — 03 Oct 2026 08:47 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -18,13 +18,13 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 7 RBI items found
+  ✅ Claude web search: 4 RBI items found
 
-Total items fetched: 162
-New lender-relevant items (deduplicated): 68
+Total items fetched: 165
+New lender-relevant items (deduplicated): 79
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Unterminated string starting at: line 98 column 30 (char 9202)
+  ⚠️  AI analysis failed: Extra data: line 115 column 1 (char 9175)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
@@ -32,28 +32,41 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: press-releases-official-website-of-reser
+  📝 Queued: rbi-approves-anup-kumar-saha-as-kotak-ma
+  📝 Queued: rbi-overhauls-shareholding-norms-for-pay
   📝 Queued: are-all-banks-open-on-sunday-september-2
   📝 Queued: hdfc-bank-rbi-approves-anup-bagchi-as-ce
   📝 Queued: fd-rules-are-changing-from-1-october-wha
   📝 Queued: are-high-yield-savings-accounts-safe-4-c
-  📝 Queued: rbi-approves-anup-kumar-saha-as-kotak-ma
+  📝 Queued: rbi-simplifies-rules-for-repeat-major-sh
   📝 Queued: fd-rules-changing-from-october-1-2026-un
-  📝 Queued: kotak-mahindra-bank-approves-merger-of-t
-  📝 Queued: suryoday-small-finance-bank-appoints-alo
+  📝 Queued: rbi-eases-shareholding-approvals-for-loc
+  📝 Queued: rbi-amends-small-finance-bank-shareholdi
   📝 Queued: rbi-eases-bank-stake-rules-allows-one-ti
+  📝 Queued: suryoday-small-finance-bank-appoints-alo
+  📝 Queued: rbi-eases-bank-stake-rules-for-mutual-fu
   📝 Queued: once-merger-proposed-by-tata-trusts-take
-  📝 Queued: tata-sons-restructuring-what-are-tata-tr
-  📝 Queued: rbi-appoints-r-kannan-as-additional-dire
-  📝 Queued: tata-trusts-propose-merger-of-tess-tce-w
+  📝 Queued: rbi-s-capital-cushion-tweak-tighter-norm
   📝 Queued: jagsonpal-services-approves-10-crore-acq
+  📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
+  📝 Queued: tata-trusts-moots-two-mergers-to-avoid-t
+  📝 Queued: tata-trusts-propose-merger-of-tess-tce-w
   📝 Queued: tata-trusts-pitch-restructuring-plan-to-
   📝 Queued: latest-fd-interest-rates-rules-from-1-oc
   📝 Queued: october-bank-holidays-2026-complete-stat
-  📝 Queued: tata-sons-listing-or-restructuring-tata-
   📝 Queued: bank-rules-changes-from-october-1-2026-s
+  📝 Queued: rbi-eases-bank-investment-rules-for-mutu
+  📝 Queued: rbi-bulk-fd-rules-start-october-1-what-b
+  📝 Queued: rbi-rules-trigger-500-mn-fx-losses-for-i
   📝 Queued: nri-banking-guide-2026-critical-video-ky
+  📝 Queued: indian-banks-fx-trading-losses-hit-500-m
   📝 Queued: kotak-mahindra-bank-to-integrate-kotak-m
   📝 Queued: industry-seeks-immediate-ots-before-new-
+  📝 Queued: fema-rbi-rbi-mandates-bis-certified-note
+  📝 Queued: fema-rbi-rbi-amends-local-area-bank-shar
+  📝 Queued: fema-rbi-rbi-introduces-one-time-approva
+  📝 Queued: fema-rbi-rbi-allows-one-time-approval-fo
+  📝 Queued: fema-rbi-rbi-withdraws-268-circulars-and
   📝 Queued: fema-rbi-rbi-allows-delegation-of-atm-ca
   📝 Queued: fema-rbi-rbi-master-circular-2026-on-cre
   📝 Queued: fema-rbi-all-saturdays-are-not-bank-holi
@@ -93,14 +106,12 @@ Queuing Academy content...
   📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
-  📝 Queued: reserve-bank-of-india-commercial-banks-m
-  📝 Queued: foreign-exchange-management-export-and-i
-  📝 Queued: reserve-bank-of-india-local-area-banks-a
+  📝 Queued: reserve-bank-of-india-commercial-banks-a
   📝 Queued: reserve-bank-of-india-payments-banks-acq
   📝 Queued: reserve-bank-of-india-small-finance-bank
-  📝 Queued: master-circular-credit-facilities-to-sch
+  📝 Queued: reserve-bank-of-india-local-area-banks-a
 
 ============================================================
-Done. 68 new items processed.
+Done. 79 new items processed.
 ============================================================
 
