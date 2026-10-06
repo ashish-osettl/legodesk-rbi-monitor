@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 05 Oct 2026 09:54 UTC
+RBI Monitor v2 — 06 Oct 2026 09:41 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
@@ -18,13 +18,13 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
-  ✅ Claude web search: 2 RBI items found
+  ✅ Claude web search: 6 RBI items found
 
-Total items fetched: 161
-New lender-relevant items (deduplicated): 79
+Total items fetched: 159
+New lender-relevant items (deduplicated): 78
 
 Running AI analysis...
-  ⚠️  AI analysis failed: Extra data: line 115 column 1 (char 9098)
+  ⚠️  AI analysis failed: Expecting property name enclosed in double quotes: line 102 column 25 (char 9563)
 
 Sending notifications...
   ✅ Google Chat sent (HTTP 200)
@@ -32,46 +32,42 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: press-releases-official-website-of-reser
-  📝 Queued: innovative-co-op-bank-delhi-35-000-limit
   📝 Queued: rbi-approves-anup-kumar-saha-as-kotak-ma
+  📝 Queued: innovative-co-op-bank-delhi-35-000-limit
   📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
   📝 Queued: fd-rules-are-changing-from-1-october-wha
   📝 Queued: are-high-yield-savings-accounts-safe-4-c
   📝 Queued: fd-rules-changing-from-october-1-2026-un
-  📝 Queued: rbi-grants-fresh-approval-to-icici-amc-f
   📝 Queued: rbi-mpc-october-2026-will-repo-rate-rise
+  📝 Queued: rbi-extends-regulatory-directions-on-sam
+  📝 Queued: rbi-extends-regulatory-directions-on-mot
   📝 Queued: suryoday-small-finance-bank-appoints-alo
+  📝 Queued: axis-bank-nsei-axisbank-stock-forecast-a
   📝 Queued: tata-trusts-restructuring-plan-decoded-h
   📝 Queued: rbi-eases-bank-share-acquisition-norms-f
   📝 Queued: a-three-year-ceo-term-is-approved-at-hdf
-  📝 Queued: tata-trusts-propose-merging-2-operating-
-  📝 Queued: personal-loan-scams-7-red-flags-borrower
   📝 Queued: once-merger-proposed-by-tata-trusts-take
-  📝 Queued: rbi-eases-bank-stake-rules-for-mutual-fu
-  📝 Queued: rbi-s-capital-cushion-tweak-tighter-norm
   📝 Queued: hdfc-bank-shares-slip-2-despite-ceo-clar
-  📝 Queued: physicswallah-retreats-from-direct-stude
+  📝 Queued: personal-loan-scams-7-red-flags-borrower
+  📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
-  📝 Queued: jagsonpal-services-approves-10-crore-acq
-  📝 Queued: tata-trusts-moots-two-mergers-to-avoid-t
-  📝 Queued: tata-trusts-propose-merger-of-tess-tce-w
-  📝 Queued: latest-fd-interest-rates-rules-from-1-oc
+  📝 Queued: physicswallah-retreats-from-direct-stude
+  📝 Queued: hdfc-bank-names-v-n-srivatsan-as-complia
+  📝 Queued: paul-merchants-receives-20-000-penalty-f
+  📝 Queued: sachin-mittal-from-digital-lending-pione
+  📝 Queued: rbi-extends-curbs-on-3-cooperative-banks
   📝 Queued: october-bank-holidays-2026-complete-stat
-  📝 Queued: bank-rules-changes-from-october-1-2026-s
   📝 Queued: rbi-eases-bank-investment-rules-for-mutu
-  📝 Queued: rbi-rules-trigger-500-mn-fx-losses-for-i
-  📝 Queued: indian-banks-fx-trading-losses-hit-500-m
   📝 Queued: tata-trusts-propose-merger-of-tess-and-t
   📝 Queued: fema-rbi-rbi-s-expected-credit-loss-fram
   📝 Queued: fema-rbi-rbi-mandates-bis-certified-note
+  📝 Queued: fema-rbi-rbi-allows-delegation-of-atm-ca
+  📝 Queued: fema-rbi-rbi-master-circular-2026-on-cre
+  📝 Queued: fema-rbi-all-saturdays-are-not-bank-holi
   📝 Queued: fema-rbi-rbi-amends-local-area-bank-shar
   📝 Queued: fema-rbi-rbi-introduces-one-time-approva
   📝 Queued: fema-rbi-rbi-allows-one-time-approval-fo
   📝 Queued: fema-rbi-rbi-withdraws-268-circulars-and
-  📝 Queued: fema-rbi-rbi-allows-delegation-of-atm-ca
-  📝 Queued: fema-rbi-rbi-master-circular-2026-on-cre
-  📝 Queued: fema-rbi-all-saturdays-are-not-bank-holi
   📝 Queued: fema-rbi-nbfc-rs-20-lakh-sarfaesi-thresh
   📝 Queued: fema-rbi-bank-cannot-be-forced-to-recons
   📝 Queued: fema-rbi-rbi-annual-performance-report-a
@@ -109,9 +105,12 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
   📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
   📝 Queued: master-direction-on-note-sorting-machine
-  📝 Queued: implementation-of-section-51a-of-uapa-19
+  📝 Queued: reserve-bank-of-india-commercial-banks-a
+  📝 Queued: reserve-bank-of-india-small-finance-bank
+  📝 Queued: reserve-bank-of-india-payments-banks-acq
+  📝 Queued: reserve-bank-of-india-local-area-banks-a
 
 ============================================================
-Done. 79 new items processed.
+Done. 78 new items processed.
 ============================================================
 
