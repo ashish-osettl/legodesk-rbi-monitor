@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 08 Oct 2026 09:49 UTC
+RBI Monitor v2 — 09 Oct 2026 09:53 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 48 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 52 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 152
-New lender-relevant items (deduplicated): 85
+Total items fetched: 156
+New lender-relevant items (deduplicated): 84
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -33,34 +33,38 @@ Sending notifications...
 Queuing Academy content...
   📝 Queued: 18-gst-proposed-on-nbfc-co-lending-why-t
   📝 Queued: rbi-says-nbfc-ban-on-revolving-credit-is
-  📝 Queued: india-bank-liquidity-surplus-likely-to-d
   📝 Queued: rbi-extends-restrictions-on-samarth-urba
+  📝 Queued: india-bank-liquidity-surplus-likely-to-d
   📝 Queued: innovative-co-op-bank-delhi-35-000-limit
-  📝 Queued: special-purpose-ppi-may-be-loaded-by-a-c
-  📝 Queued: rbi-mpc-october-2026-will-repo-rate-rise
+  📝 Queued: rbi-removes-deferred-option-premium-prov
   📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-sets-rs-25-000-crore-threshold-for-n
+  📝 Queued: what-rbi-s-new-market-risk-framework-mea
   📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
-  📝 Queued: fd-rules-changing-from-october-1-2026-un
+  📝 Queued: india-rate-hike-will-not-stem-outflows-l
+  📝 Queued: liquidity-rbi-restricts-withdrawals-in-t
+  📝 Queued: rbi-removes-paytm-payments-bank-from-sch
   📝 Queued: rbi-revises-norms-for-counterparty-credi
-  📝 Queued: suryoday-small-finance-bank-appoints-alo
   📝 Queued: rbi-extends-baghat-bank-curbs-for-3-more
   📝 Queued: rbi-issues-revised-sa-ccr-directions-cap
   📝 Queued: rbi-extends-regulatory-directions-on-mot
-  📝 Queued: axis-bank-nsei-axisbank-stock-forecast-a
-  📝 Queued: rbi-issues-cva-framework-for-commercial-
-  📝 Queued: rbi-eases-bank-share-acquisition-norms-f
+  📝 Queued: rbi-updates-capital-norms-for-payments-b
+  📝 Queued: regulatory-blueprint-a-comprehensive-ana
+  📝 Queued: rbi-amends-capital-adequacy-directions-f
+  📝 Queued: rbi-revises-counterparty-credit-risk-cap
+  📝 Queued: rbi-amends-capital-adequacy-norms-for-sm
   📝 Queued: a-three-year-ceo-term-is-approved-at-hdf
+  📝 Queued: your-bank-deposits-could-soon-show-up-in
   📝 Queued: rbi-excludes-paytm-payments-bank-from-sc
   📝 Queued: personal-loan-scams-7-red-flags-borrower
-  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
-  📝 Queued: hdfc-bank-shares-slip-2-despite-ceo-clar
+  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: incorrect-flat-area-in-bank-auction-docu
-  📝 Queued: hdfc-bank-names-v-n-srivatsan-as-complia
-  📝 Queued: paul-merchants-receives-20-000-penalty-f
+  📝 Queued: sachin-mittal-from-digital-lending-pione
   📝 Queued: rbi-extends-curbs-on-3-cooperative-banks
+  📝 Queued: fema-rbi-fema-export-import-regulations-
+  📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
+  📝 Queued: fema-rbi-overseas-direct-investment-in-u
   📝 Queued: fema-rbi-rbi-revises-qccp-exposure-risk-
   📝 Queued: fema-rbi-rbi-credit-valuation-adjustment
   📝 Queued: fema-rbi-rbi-amends-aifi-capital-adequac
@@ -86,7 +90,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-union-budget-2026-27-changes-m-
   📝 Queued: fema-rbi-bank-must-give-reasons-before-c
   📝 Queued: fema-rbi-unserved-inspection-report-inva
-  📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-public-sector-and-regional-rura
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
   📝 Queued: fema-rbi-incomplete-bank-trail-fails-to-
@@ -112,12 +115,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-issues-second-amendment-dir
   📝 Queued: fema-rbi-rbi-proposes-sop-for-suspected-
   📝 Queued: fema-rbi-rbi-proposes-ban-on-revolving-c
-  📝 Queued: fema-rbi-rbi-withdraws-seven-inoperative
-  📝 Queued: fema-rbi-sc-upholds-rbi-s-5-year-superse
-  📝 Queued: fema-rbi-rbi-notification-unsc-1988-2011
-  📝 Queued: fema-rbi-rbi-notification-on-unsc-1267-1
 
 ============================================================
-Done. 85 new items processed.
+Done. 84 new items processed.
 ============================================================
 
