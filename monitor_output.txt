@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 10 Oct 2026 09:17 UTC
+RBI Monitor v2 — 11 Oct 2026 09:34 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -21,7 +21,7 @@ Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
 Total items fetched: 132
-New lender-relevant items (deduplicated): 67
+New lender-relevant items (deduplicated): 65
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -33,32 +33,30 @@ Sending notifications...
 Queuing Academy content...
   📝 Queued: 18-gst-proposed-on-nbfc-co-lending-why-t
   📝 Queued: rbi-extends-restrictions-on-samarth-urba
-  📝 Queued: india-bank-liquidity-surplus-likely-to-d
-  📝 Queued: innovative-co-op-bank-delhi-35-000-limit
-  📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-removes-deferred-option-premium-prov
+  📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-sets-rs-25-000-crore-threshold-for-n
   📝 Queued: what-rbi-s-new-market-risk-framework-mea
-  📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
   📝 Queued: india-rate-hike-will-not-stem-outflows-l
+  📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
   📝 Queued: liquidity-rbi-restricts-withdrawals-in-t
+  📝 Queued: paytm-shares-tumble-10-after-rbi-removes
   📝 Queued: rbi-removes-paytm-payments-bank-from-sch
   📝 Queued: rbi-revises-norms-for-counterparty-credi
   📝 Queued: rbi-extends-baghat-bank-curbs-for-3-more
-  📝 Queued: rbi-issues-revised-sa-ccr-directions-cap
   📝 Queued: rbi-extends-regulatory-directions-on-mot
-  📝 Queued: regulatory-blueprint-a-comprehensive-ana
+  📝 Queued: rbi-issues-revised-sa-ccr-directions-cap
   📝 Queued: rbi-revises-counterparty-credit-risk-cap
   📝 Queued: rbi-issues-revised-norms-on-standardised
   📝 Queued: your-bank-deposits-could-soon-show-up-in
   📝 Queued: rbi-excludes-paytm-payments-bank-from-sc
-  📝 Queued: personal-loan-scams-7-red-flags-borrower
   📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
   📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: foreign-exchange-reserves-declined-week-
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: hdb-4-day-deadline-alert-hdfc-bank-limit
+  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
   📝 Queued: sachin-mittal-from-digital-lending-pione
+  📝 Queued: hdb-4-day-deadline-alert-hdfc-bank-limit
   📝 Queued: rbi-extends-curbs-on-3-cooperative-banks
   📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
@@ -100,6 +98,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-repatriating-uae-business-profi
 
 ============================================================
-Done. 67 new items processed.
+Done. 65 new items processed.
 ============================================================
 
