@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 11 Oct 2026 09:34 UTC
+RBI Monitor v2 — 12 Oct 2026 10:05 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 49 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 132
-New lender-relevant items (deduplicated): 65
+Total items fetched: 129
+New lender-relevant items (deduplicated): 63
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,28 +32,27 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: 18-gst-proposed-on-nbfc-co-lending-why-t
+  📝 Queued: annual-report-official-website-of-reserv
+  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
   📝 Queued: rbi-extends-restrictions-on-samarth-urba
-  📝 Queued: rbi-removes-deferred-option-premium-prov
   📝 Queued: rbi-brings-new-rule-for-banks-to-measure
+  📝 Queued: rbi-removes-deferred-option-premium-prov
   📝 Queued: rbi-sets-rs-25-000-crore-threshold-for-n
   📝 Queued: what-rbi-s-new-market-risk-framework-mea
-  📝 Queued: india-rate-hike-will-not-stem-outflows-l
+  📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
+  📝 Queued: india-rate-hike-will-not-stem-outflows-l
   📝 Queued: liquidity-rbi-restricts-withdrawals-in-t
   📝 Queued: paytm-shares-tumble-10-after-rbi-removes
-  📝 Queued: rbi-removes-paytm-payments-bank-from-sch
-  📝 Queued: rbi-revises-norms-for-counterparty-credi
   📝 Queued: rbi-extends-baghat-bank-curbs-for-3-more
+  📝 Queued: rbi-removes-paytm-payments-bank-from-sch
   📝 Queued: rbi-extends-regulatory-directions-on-mot
-  📝 Queued: rbi-issues-revised-sa-ccr-directions-cap
-  📝 Queued: rbi-revises-counterparty-credit-risk-cap
   📝 Queued: rbi-issues-revised-norms-on-standardised
-  📝 Queued: your-bank-deposits-could-soon-show-up-in
-  📝 Queued: rbi-excludes-paytm-payments-bank-from-sc
-  📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
   📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
+  📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
   📝 Queued: foreign-exchange-reserves-declined-week-
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
+  📝 Queued: instant-loan-instant-regret-what-to-chec
   📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
   📝 Queued: sachin-mittal-from-digital-lending-pione
   📝 Queued: hdb-4-day-deadline-alert-hdfc-bank-limit
@@ -61,6 +60,7 @@ Queuing Academy content...
   📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
   📝 Queued: fema-rbi-overseas-direct-investment-in-u
+  📝 Queued: fema-rbi-rbi-repo-rate-hike-to-5-50-corp
   📝 Queued: fema-rbi-rbi-revises-qccp-exposure-risk-
   📝 Queued: fema-rbi-rbi-credit-valuation-adjustment
   📝 Queued: fema-rbi-rbi-amends-aifi-capital-adequac
@@ -70,7 +70,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-amends-counterparty-credit-
   📝 Queued: fema-rbi-rbi-raises-bank-rate-to-5-75-re
   📝 Queued: fema-rbi-rbi-raises-repo-rate-to-5-50-fo
-  📝 Queued: fema-rbi-rbi-repo-rate-hike-to-5-50-corp
   📝 Queued: fema-rbi-rbi-s-expected-credit-loss-fram
   📝 Queued: fema-rbi-rbi-mandates-bis-certified-note
   📝 Queued: fema-rbi-rbi-amends-local-area-bank-shar
@@ -95,9 +94,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-amends-commercial-banks-inv
   📝 Queued: fema-rbi-rbi-finalises-novation-rules-fo
   📝 Queued: fema-rbi-rbi-commercial-banks-minimum-ca
-  📝 Queued: fema-rbi-repatriating-uae-business-profi
 
 ============================================================
-Done. 65 new items processed.
+Done. 63 new items processed.
 ============================================================
 
