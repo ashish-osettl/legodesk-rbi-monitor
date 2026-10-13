@@ -1,27 +1,27 @@
 
 ============================================================
-RBI Monitor v2 — 12 Oct 2026 10:05 UTC
+RBI Monitor v2 — 13 Oct 2026 09:58 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 49 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 75 items
   ✅ IBClaw — RBI Circulars: 0 items
-  ✅ Fintech India — Regulatory: 2 items
+  ⚠️  Fintech India — Regulatory: HTTP Error 403: Forbidden
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 129
-New lender-relevant items (deduplicated): 63
+Total items fetched: 125
+New lender-relevant items (deduplicated): 64
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -35,31 +35,33 @@ Queuing Academy content...
   📝 Queued: annual-report-official-website-of-reserv
   📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
   📝 Queued: rbi-extends-restrictions-on-samarth-urba
-  📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-removes-deferred-option-premium-prov
+  📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-sets-rs-25-000-crore-threshold-for-n
   📝 Queued: what-rbi-s-new-market-risk-framework-mea
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: rbi-extends-restrictions-on-two-co-op-ba
   📝 Queued: india-rate-hike-will-not-stem-outflows-l
-  📝 Queued: liquidity-rbi-restricts-withdrawals-in-t
-  📝 Queued: paytm-shares-tumble-10-after-rbi-removes
-  📝 Queued: rbi-extends-baghat-bank-curbs-for-3-more
+  📝 Queued: central-bank-measures-intervention-spark
+  📝 Queued: solan-rbi-extends-baghat-bank-curbs-for-
   📝 Queued: rbi-removes-paytm-payments-bank-from-sch
-  📝 Queued: rbi-extends-regulatory-directions-on-mot
   📝 Queued: rbi-issues-revised-norms-on-standardised
-  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
-  📝 Queued: rbi-mpc-october-2026-25-bps-hike-impact-
+  📝 Queued: banks-seek-clarification-on-implementati
   📝 Queued: foreign-exchange-reserves-declined-week-
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
+  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: instant-loan-instant-regret-what-to-chec
   📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
+  📝 Queued: rs-5-89-crore-fd-interest-slashed-from-7
+  📝 Queued: how-digital-kyc-is-making-gold-loans-fas
   📝 Queued: sachin-mittal-from-digital-lending-pione
-  📝 Queued: hdb-4-day-deadline-alert-hdfc-bank-limit
-  📝 Queued: rbi-extends-curbs-on-3-cooperative-banks
+  📝 Queued: borrower-took-a-loan-using-103-grams-of-
+  📝 Queued: kaleshwar-aryasomayajula-of-charles-schw
+  📝 Queued: loan-collection-in-india-is-still-largel
+  📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
+  📝 Queued: fema-rbi-recognising-stress-before-it-sp
+  📝 Queued: fema-rbi-overseas-direct-investment-by-i
   📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
-  📝 Queued: fema-rbi-overseas-direct-investment-in-u
   📝 Queued: fema-rbi-rbi-repo-rate-hike-to-5-50-corp
   📝 Queued: fema-rbi-rbi-revises-qccp-exposure-risk-
   📝 Queued: fema-rbi-rbi-credit-valuation-adjustment
@@ -93,9 +95,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-amends-local-area-banks-inv
   📝 Queued: fema-rbi-rbi-amends-commercial-banks-inv
   📝 Queued: fema-rbi-rbi-finalises-novation-rules-fo
-  📝 Queued: fema-rbi-rbi-commercial-banks-minimum-ca
 
 ============================================================
-Done. 63 new items processed.
+Done. 64 new items processed.
 ============================================================
 
