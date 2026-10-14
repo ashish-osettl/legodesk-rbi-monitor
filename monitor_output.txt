@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 13 Oct 2026 09:58 UTC
+RBI Monitor v2 — 14 Oct 2026 08:17 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 46 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 45 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
@@ -14,14 +14,14 @@ Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 75 items
   ✅ IBClaw — RBI Circulars: 0 items
-  ⚠️  Fintech India — Regulatory: HTTP Error 403: Forbidden
+  ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 125
-New lender-relevant items (deduplicated): 64
+Total items fetched: 126
+New lender-relevant items (deduplicated): 62
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -34,7 +34,7 @@ Queuing Academy content...
   📝 Queued: 18-gst-proposed-on-nbfc-co-lending-why-t
   📝 Queued: annual-report-official-website-of-reserv
   📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
-  📝 Queued: rbi-extends-restrictions-on-samarth-urba
+  📝 Queued: india-s-fx-curbs-make-lenders-wary-on-ru
   📝 Queued: rbi-removes-deferred-option-premium-prov
   📝 Queued: rbi-brings-new-rule-for-banks-to-measure
   📝 Queued: rbi-sets-rs-25-000-crore-threshold-for-n
@@ -42,19 +42,20 @@ Queuing Academy content...
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: india-rate-hike-will-not-stem-outflows-l
   📝 Queued: central-bank-measures-intervention-spark
-  📝 Queued: solan-rbi-extends-baghat-bank-curbs-for-
   📝 Queued: rbi-removes-paytm-payments-bank-from-sch
   📝 Queued: rbi-issues-revised-norms-on-standardised
   📝 Queued: banks-seek-clarification-on-implementati
+  📝 Queued: hdfc-bank-bse-500180-stock-forecast-anal
   📝 Queued: foreign-exchange-reserves-declined-week-
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: instant-loan-instant-regret-what-to-chec
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
+  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
   📝 Queued: rs-5-89-crore-fd-interest-slashed-from-7
   📝 Queued: how-digital-kyc-is-making-gold-loans-fas
-  📝 Queued: sachin-mittal-from-digital-lending-pione
   📝 Queued: borrower-took-a-loan-using-103-grams-of-
+  📝 Queued: sachin-mittal-from-digital-lending-pione
+  📝 Queued: sbi-warns-of-jumped-deposit-scam-can-vic
+  📝 Queued: rbi-tightens-bank-liquidity-requirements
   📝 Queued: kaleshwar-aryasomayajula-of-charles-schw
   📝 Queued: loan-collection-in-india-is-still-largel
   📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
@@ -92,11 +93,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-incomplete-bank-trail-fails-to-
   📝 Queued: fema-rbi-rbi-amends-payments-banks-inves
   📝 Queued: fema-rbi-rbi-amends-small-finance-banks-
-  📝 Queued: fema-rbi-rbi-amends-local-area-banks-inv
-  📝 Queued: fema-rbi-rbi-amends-commercial-banks-inv
-  📝 Queued: fema-rbi-rbi-finalises-novation-rules-fo
 
 ============================================================
-Done. 64 new items processed.
+Done. 62 new items processed.
 ============================================================
 
