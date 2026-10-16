@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 15 Oct 2026 07:54 UTC
+RBI Monitor v2 — 16 Oct 2026 07:47 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 41 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 39 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 3 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 122
-New lender-relevant items (deduplicated): 54
+Total items fetched: 120
+New lender-relevant items (deduplicated): 52
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,27 +31,26 @@ Sending notifications...
   ⚠️  Email failed: Connection unexpectedly closed
 
 Queuing Academy content...
+  📝 Queued: press-releases-official-website-of-reser
   📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
-  📝 Queued: rbi-removes-deferred-option-premium-prov
+  📝 Queued: india-s-rbi-has-spent-half-of-140-billio
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: what-rbi-s-new-market-risk-framework-mea
-  📝 Queued: rbi-removes-paytm-payments-bank-from-sch
   📝 Queued: govt-approves-strategic-restructuring-of
-  📝 Queued: central-bank-measures-intervention-spark
+  📝 Queued: federal-bank-nse-federalbnk-why-was-raje
   📝 Queued: ecl-psu-banks-may-face-greater-pressure-
   📝 Queued: banks-seek-clarification-on-implementati
-  📝 Queued: hdfc-bank-bse-500180-stock-forecast-anal
-  📝 Queued: foreign-exchange-reserves-declined-week-
-  📝 Queued: rs-5-89-crore-fd-interest-slashed-from-7
-  📝 Queued: how-digital-kyc-is-making-gold-loans-fas
+  📝 Queued: bad-loans-cast-shadow-over-baramulla-coo
+  📝 Queued: canadian-billionaire-and-asian-banking-t
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
+  📝 Queued: how-digital-kyc-is-making-gold-loans-fas
   📝 Queued: sbi-warns-of-jumped-deposit-scam-can-vic
   📝 Queued: borrower-took-a-loan-using-103-grams-of-
   📝 Queued: banks-still-hold-the-big-money-instant-l
-  📝 Queued: sachin-mittal-from-digital-lending-pione
-  📝 Queued: kaleshwar-aryasomayajula-of-charles-schw
+  📝 Queued: reserve-bank-of-india-approves-remunerat
   📝 Queued: cabinet-approves-rs-52-878-crore-sale-of
   📝 Queued: loan-collection-in-india-is-still-largel
+  📝 Queued: fema-rbi-safema-upholds-benami-attachmen
+  📝 Queued: fema-rbi-fema-penalty-reduced-by-50-but-
   📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
   📝 Queued: fema-rbi-recognising-stress-before-it-sp
   📝 Queued: fema-rbi-overseas-direct-investment-by-i
@@ -84,9 +83,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-unserved-inspection-report-inva
   📝 Queued: fema-rbi-public-sector-and-regional-rura
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
-  📝 Queued: fema-rbi-incomplete-bank-trail-fails-to-
 
 ============================================================
-Done. 54 new items processed.
+Done. 52 new items processed.
 ============================================================
 
