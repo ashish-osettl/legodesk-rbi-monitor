@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 18 Oct 2026 07:41 UTC
+RBI Monitor v2 — 19 Oct 2026 08:22 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 3 items
   ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 133
-New lender-relevant items (deduplicated): 68
+Total items fetched: 137
+New lender-relevant items (deduplicated): 70
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -34,34 +34,36 @@ Queuing Academy content...
   📝 Queued: udyam-assist-platform-2023-promoting-the
   📝 Queued: press-releases-official-website-of-reser
   📝 Queued: responsible-lending-and-borrower-protect
-  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
+  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: press-releases-reserve-bank-of-india
   📝 Queued: rbl-bank-receives-rbi-approval-to-merge-
   📝 Queued: india-s-rbi-has-spent-half-of-140-billio
   📝 Queued: rbi-approves-emirates-nbd-rbl-bank-merge
+  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
+  📝 Queued: csb-bank-denies-knowledge-of-idbi-bank-m
+  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
+  📝 Queued: penalty-on-hero-fincorp-ola-financial-se
   📝 Queued: same-arbitrator-in-4-155-cases-delhi-hig
   📝 Queued: rbi-approves-emirates-nbd-india-branches
-  📝 Queued: penalty-on-hero-fincorp-ola-financial-se
-  📝 Queued: csb-bank-denies-knowledge-of-idbi-bank-m
   📝 Queued: hdfc-bank-board-approves-lily-vadera-re-
-  📝 Queued: largest-ever-fdi-in-india-s-financial-se
-  📝 Queued: federal-bank-nse-federalbnk-why-was-raje
   📝 Queued: govt-approves-strategic-restructuring-of
-  📝 Queued: banks-seek-clarification-on-implementati
-  📝 Queued: rbi-clarifies-banks-must-maintain-20-fer
+  📝 Queued: federal-bank-nse-federalbnk-why-was-raje
   📝 Queued: missed-a-gold-loan-emi-know-when-your-pl
-  📝 Queued: rbi-approves-merger-of-emirates-nbd-s-in
+  📝 Queued: rbi-clarifies-banks-must-maintain-20-fer
   📝 Queued: hdfc-bank-q2-net-profit-grows-4-7-to-19-
-  📝 Queued: hdfc-bank-icici-bank-pnb-bob-fixed-depos
+  📝 Queued: rbi-approves-merger-of-emirates-nbd-s-in
   📝 Queued: canadian-billionaire-and-asian-banking-t
-  📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
   📝 Queued: yes-bank-s-legal-options-in-the-at-1-bon
+  📝 Queued: how-digital-kyc-is-making-gold-loans-fas
   📝 Queued: sbi-warns-of-jumped-deposit-scam-can-vic
   📝 Queued: borrower-took-a-loan-using-103-grams-of-
-  📝 Queued: a-60-second-check-before-you-borrow-inst
+  📝 Queued: hdfc-bank-icici-bank-pnb-bob-fixed-depos
+  📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
   📝 Queued: iba-recommends-public-sector-banks-to-re
   📝 Queued: idbi-bank-privatisation-fairfax-group-wi
+  📝 Queued: big-news-rbi-approves-merger-of-emirates
   📝 Queued: borrowers-cannot-bypass-sarfaesi-pre-dep
+  📝 Queued: earnings-call-transcript-central-bank-of
   📝 Queued: drt-has-jurisdiction-over-msme-borrower-
   📝 Queued: loan-collection-in-india-is-still-largel
   📝 Queued: beyond-loan-defaults-rbi-s-2026-reforms-
@@ -101,6 +103,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-notifies-4-850-crore-exim-b
 
 ============================================================
-Done. 68 new items processed.
+Done. 70 new items processed.
 ============================================================
 
