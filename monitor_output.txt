@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 21 Oct 2026 08:11 UTC
+RBI Monitor v2 — 22 Oct 2026 08:12 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 59 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 2 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 136
-New lender-relevant items (deduplicated): 71
+Total items fetched: 145
+New lender-relevant items (deduplicated): 79
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -42,31 +42,39 @@ Queuing Academy content...
   📝 Queued: how-can-dependants-access-bank-savings-o
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: penalty-on-hero-fincorp-ola-financial-se
+  📝 Queued: india-s-rbi-has-spent-half-of-140-billio
+  📝 Queued: rbi-imposes-restrictions-on-puducherry-c
+  📝 Queued: rbi-caps-puducherry-co-op-bank-withdrawa
   📝 Queued: rbi-extends-restrictions-on-konark-urban
-  📝 Queued: same-arbitrator-in-4-155-cases-delhi-hig
   📝 Queued: rbi-scraps-non-option-derivative-limits-
-  📝 Queued: rbi-approves-emirates-nbd-india-branches
-  📝 Queued: largest-ever-fdi-in-india-s-financial-se
-  📝 Queued: canadian-billionaire-and-asian-banking-t
+  📝 Queued: same-arbitrator-in-4-155-cases-delhi-hig
+  📝 Queued: rbi-s-restrictions-puducherry-co-op-urba
   📝 Queued: federal-bank-nse-federalbnk-why-was-raje
+  📝 Queued: rbi-approves-emirates-nbd-india-branches
+  📝 Queued: canadian-billionaire-and-asian-banking-t
   📝 Queued: axis-bank-nsei-axisbank-stock-analysis-s
-  📝 Queued: govt-approves-strategic-restructuring-of
   📝 Queued: missed-a-gold-loan-emi-know-when-your-pl
+  📝 Queued: rbi-clarifies-banks-must-maintain-20-fer
   📝 Queued: hdfc-bank-q2-net-profit-grows-4-7-to-19-
+  📝 Queued: punjab-national-bank-q2-fy27-results-key
   📝 Queued: allahabad-high-court-asks-centre-rbi-how
+  📝 Queued: no-meddling-as-middlemen-in-forex-conver
   📝 Queued: au-small-finance-bank-recruitment-2026-a
-  📝 Queued: yes-bank-s-legal-options-in-the-at-1-bon
+  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
+  📝 Queued: rbi-faqs-on-nbfcs-registration-categorie
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: hdfc-bank-releases-investor-presentation
+  📝 Queued: home-loan-getting-costlier-how-a-higher-
   📝 Queued: iba-recommends-public-sector-banks-to-re
+  📝 Queued: who-can-access-a-coma-patient-s-bank-acc
   📝 Queued: rbi-imposes-penalty-on-hdfc-bank-shriram
-  📝 Queued: cabinet-approves-rs-52-878-crore-sale-of
   📝 Queued: big-news-rbi-approves-merger-of-emirates
+  📝 Queued: allahabad-high-court-asks-centre-rbi-to-
   📝 Queued: complydp-s-breakthrough-india-s-dpdp-act
   📝 Queued: earnings-call-transcript-central-bank-of
   📝 Queued: borrowers-cannot-bypass-sarfaesi-pre-dep
   📝 Queued: drt-has-jurisdiction-over-msme-borrower-
   📝 Queued: beyond-loan-defaults-rbi-s-2026-reforms-
+  📝 Queued: fema-rbi-nbfc-registration-with-rbi-elig
   📝 Queued: fema-rbi-rbi-small-finance-banks-miscell
   📝 Queued: fema-rbi-rbi-commercial-banks-miscellane
   📝 Queued: fema-rbi-rbi-circular-on-uapa-section-51
@@ -104,6 +112,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-bank-must-give-reasons-before-c
 
 ============================================================
-Done. 71 new items processed.
+Done. 79 new items processed.
 ============================================================
 
