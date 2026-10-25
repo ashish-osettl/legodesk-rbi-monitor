@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 24 Oct 2026 07:48 UTC
+RBI Monitor v2 — 25 Oct 2026 08:01 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 58 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 140
-New lender-relevant items (deduplicated): 79
+Total items fetched: 136
+New lender-relevant items (deduplicated): 73
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,45 +32,40 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: bajaj-finance-to-launch-new-term-loan-va
-  📝 Queued: udyam-assist-platform-2023-promoting-the
   📝 Queued: press-releases-reserve-bank-of-india
-  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
+  📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: india-s-rbi-governor-reiterates-listing-
-  📝 Queued: rbi-extends-restrictions-on-suri-friends
   📝 Queued: rbi-removes-non-option-derivative-contra
   📝 Queued: rbi-imposes-restrictions-on-puducherry-c
-  📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: how-can-dependants-access-bank-savings-o
-  📝 Queued: penalty-imposed-on-5-nbfcs-in-1-week-htt
-  📝 Queued: penalty-on-hero-fincorp-ola-financial-se
   📝 Queued: rbi-caps-puducherry-co-op-bank-withdrawa
-  📝 Queued: nbfcs-shift-towards-secured-retail-credi
   📝 Queued: rbi-rate-hike-and-home-loan-emi-5-steps-
+  📝 Queued: rbi-s-restrictions-puducherry-co-op-urba
   📝 Queued: rajesh-varrier-joins-federal-bank-board-
+  📝 Queued: penalty-imposed-on-5-nbfcs-in-1-week-htt
+  📝 Queued: comprehensive-guide-to-rbi-s-2026-amendm
+  📝 Queued: nbfcs-shift-towards-secured-retail-credi
+  📝 Queued: rbi-revises-leverage-ratio-framework-for
   📝 Queued: rbi-issues-final-leverage-ratio-rules-fo
-  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
   📝 Queued: rbi-scraps-non-option-derivative-limits-
-  📝 Queued: rbi-rolls-out-tighter-capital-adequacy-n
-  📝 Queued: canadian-billionaire-and-asian-banking-t
-  📝 Queued: rbi-caps-puducherry-co-operative-urban-b
+  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
   📝 Queued: rbi-sets-new-leverage-ratio-norms-for-ba
+  📝 Queued: rbi-rolls-out-tighter-capital-adequacy-n
+  📝 Queued: rbi-caps-puducherry-co-operative-urban-b
+  📝 Queued: canadian-billionaire-and-asian-banking-t
   📝 Queued: india-s-glittering-gold-loan-sector-risk
-  📝 Queued: india-s-digital-payments-keep-growing-bu
+  📝 Queued: upper-class-nbfcs-must-list-to-avoid-ris
   📝 Queued: allahabad-high-court-asks-centre-rbi-how
   📝 Queued: au-small-finance-bank-recruitment-2026-a
   📝 Queued: deposits-grow-18-8-at-hdfc-bank-hdb-outp
   📝 Queued: from-sbi-to-icici-major-banking-data-bre
-  📝 Queued: supreme-court-defers-andhra-pradesh-civi
   📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
+  📝 Queued: supreme-court-defers-andhra-pradesh-civi
   📝 Queued: rbi-faqs-on-nbfcs-registration-categorie
   📝 Queued: gold-loan-market-india-faces-a-borrower-
   📝 Queued: indusind-bank-nse-indusindbk-q2-fy27-boa
   📝 Queued: rbi-alert-about-ai-driven-cyber-risks-ba
   📝 Queued: j-k-bank-q2-fy27-results-key-figures-fro
   📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
-  📝 Queued: hdfc-bank-proposes-3-year-term-for-lily-
-  📝 Queued: who-can-access-a-coma-patient-s-bank-acc
-  📝 Queued: rbi-imposes-penalty-on-hdfc-bank-shriram
   📝 Queued: big-news-rbi-approves-merger-of-emirates
   📝 Queued: allahabad-high-court-asks-centre-rbi-to-
   📝 Queued: earnings-call-transcript-central-bank-of
@@ -109,9 +104,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-amends-local-area-bank-shar
   📝 Queued: fema-rbi-rbi-introduces-one-time-approva
   📝 Queued: fema-rbi-rbi-allows-one-time-approval-fo
-  📝 Queued: fema-rbi-rbi-withdraws-268-circulars-and
 
 ============================================================
-Done. 79 new items processed.
+Done. 73 new items processed.
 ============================================================
 
