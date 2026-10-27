@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 26 Oct 2026 08:22 UTC
+RBI Monitor v2 — 27 Oct 2026 08:33 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 53 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 29 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 0 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 133
-New lender-relevant items (deduplicated): 72
+Total items fetched: 109
+New lender-relevant items (deduplicated): 52
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -34,40 +34,21 @@ Queuing Academy content...
   📝 Queued: bajaj-finance-to-launch-new-term-loan-va
   📝 Queued: from-bad-loans-to-market-risk-india-s-ba
   📝 Queued: press-releases-official-website-of-reser
-  📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: press-releases-reserve-bank-of-india
+  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
   📝 Queued: india-s-rbi-governor-reiterates-listing-
   📝 Queued: rbi-removes-non-option-derivative-contra
-  📝 Queued: rbi-imposes-restrictions-on-puducherry-c
-  📝 Queued: rbi-caps-puducherry-co-op-bank-withdrawa
   📝 Queued: rbi-spells-out-operational-risk-capital-
-  📝 Queued: penalty-imposed-on-5-nbfcs-in-1-week-htt
-  📝 Queued: comprehensive-guide-to-rbi-s-2026-amendm
   📝 Queued: nbfcs-shift-towards-secured-retail-credi
-  📝 Queued: rbi-rate-hike-and-home-loan-emi-5-steps-
-  📝 Queued: rbi-revises-leverage-ratio-framework-for
+  📝 Queued: rbi-imposes-restrictions-on-puducherry-c
   📝 Queued: rajesh-varrier-joins-federal-bank-board-
-  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
-  📝 Queued: rbi-scraps-non-option-derivative-limits-
-  📝 Queued: rbi-issues-final-leverage-ratio-rules-fo
-  📝 Queued: rbi-sets-new-leverage-ratio-norms-for-ba
-  📝 Queued: rbi-rolls-out-tighter-capital-adequacy-n
+  📝 Queued: don-t-bank-on-rbi-alone-the-investor-pro
   📝 Queued: rbi-caps-puducherry-co-operative-urban-b
-  📝 Queued: india-s-glittering-gold-loan-sector-risk
-  📝 Queued: upper-class-nbfcs-must-list-to-avoid-ris
-  📝 Queued: allahabad-high-court-asks-centre-rbi-how
-  📝 Queued: au-small-finance-bank-recruitment-2026-a
-  📝 Queued: from-sbi-to-icici-major-banking-data-bre
-  📝 Queued: deposits-grow-18-8-at-hdfc-bank-hdb-outp
-  📝 Queued: supreme-court-defers-andhra-pradesh-civi
-  📝 Queued: bptp-kabul-chawla-sudhanshu-tripathi-537
-  📝 Queued: gold-loan-market-india-faces-a-borrower-
-  📝 Queued: indusind-bank-nse-indusindbk-q2-fy27-boa
-  📝 Queued: rbi-alert-about-ai-driven-cyber-risks-ba
-  📝 Queued: j-k-bank-q2-fy27-results-key-figures-fro
-  📝 Queued: yes-bank-nsei-yesbank-stock-forecast-ana
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
-  📝 Queued: earnings-call-transcript-central-bank-of
+  📝 Queued: rbi-rolls-out-tighter-capital-adequacy-n
+  📝 Queued: mandatory-listing-missing-enforcement-de
+  📝 Queued: india-s-digital-payments-keep-growing-bu
+  📝 Queued: rbi-issues-final-leverage-ratio-rules-fo
+  📝 Queued: hdfc-bank-anup-bagchi-takes-charge-as-md
+  📝 Queued: fema-rbi-rti-act-covers-private-cooperat
   📝 Queued: fema-rbi-operational-risk-capital-rules-
   📝 Queued: fema-rbi-fema-compounding-for-overseas-i
   📝 Queued: fema-rbi-rbi-revises-bank-leverage-ratio
@@ -102,9 +83,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-mandates-bis-certified-note
   📝 Queued: fema-rbi-rbi-amends-local-area-bank-shar
   📝 Queued: fema-rbi-rbi-introduces-one-time-approva
-  📝 Queued: fema-rbi-rbi-allows-one-time-approval-fo
 
 ============================================================
-Done. 72 new items processed.
+Done. 52 new items processed.
 ============================================================
 
