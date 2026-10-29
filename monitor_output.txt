@@ -1,27 +1,27 @@
 
 ============================================================
-RBI Monitor v2 — 28 Oct 2026 09:12 UTC
+RBI Monitor v2 — 29 Oct 2026 09:12 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 29 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
   ✅ TaxGuru — RBI: 75 items
-  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
+  ✅ IBClaw — RBI Circulars: 0 items
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 109
-New lender-relevant items (deduplicated): 52
+Total items fetched: 129
+New lender-relevant items (deduplicated): 65
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,22 +32,35 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: from-bad-loans-to-market-risk-india-s-ba
+  📝 Queued: cbic-issued-clarifications-regarding-app
   📝 Queued: press-releases-official-website-of-reser
-  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
-  📝 Queued: india-s-rbi-governor-reiterates-listing-
+  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: speeches-media-interactions-reserve-bank
+  📝 Queued: october-2026-global-regulatory-brief-ban
   📝 Queued: mandatory-listing-missing-enforcement-de
+  📝 Queued: rbi-bulk-deposit-rate-rules-from-1-octob
   📝 Queued: rbi-extends-the-term-of-regulatory-direc
-  📝 Queued: rbi-caps-puducherry-co-op-bank-withdrawa
-  📝 Queued: rbi-spells-out-operational-risk-capital-
   📝 Queued: nbfcs-shift-towards-secured-retail-credi
-  📝 Queued: rbi-imposes-restrictions-on-puducherry-c
+  📝 Queued: rbi-rate-hike-and-home-loan-emi-5-steps-
+  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
   📝 Queued: don-t-bank-on-rbi-alone-the-investor-pro
-  📝 Queued: rbi-rolls-out-tighter-capital-adequacy-n
-  📝 Queued: india-central-bank-to-impose-new-leverag
-  📝 Queued: india-s-digital-payments-keep-growing-bu
-  📝 Queued: canara-bank-gets-rbi-approval-for-call-o
+  📝 Queued: rajesh-varrier-joins-federal-bank-board-
+  📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
+  📝 Queued: rbi-extends-restrictions-on-one-co-op-ba
+  📝 Queued: rbi-revises-leverage-ratio-framework-for
+  📝 Queued: rbi-extends-regulatory-directions-on-lok
+  📝 Queued: rbi-spells-out-operational-risk-capital-
+  📝 Queued: earnings-call-transcript-city-union-bank
+  📝 Queued: supreme-court-defers-andhra-pradesh-civi
+  📝 Queued: gold-loan-market-india-faces-a-borrower-
+  📝 Queued: hdfc-bank-anup-bagchi-takes-charge-as-md
+  📝 Queued: indusind-bank-nse-indusindbk-q2-fy27-boa
+  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-analysis-s
   📝 Queued: rbi-recruitment-calendar-2027-out-grade-
+  📝 Queued: whatsapp-instant-loan-fraud-5-red-flags-
   📝 Queued: cbic-clarifies-rupee-receipts-set-offs-b
+  📝 Queued: supreme-court-directs-atibir-industries-
+  📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
   📝 Queued: fema-rbi-indian-bank-mortgage-fails-to-d
   📝 Queued: fema-rbi-fema-loan-rule-breach-by-educat
   📝 Queued: fema-rbi-delhi-district-reorganisation-r
@@ -85,6 +98,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-s-expected-credit-loss-fram
 
 ============================================================
-Done. 52 new items processed.
+Done. 65 new items processed.
 ============================================================
 
