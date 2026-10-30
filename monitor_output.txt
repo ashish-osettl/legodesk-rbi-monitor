@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 29 Oct 2026 09:12 UTC
+RBI Monitor v2 — 30 Oct 2026 09:26 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 47 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 56 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 129
-New lender-relevant items (deduplicated): 65
+Total items fetched: 141
+New lender-relevant items (deduplicated): 74
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -33,33 +33,43 @@ Sending notifications...
 Queuing Academy content...
   📝 Queued: from-bad-loans-to-market-risk-india-s-ba
   📝 Queued: cbic-issued-clarifications-regarding-app
-  📝 Queued: press-releases-official-website-of-reser
-  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: gst-exemption-covers-banks-internal-fund
   📝 Queued: speeches-media-interactions-reserve-bank
+  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
+  📝 Queued: modernizing-indian-banks-a-defense-again
   📝 Queued: october-2026-global-regulatory-brief-ban
+  📝 Queued: digital-arrest-supreme-court-says-rbi-ru
+  📝 Queued: rbi-extends-restrictions-on-irinjalakuda
+  📝 Queued: banks-must-compensate-digital-fraud-vict
   📝 Queued: mandatory-listing-missing-enforcement-de
-  📝 Queued: rbi-bulk-deposit-rate-rules-from-1-octob
+  📝 Queued: digital-arrest-scams-supreme-court-rbi-a
+  📝 Queued: sc-asks-rbi-to-make-banks-fully-compensa
   📝 Queued: rbi-extends-the-term-of-regulatory-direc
-  📝 Queued: nbfcs-shift-towards-secured-retail-credi
-  📝 Queued: rbi-rate-hike-and-home-loan-emi-5-steps-
-  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
-  📝 Queued: don-t-bank-on-rbi-alone-the-investor-pro
-  📝 Queued: rajesh-varrier-joins-federal-bank-board-
   📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
-  📝 Queued: rbi-extends-restrictions-on-one-co-op-ba
+  📝 Queued: supreme-court-says-banks-must-compensate
+  📝 Queued: nbfcs-shift-towards-secured-retail-credi
+  📝 Queued: new-rbi-forex-derivative-rules-make-fcnr
+  📝 Queued: dcb-bank-discloses-266-36-crore-in-relat
+  📝 Queued: rajesh-varrier-joins-federal-bank-board-
   📝 Queued: rbi-revises-leverage-ratio-framework-for
-  📝 Queued: rbi-extends-regulatory-directions-on-lok
-  📝 Queued: rbi-spells-out-operational-risk-capital-
-  📝 Queued: earnings-call-transcript-city-union-bank
-  📝 Queued: supreme-court-defers-andhra-pradesh-civi
-  📝 Queued: gold-loan-market-india-faces-a-borrower-
-  📝 Queued: hdfc-bank-anup-bagchi-takes-charge-as-md
+  📝 Queued: rbi-imposes-1-56-crore-penalty-on-punjab
+  📝 Queued: rbi-extends-restrictions-on-one-co-op-ba
+  📝 Queued: banks-must-compensate-digital-fraudvicti
+  📝 Queued: ai-cyberattacks-on-nbfcs-rs-300-cr-lost-
+  📝 Queued: rbi-sets-new-leverage-ratio-norms-for-ba
+  📝 Queued: rbi-extends-restrictions-on-kerala-s-iri
+  📝 Queued: banks-must-pay-customers-who-become-vict
+  📝 Queued: supreme-court-to-examine-rbi-s-anti-cybe
+  📝 Queued: canara-bank-pays-7-30-lakh-penalty-to-rb
+  📝 Queued: supreme-court-seeks-full-bank-compensati
   📝 Queued: indusind-bank-nse-indusindbk-q2-fy27-boa
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-analysis-s
-  📝 Queued: rbi-recruitment-calendar-2027-out-grade-
+  📝 Queued: supreme-court-asks-rbi-to-make-banks-com
+  📝 Queued: big-relief-for-cyber-fraud-victims-supre
+  📝 Queued: punjab-national-bank-faces-rs-1-56-crore
   📝 Queued: whatsapp-instant-loan-fraud-5-red-flags-
-  📝 Queued: cbic-clarifies-rupee-receipts-set-offs-b
+  📝 Queued: exploring-the-role-of-e-notices-in-debt-
   📝 Queued: supreme-court-directs-atibir-industries-
+  📝 Queued: fema-rbi-supreme-court-clarifies-section
   📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
   📝 Queued: fema-rbi-indian-bank-mortgage-fails-to-d
   📝 Queued: fema-rbi-fema-loan-rule-breach-by-educat
@@ -95,9 +105,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-amends-counterparty-credit-
   📝 Queued: fema-rbi-rbi-raises-bank-rate-to-5-75-re
   📝 Queued: fema-rbi-rbi-raises-repo-rate-to-5-50-fo
-  📝 Queued: fema-rbi-rbi-s-expected-credit-loss-fram
 
 ============================================================
-Done. 65 new items processed.
+Done. 74 new items processed.
 ============================================================
 
