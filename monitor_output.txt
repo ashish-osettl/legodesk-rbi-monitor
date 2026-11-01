@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 31 Oct 2026 09:10 UTC
+RBI Monitor v2 — 01 Nov 2026 09:57 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 51 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 57 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,7 +20,7 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 136
+Total items fetched: 140
 New lender-relevant items (deduplicated): 73
 
 Running AI analysis...
@@ -36,8 +36,8 @@ Queuing Academy content...
   📝 Queued: gst-exemption-covers-banks-internal-fund
   📝 Queued: speeches-media-interactions-reserve-bank
   📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
-  📝 Queued: the-reserve-bank-of-india-know-your-cust
   📝 Queued: digital-arrest-supreme-court-says-rbi-ru
+  📝 Queued: the-reserve-bank-of-india-know-your-cust
   📝 Queued: modernizing-indian-banks-a-defense-again
   📝 Queued: october-2026-global-regulatory-brief-ban
   📝 Queued: rbi-extends-restrictions-on-irinjalakuda
@@ -45,29 +45,29 @@ Queuing Academy content...
   📝 Queued: banks-must-compensate-digital-fraud-vict
   📝 Queued: mandatory-listing-missing-enforcement-de
   📝 Queued: sc-says-rbi-rules-must-make-banks-fully-
+  📝 Queued: digital-arrest-scams-supreme-court-rbi-a
   📝 Queued: rbi-imposes-penalty-of-rs1-25-cr-on-3-ba
   📝 Queued: supreme-court-says-banks-must-compensate
-  📝 Queued: digital-arrest-scams-supreme-court-rbi-a
-  📝 Queued: rbi-revises-leverage-ratio-framework-for
   📝 Queued: new-rbi-forex-derivative-rules-make-fcnr
-  📝 Queued: rs-300-cr-lost-in-ai-cyberattacks-on-nbf
   📝 Queued: digital-arrest-scams-in-india-supreme-co
-  📝 Queued: rbi-extends-restrictions-on-one-co-op-ba
-  📝 Queued: rbi-extends-regulatory-directions-on-lok
-  📝 Queued: rbi-extends-restrictions-on-kerala-s-iri
-  📝 Queued: banks-must-compensate-digital-fraudvicti
+  📝 Queued: rs-300-cr-lost-in-ai-cyberattacks-on-nbf
   📝 Queued: rbi-imposes-1-56-crore-penalty-on-punjab
-  📝 Queued: banks-must-pay-customers-who-become-vict
+  📝 Queued: pnb-s-banking-control-crisis-outsiders-i
+  📝 Queued: rbi-extends-regulatory-directions-on-lok
+  📝 Queued: banks-must-compensate-digital-fraudvicti
+  📝 Queued: banks-must-pay-victims-of-digital-fraud-
+  📝 Queued: earnings-call-transcript-city-union-bank
+  📝 Queued: banks-must-repay-digital-fraud-losses-if
   📝 Queued: rbi-announces-goi-floating-rate-bond-203
   📝 Queued: rbi-hikes-frb-2034-interest-rate-to-7-26
   📝 Queued: supreme-court-to-examine-rbi-s-anti-cybe
-  📝 Queued: canara-bank-pays-7-30-lakh-penalty-to-rb
   📝 Queued: supreme-court-seeks-full-bank-compensati
+  📝 Queued: canara-bank-pays-7-30-lakh-penalty-to-rb
+  📝 Queued: supreme-court-mandates-bank-compensation
   📝 Queued: supreme-court-asks-rbi-to-make-banks-com
-  📝 Queued: punjab-national-bank-faces-rs-1-56-crore
+  📝 Queued: big-relief-for-cyber-fraud-victims-supre
+  📝 Queued: rbi-sounds-alarm-over-rising-cyberattack
   📝 Queued: whatsapp-instant-loan-fraud-5-red-flags-
-  📝 Queued: exploring-the-role-of-e-notices-in-debt-
-  📝 Queued: supreme-court-directs-atibir-industries-
   📝 Queued: fema-rbi-rbi-form-fc-under-fema-overseas
   📝 Queued: fema-rbi-supreme-court-clarifies-section
   📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
