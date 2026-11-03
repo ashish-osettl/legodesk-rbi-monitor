@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 02 Nov 2026 10:25 UTC
+RBI Monitor v2 — 03 Nov 2026 10:22 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 55 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 23 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 137
-New lender-relevant items (deduplicated): 72
+Total items fetched: 104
+New lender-relevant items (deduplicated): 56
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -39,35 +39,19 @@ Queuing Academy content...
   📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
   📝 Queued: digital-arrest-supreme-court-says-rbi-ru
   📝 Queued: the-reserve-bank-of-india-know-your-cust
-  📝 Queued: modernizing-indian-banks-a-defense-again
   📝 Queued: october-2026-global-regulatory-brief-ban
   📝 Queued: rbi-extends-restrictions-on-irinjalakuda
   📝 Queued: new-singahi-guide-rbi-s-2026-rules-bring
-  📝 Queued: mandatory-listing-missing-enforcement-de
-  📝 Queued: banks-must-compensate-digital-fraud-vict
   📝 Queued: sc-says-rbi-rules-must-make-banks-fully-
-  📝 Queued: supreme-court-says-banks-must-compensate
-  📝 Queued: digital-arrest-scams-supreme-court-rbi-a
   📝 Queued: digital-arrest-scams-in-india-supreme-co
   📝 Queued: new-rbi-forex-derivative-rules-make-fcnr
-  📝 Queued: rs-300-cr-lost-in-ai-cyberattacks-on-nbf
-  📝 Queued: rbi-imposes-1-56-crore-penalty-on-punjab
-  📝 Queued: rbi-extends-restrictions-on-one-co-op-ba
   📝 Queued: pnb-s-banking-control-crisis-outsiders-i
-  📝 Queued: rbi-hikes-frb-2034-interest-rate-to-7-26
-  📝 Queued: rbi-extends-regulatory-directions-on-lok
-  📝 Queued: banks-must-compensate-digital-fraudvicti
-  📝 Queued: digital-arrest-how-big-is-the-scam-in-in
-  📝 Queued: banks-must-pay-victims-of-digital-fraud-
-  📝 Queued: supreme-court-to-examine-rbi-s-anti-cybe
-  📝 Queued: supreme-court-seeks-full-bank-compensati
-  📝 Queued: supreme-court-mandates-bank-compensation
-  📝 Queued: supreme-court-asks-rbi-to-make-banks-com
-  📝 Queued: big-relief-for-cyber-fraud-victims-supre
-  📝 Queued: punjab-national-bank-faces-rs-1-56-crore
-  📝 Queued: rbi-sounds-alarm-over-rising-cyberattack
-  📝 Queued: short-tenure-loans-monthly-emis-drive-up
-  📝 Queued: whatsapp-instant-loan-fraud-5-red-flags-
+  📝 Queued: rbi-approves-sankaran-g-as-city-union-ba
+  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
+  📝 Queued: rs-300-cr-lost-in-ai-cyberattacks-on-nbf
+  📝 Queued: rbi-grade-b-mains-and-final-cut-off-2026
+  📝 Queued: securedapp-unveils-securecms-to-help-ind
+  📝 Queued: is-your-bank-ready-for-dpdp-securecms-si
   📝 Queued: fema-rbi-rbi-form-fc-under-fema-overseas
   📝 Queued: fema-rbi-supreme-court-clarifies-section
   📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
@@ -105,6 +89,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-raises-bank-rate-to-5-75-re
 
 ============================================================
-Done. 72 new items processed.
+Done. 56 new items processed.
 ============================================================
 
