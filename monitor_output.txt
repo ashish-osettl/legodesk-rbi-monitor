@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 03 Nov 2026 10:22 UTC
+RBI Monitor v2 — 05 Nov 2026 10:11 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 23 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 18 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 104
-New lender-relevant items (deduplicated): 56
+Total items fetched: 101
+New lender-relevant items (deduplicated): 44
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,26 +32,21 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: reining-in-banks-debt-collectors-rbi-s-n
-  📝 Queued: cbic-issued-clarifications-regarding-app
+  📝 Queued: rbi-s-proposed-curbs-on-revolving-credit
   📝 Queued: gst-exemption-covers-banks-internal-fund
-  📝 Queued: speeches-media-interactions-reserve-bank
+  📝 Queued: rbi-dismisses-rumors-of-small-denominati
+  📝 Queued: press-releases-official-website-of-reser
   📝 Queued: rbi-amends-operational-risk-capital-fram
-  📝 Queued: 6-coop-banks-penalized-total-fine-rs-52-
   📝 Queued: digital-arrest-supreme-court-says-rbi-ru
   📝 Queued: the-reserve-bank-of-india-know-your-cust
-  📝 Queued: october-2026-global-regulatory-brief-ban
-  📝 Queued: rbi-extends-restrictions-on-irinjalakuda
+  📝 Queued: rbi-framework-for-green-deposits-2023-im
   📝 Queued: new-singahi-guide-rbi-s-2026-rules-bring
-  📝 Queued: sc-says-rbi-rules-must-make-banks-fully-
-  📝 Queued: digital-arrest-scams-in-india-supreme-co
-  📝 Queued: new-rbi-forex-derivative-rules-make-fcnr
-  📝 Queued: pnb-s-banking-control-crisis-outsiders-i
-  📝 Queued: rbi-approves-sankaran-g-as-city-union-ba
-  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
-  📝 Queued: rs-300-cr-lost-in-ai-cyberattacks-on-nbf
-  📝 Queued: rbi-grade-b-mains-and-final-cut-off-2026
-  📝 Queued: securedapp-unveils-securecms-to-help-ind
-  📝 Queued: is-your-bank-ready-for-dpdp-securecms-si
+  📝 Queued: icici-bank-fd-and-rd-interest-rates-for-
+  📝 Queued: fema-rbi-fera-penalty-appeals-maintainab
+  📝 Queued: fema-rbi-enforcement-directorate-cannot-
+  📝 Queued: fema-rbi-mortgage-rights-transfer-to-auc
+  📝 Queued: fema-rbi-cheque-bounce-delhi-hc-rejects-
+  📝 Queued: fema-rbi-drafting-fema-compliant-board-r
   📝 Queued: fema-rbi-rbi-form-fc-under-fema-overseas
   📝 Queued: fema-rbi-supreme-court-clarifies-section
   📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
@@ -80,15 +75,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
   📝 Queued: fema-rbi-rbi-repo-rate-hike-to-5-50-corp
   📝 Queued: fema-rbi-rbi-revises-qccp-exposure-risk-
-  📝 Queued: fema-rbi-rbi-credit-valuation-adjustment
-  📝 Queued: fema-rbi-rbi-amends-aifi-capital-adequac
-  📝 Queued: fema-rbi-rbi-amends-payments-banks-capit
-  📝 Queued: fema-rbi-rbi-revises-qccp-risk-weight-an
-  📝 Queued: fema-rbi-rbi-deletes-option-premium-defe
-  📝 Queued: fema-rbi-rbi-amends-counterparty-credit-
-  📝 Queued: fema-rbi-rbi-raises-bank-rate-to-5-75-re
 
 ============================================================
-Done. 56 new items processed.
+Done. 44 new items processed.
 ============================================================
 
