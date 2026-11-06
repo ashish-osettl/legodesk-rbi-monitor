@@ -1,10 +1,10 @@
 
 ============================================================
-RBI Monitor v2 — 05 Nov 2026 10:11 UTC
+RBI Monitor v2 — 06 Nov 2026 10:15 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 5 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
   ✅ Google News: RBI directions banking regulation 2025 2: 18 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 101
-New lender-relevant items (deduplicated): 44
+Total items fetched: 100
+New lender-relevant items (deduplicated): 48
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,16 +32,22 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: reining-in-banks-debt-collectors-rbi-s-n
-  📝 Queued: rbi-s-proposed-curbs-on-revolving-credit
-  📝 Queued: gst-exemption-covers-banks-internal-fund
+  📝 Queued: rbi-reviews-priority-sector-lending-fram
   📝 Queued: rbi-dismisses-rumors-of-small-denominati
-  📝 Queued: press-releases-official-website-of-reser
-  📝 Queued: rbi-amends-operational-risk-capital-fram
-  📝 Queued: digital-arrest-supreme-court-says-rbi-ru
-  📝 Queued: the-reserve-bank-of-india-know-your-cust
-  📝 Queued: rbi-framework-for-green-deposits-2023-im
-  📝 Queued: new-singahi-guide-rbi-s-2026-rules-bring
+  📝 Queued: rbi-tightens-cybersecurity-regulations-f
+  📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
+  📝 Queued: rbi-extends-regulatory-directions-on-pus
+  📝 Queued: making-outsourcing-work-business-standar
+  📝 Queued: rbi-to-meet-bankers-industry-stakeholder
+  📝 Queued: rbi-tightens-cyber-oversight-of-non-bank
   📝 Queued: icici-bank-fd-and-rd-interest-rates-for-
+  📝 Queued: banking-and-nbfc-stocks-in-samvat-2083-c
+  📝 Queued: rbi-proposes-100-crore-limit-on-bank-loa
+  📝 Queued: rbi-s-cyber-resilience-framework-sets-se
+  📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
+  📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
+  📝 Queued: fema-rbi-former-director-gets-fema-pre-d
+  📝 Queued: fema-rbi-fema-rights-issue-violation-uph
   📝 Queued: fema-rbi-fera-penalty-appeals-maintainab
   📝 Queued: fema-rbi-enforcement-directorate-cannot-
   📝 Queued: fema-rbi-mortgage-rights-transfer-to-auc
@@ -73,10 +79,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-overseas-direct-investment-by-i
   📝 Queued: fema-rbi-fema-export-import-regulations-
   📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
-  📝 Queued: fema-rbi-rbi-repo-rate-hike-to-5-50-corp
-  📝 Queued: fema-rbi-rbi-revises-qccp-exposure-risk-
 
 ============================================================
-Done. 44 new items processed.
+Done. 48 new items processed.
 ============================================================
 
