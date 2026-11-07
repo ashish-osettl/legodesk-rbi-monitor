@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 06 Nov 2026 10:15 UTC
+RBI Monitor v2 — 07 Nov 2026 09:30 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 18 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 27 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 100
-New lender-relevant items (deduplicated): 48
+Total items fetched: 108
+New lender-relevant items (deduplicated): 51
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -33,17 +33,22 @@ Sending notifications...
 Queuing Academy content...
   📝 Queued: reining-in-banks-debt-collectors-rbi-s-n
   📝 Queued: rbi-reviews-priority-sector-lending-fram
-  📝 Queued: rbi-dismisses-rumors-of-small-denominati
   📝 Queued: rbi-tightens-cybersecurity-regulations-f
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: rbi-extends-regulatory-directions-on-pus
+  📝 Queued: rbi-framework-for-green-deposits-2023-im
   📝 Queued: making-outsourcing-work-business-standar
+  📝 Queued: rbi-extends-regulatory-directions-on-pus
+  📝 Queued: gold-loan-rules-2026-what-rbi-changed-on
+  📝 Queued: rbi-meets-bankers-amidst-rising-ai-cyber
+  📝 Queued: rbi-issues-new-cyber-security-rules-for-
   📝 Queued: rbi-to-meet-bankers-industry-stakeholder
   📝 Queued: rbi-tightens-cyber-oversight-of-non-bank
-  📝 Queued: icici-bank-fd-and-rd-interest-rates-for-
-  📝 Queued: banking-and-nbfc-stocks-in-samvat-2083-c
+  📝 Queued: recovery-calls-at-work-what-can-borrower
   📝 Queued: rbi-proposes-100-crore-limit-on-bank-loa
+  📝 Queued: from-loan-distributor-to-lender-mobikwik
+  📝 Queued: rbi-new-cyber-security-rules-2026-what-c
   📝 Queued: rbi-s-cyber-resilience-framework-sets-se
+  📝 Queued: high-court-dismisses-writ-petition-chall
   📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
   📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
   📝 Queued: fema-rbi-former-director-gets-fema-pre-d
@@ -77,10 +82,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
   📝 Queued: fema-rbi-recognising-stress-before-it-sp
   📝 Queued: fema-rbi-overseas-direct-investment-by-i
-  📝 Queued: fema-rbi-fema-export-import-regulations-
-  📝 Queued: fema-rbi-rbi-fema-export-rules-2026-9-mo
 
 ============================================================
-Done. 48 new items processed.
+Done. 51 new items processed.
 ============================================================
 
