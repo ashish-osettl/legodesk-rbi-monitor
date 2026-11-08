@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 07 Nov 2026 09:30 UTC
+RBI Monitor v2 — 08 Nov 2026 09:46 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 27 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 25 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -20,7 +20,7 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 108
+Total items fetched: 106
 New lender-relevant items (deduplicated): 51
 
 Running AI analysis...
@@ -36,19 +36,19 @@ Queuing Academy content...
   📝 Queued: rbi-tightens-cybersecurity-regulations-f
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: rbi-framework-for-green-deposits-2023-im
-  📝 Queued: making-outsourcing-work-business-standar
   📝 Queued: rbi-extends-regulatory-directions-on-pus
   📝 Queued: gold-loan-rules-2026-what-rbi-changed-on
-  📝 Queued: rbi-meets-bankers-amidst-rising-ai-cyber
-  📝 Queued: rbi-issues-new-cyber-security-rules-for-
-  📝 Queued: rbi-to-meet-bankers-industry-stakeholder
   📝 Queued: rbi-tightens-cyber-oversight-of-non-bank
-  📝 Queued: recovery-calls-at-work-what-can-borrower
-  📝 Queued: rbi-proposes-100-crore-limit-on-bank-loa
+  📝 Queued: rbi-issues-new-cyber-security-rules-for-
+  📝 Queued: rbi-meets-bankers-amidst-rising-ai-cyber
+  📝 Queued: at-loan-reset-borrower-picks-emi-or-tenu
   📝 Queued: from-loan-distributor-to-lender-mobikwik
+  📝 Queued: recovery-calls-at-work-what-can-borrower
   📝 Queued: rbi-new-cyber-security-rules-2026-what-c
+  📝 Queued: rbi-proposes-tighter-farm-loan-verificat
   📝 Queued: rbi-s-cyber-resilience-framework-sets-se
   📝 Queued: high-court-dismisses-writ-petition-chall
+  📝 Queued: fema-rbi-rbi-draft-priority-sector-lendi
   📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
   📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
   📝 Queued: fema-rbi-former-director-gets-fema-pre-d
