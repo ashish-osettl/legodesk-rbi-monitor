@@ -1,13 +1,13 @@
 
 ============================================================
-RBI Monitor v2 — 09 Nov 2026 10:46 UTC
+RBI Monitor v2 — 10 Nov 2026 10:40 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 27 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
-  ✅ Google News: RBI Fair Practices Code collections: 0 items
+  ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
 Fetching aggregator RSS feeds...
@@ -36,15 +36,15 @@ Queuing Academy content...
   📝 Queued: rbi-reviews-priority-sector-lending-fram
   📝 Queued: rbi-extends-regulatory-directions-on-pus
   📝 Queued: rbi-tightens-cyber-oversight-of-non-bank
-  📝 Queued: rbi-approves-sankaran-g-as-city-union-ba
   📝 Queued: gold-loan-rules-2026-what-rbi-changed-on
   📝 Queued: at-loan-reset-borrower-picks-emi-or-tenu
+  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
   📝 Queued: rbi-extends-regulatory-directions-on-deh
   📝 Queued: how-meesho-s-lending-business-foray-may-
-  📝 Queued: recovery-calls-at-work-what-can-borrower
+  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
+  📝 Queued: rbi-extends-restrictions-on-sri-guru-rag
   📝 Queued: rbi-new-cyber-security-rules-2026-what-c
   📝 Queued: rbi-proposes-tighter-farm-loan-verificat
-  📝 Queued: rbi-s-cyber-resilience-framework-sets-se
   📝 Queued: high-court-dismisses-writ-petition-chall
   📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
   📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
