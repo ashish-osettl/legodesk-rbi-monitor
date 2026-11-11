@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 10 Nov 2026 10:40 UTC
+RBI Monitor v2 — 11 Nov 2026 10:09 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 1 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 23 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
 
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 105
-New lender-relevant items (deduplicated): 49
+Total items fetched: 103
+New lender-relevant items (deduplicated): 50
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,19 +32,20 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
-  📝 Queued: rbi-framework-for-green-deposits-2023-im
-  📝 Queued: rbi-reviews-priority-sector-lending-fram
+  📝 Queued: rbi-imposes-monetary-penalty-on-three-co
   📝 Queued: rbi-extends-regulatory-directions-on-pus
   📝 Queued: rbi-tightens-cyber-oversight-of-non-bank
   📝 Queued: gold-loan-rules-2026-what-rbi-changed-on
+  📝 Queued: supreme-court-tells-banks-to-pay-victims
   📝 Queued: at-loan-reset-borrower-picks-emi-or-tenu
-  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
-  📝 Queued: rbi-extends-regulatory-directions-on-deh
-  📝 Queued: how-meesho-s-lending-business-foray-may-
+  📝 Queued: punjab-national-bank-fined-1-25-lakh-by-
+  📝 Queued: rbi-reviews-priority-sector-lending-fram
   📝 Queued: penalty-imposed-on-pine-labs-https-www-f
-  📝 Queued: rbi-extends-restrictions-on-sri-guru-rag
+  📝 Queued: rbi-extends-regulatory-directions-on-deh
   📝 Queued: rbi-new-cyber-security-rules-2026-what-c
+  📝 Queued: rbi-announces-extension-in-supersession-
   📝 Queued: rbi-proposes-tighter-farm-loan-verificat
+  📝 Queued: repco-targets-sub-2-gross-npa-after-16-y
   📝 Queued: high-court-dismisses-writ-petition-chall
   📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
   📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
@@ -82,6 +83,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-overseas-direct-investment-by-i
 
 ============================================================
-Done. 49 new items processed.
+Done. 50 new items processed.
 ============================================================
 
