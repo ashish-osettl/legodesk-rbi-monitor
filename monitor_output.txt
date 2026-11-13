@@ -1,11 +1,11 @@
 
 ============================================================
-RBI Monitor v2 — 12 Nov 2026 10:32 UTC
+RBI Monitor v2 — 13 Nov 2026 10:25 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 0 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 25 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 2 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 27 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 0 items
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 107
-New lender-relevant items (deduplicated): 48
+Total items fetched: 111
+New lender-relevant items (deduplicated): 51
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,18 +31,22 @@ Sending notifications...
   ⚠️  Email failed: Connection unexpectedly closed
 
 Queuing Academy content...
+  📝 Queued: gold-loan-rules-2026-what-rbi-changed-on
+  📝 Queued: telangana-high-court-asks-police-to-exam
   📝 Queued: no-bank-account-check-how-much-cash-you-
+  📝 Queued: credit-card-rule-changes-late-2026-4-che
   📝 Queued: punjab-national-bank-fined-1-25-lakh-by-
-  📝 Queued: rbi-imposes-monetary-penalty-on-three-co
-  📝 Queued: rbi-reviews-priority-sector-lending-fram
-  📝 Queued: rbi-announces-extension-in-supersession-
+  📝 Queued: rbi-changes-domestic-money-transfer-rule
+  📝 Queued: new-rbi-gold-loan-rules-2026-what-change
+  📝 Queued: customers-without-bank-accounts-can-send
+  📝 Queued: new-cash-transfer-rules-atm-limits-bank-
   📝 Queued: rbi-reportedly-weighs-limits-on-private-
   📝 Queued: rbi-expands-cash-transfers-for-people-wi
-  📝 Queued: customers-without-bank-accounts-can-send
   📝 Queued: repco-targets-sub-2-gross-npa-after-16-y
   📝 Queued: kashmir-industry-body-questions-rbi-s-re
   📝 Queued: fcik-slams-rbi-regional-office-over-ritu
-  📝 Queued: high-court-dismisses-writ-petition-chall
+  📝 Queued: fema-rbi-iifl-capital-services-currency-
+  📝 Queued: fema-rbi-personal-guarantees-for-uae-com
   📝 Queued: fema-rbi-rbi-domestic-money-transfer-dir
   📝 Queued: fema-rbi-rbi-faqs-on-all-you-wanted-to-k
   📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
@@ -78,9 +82,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-fema-penalty-reduced-by-50-but-
   📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
   📝 Queued: fema-rbi-recognising-stress-before-it-sp
-  📝 Queued: fema-rbi-overseas-direct-investment-by-i
 
 ============================================================
-Done. 48 new items processed.
+Done. 51 new items processed.
 ============================================================
 
