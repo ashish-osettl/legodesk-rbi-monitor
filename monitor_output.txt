@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 15 Nov 2026 10:16 UTC
+RBI Monitor v2 — 16 Nov 2026 10:30 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 25 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 3 items
   ✅ Google News: RBI Fair Practices Code collections: 1 items
   ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
@@ -21,7 +21,7 @@ Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
 Total items fetched: 109
-New lender-relevant items (deduplicated): 52
+New lender-relevant items (deduplicated): 51
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,17 +32,16 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: telangana-high-court-asks-police-to-exam
-  📝 Queued: rbi-imposes-monetary-penalty-on-one-mobi
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
+  📝 Queued: rbi-digital-lending-directions-what-borr
   📝 Queued: no-bank-account-check-how-much-cash-you-
+  📝 Queued: digital-lending-in-india-what-the-rbi-di
+  📝 Queued: rbi-imposes-monetary-penalty-on-one-mobi
   📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
+  📝 Queued: rbi-issues-domestic-money-transfer-direc
   📝 Queued: sending-money-to-family-without-a-bank-a
-  📝 Queued: rbi-changes-domestic-money-transfer-rule
-  📝 Queued: customers-without-bank-accounts-can-send
   📝 Queued: new-cash-transfer-rules-atm-limits-bank-
-  📝 Queued: rbi-expands-cash-transfers-for-people-wi
   📝 Queued: rbi-imposes-rs-9-lakh-penalty-on-mobikwi
-  📝 Queued: repco-targets-sub-2-gross-npa-after-16-y
   📝 Queued: kashmir-industry-body-questions-rbi-s-re
   📝 Queued: fcik-slams-rbi-regional-office-over-ritu
   📝 Queued: rbi-imposes-9-lakh-penalty-on-one-mobikw
@@ -85,6 +84,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
 
 ============================================================
-Done. 52 new items processed.
+Done. 51 new items processed.
 ============================================================
 
