@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 17 Nov 2026 11:24 UTC
+RBI Monitor v2 — 18 Nov 2026 10:58 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 23 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 25 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 104
-New lender-relevant items (deduplicated): 52
+Total items fetched: 107
+New lender-relevant items (deduplicated): 54
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,18 +32,21 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: telangana-high-court-asks-police-to-exam
-  📝 Queued: rbi-digital-lending-directions-what-borr
+  📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: rbi-imposes-monetary-penalty-on-one-mobi
-  📝 Queued: digital-lending-in-india-what-the-rbi-di
+  📝 Queued: over-3-lakh-claims-for-unclaimed-funds-o
   📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
   📝 Queued: rbi-issues-domestic-money-transfer-direc
-  📝 Queued: sending-money-to-family-without-a-bank-a
+  📝 Queued: j-k-bank-seeks-approval-for-new-director
+  📝 Queued: indusind-bank-indusindbk-independent-dir
   📝 Queued: rbi-flags-listing-requirement-in-letter-
   📝 Queued: rbi-tells-tata-sons-to-comply-with-upper
-  📝 Queued: rbi-imposes-rs-9-lakh-penalty-on-mobikwi
+  📝 Queued: rbi-tells-tata-sons-to-comply-with-listi
+  📝 Queued: why-does-rbi-want-tata-sons-to-go-public
   📝 Queued: kashmir-industry-body-questions-rbi-s-re
   📝 Queued: fcik-slams-rbi-regional-office-over-ritu
+  📝 Queued: rbi-s-2017-fraud-compensation-circular-a
   📝 Queued: rbi-imposes-9-lakh-penalty-on-one-mobikw
   📝 Queued: fema-rbi-faqs-on-rbi-as-banker-to-govern
   📝 Queued: fema-rbi-rbi-lrs-remittance-through-auth
@@ -82,9 +85,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-circular-on-uapa-section-51
   📝 Queued: fema-rbi-safema-upholds-benami-attachmen
   📝 Queued: fema-rbi-fema-penalty-reduced-by-50-but-
-  📝 Queued: fema-rbi-fema-compliance-for-dubai-compa
 
 ============================================================
-Done. 52 new items processed.
+Done. 54 new items processed.
 ============================================================
 
