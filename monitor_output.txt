@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 19 Nov 2026 10:59 UTC
+RBI Monitor v2 — 20 Nov 2026 10:49 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 27 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 0 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 1 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -21,7 +21,7 @@ Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
 Total items fetched: 107
-New lender-relevant items (deduplicated): 51
+New lender-relevant items (deduplicated): 52
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,19 +31,20 @@ Sending notifications...
   ⚠️  Email failed: Connection unexpectedly closed
 
 Queuing Academy content...
-  📝 Queued: telangana-high-court-asks-police-to-exam
   📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
   📝 Queued: rbi-imposes-monetary-penalty-on-one-mobi
-  📝 Queued: rbi-issues-domestic-money-transfer-direc
-  📝 Queued: punjab-national-bank-fined-1-24-lakh-by-
+  📝 Queued: rbi-reiterates-listing-requirement-for-t
+  📝 Queued: digital-lending-in-india-what-the-rbi-di
+  📝 Queued: the-battle-for-responsible-microfinance-
   📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
   📝 Queued: rbi-tells-tata-sons-to-comply-with-upper
+  📝 Queued: responsible-microfinance-in-india-rbi-s-
+  📝 Queued: punjab-national-bank-fined-1-24-lakh-by-
+  📝 Queued: bank-of-maharashtra-five-year-tax-saving
   📝 Queued: rbi-flags-listing-requirement-in-letter-
-  📝 Queued: rbi-tells-tata-sons-to-comply-with-listi
-  📝 Queued: why-does-rbi-want-tata-sons-to-go-public
-  📝 Queued: rbi-s-2017-fraud-compensation-circular-a
-  📝 Queued: rbi-imposes-9-lakh-penalty-on-one-mobikw
+  📝 Queued: rbi-snfa-r899-return-nbfc-prudential-nor
+  📝 Queued: district-magistrate-can-re-execute-sarfa
   📝 Queued: fema-rbi-rbi-snfa-r899-return-nbfc-prude
   📝 Queued: fema-rbi-bringing-uae-company-sale-proce
   📝 Queued: fema-rbi-faqs-on-rbi-as-banker-to-govern
@@ -84,6 +85,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-safema-upholds-benami-attachmen
 
 ============================================================
-Done. 51 new items processed.
+Done. 52 new items processed.
 ============================================================
 
