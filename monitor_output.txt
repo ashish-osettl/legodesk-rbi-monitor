@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 20 Nov 2026 10:49 UTC
+RBI Monitor v2 — 21 Nov 2026 10:32 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 1 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 30 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 1 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 107
-New lender-relevant items (deduplicated): 52
+Total items fetched: 114
+New lender-relevant items (deduplicated): 54
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -33,18 +33,20 @@ Sending notifications...
 Queuing Academy content...
   📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: penalty-on-ubi-rs95-lakh-boi-rs58-lakh-c
+  📝 Queued: operational-scaling-in-the-rbi-co-lendin
   📝 Queued: rbi-imposes-monetary-penalty-on-one-mobi
-  📝 Queued: rbi-reiterates-listing-requirement-for-t
   📝 Queued: digital-lending-in-india-what-the-rbi-di
-  📝 Queued: the-battle-for-responsible-microfinance-
-  📝 Queued: penalty-of-rs14-25-lakh-on-nagar-sahkari
-  📝 Queued: rbi-tells-tata-sons-to-comply-with-upper
   📝 Queued: responsible-microfinance-in-india-rbi-s-
-  📝 Queued: punjab-national-bank-fined-1-24-lakh-by-
-  📝 Queued: bank-of-maharashtra-five-year-tax-saving
-  📝 Queued: rbi-flags-listing-requirement-in-letter-
+  📝 Queued: the-battle-for-responsible-microfinance-
+  📝 Queued: digital-arrests-and-wrong-bank-why-liabi
+  📝 Queued: rbi-tells-tata-sons-to-comply-with-upper
+  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
   📝 Queued: rbi-snfa-r899-return-nbfc-prudential-nor
+  📝 Queued: the-quiet-debt-decoding-the-silent-stake
+  📝 Queued: bank-of-maharashtra-five-year-tax-saving
   📝 Queued: district-magistrate-can-re-execute-sarfa
+  📝 Queued: rbi-imposes-penalty-on-fusion-finance-fo
+  📝 Queued: fusion-finance-rbi-penalty-kyc-and-ombud
   📝 Queued: fema-rbi-rbi-snfa-r899-return-nbfc-prude
   📝 Queued: fema-rbi-bringing-uae-company-sale-proce
   📝 Queued: fema-rbi-faqs-on-rbi-as-banker-to-govern
@@ -85,6 +87,6 @@ Queuing Academy content...
   📝 Queued: fema-rbi-safema-upholds-benami-attachmen
 
 ============================================================
-Done. 52 new items processed.
+Done. 54 new items processed.
 ============================================================
 
