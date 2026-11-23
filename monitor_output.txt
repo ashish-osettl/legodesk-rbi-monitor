@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 22 Nov 2026 10:37 UTC
+RBI Monitor v2 — 23 Nov 2026 11:38 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 60 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 5 items
+  ✅ Google News: RBI NBFC directions penalty circular: 4 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 148
-New lender-relevant items (deduplicated): 66
+Total items fetched: 113
+New lender-relevant items (deduplicated): 52
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -31,33 +31,20 @@ Sending notifications...
   ⚠️  Email failed: Connection unexpectedly closed
 
 Queuing Academy content...
-  📝 Queued: rbi-banking-rules-india-2026-compliance-
+  📝 Queued: rbi-sets-out-compliance-priorities-for-b
   📝 Queued: gold-loan-rules-2026-ltv-limits-and-what
   📝 Queued: venture-debt-in-india-2026-a-business-gu
   📝 Queued: rbi-domestic-money-transfer-directions-2
+  📝 Queued: external-commercial-borrowing-in-india-a
   📝 Queued: operational-scaling-in-the-rbi-co-lendin
-  📝 Queued: rbi-reiterates-listing-requirement-for-t
+  📝 Queued: responsible-microfinance-in-india-rbi-s-
   📝 Queued: digital-arrests-and-wrong-bank-why-liabi
-  📝 Queued: rbi-tells-tata-sons-to-comply-with-upper
-  📝 Queued: esaf-small-finance-bank-nclt-sanctions-4
-  📝 Queued: pnb-faces-1-24-lakh-rbi-penalty-shares-r
-  📝 Queued: the-quiet-debt-decoding-the-silent-stake
+  📝 Queued: the-battle-for-responsible-microfinance-
+  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
   📝 Queued: rbi-snfa-r899-return-nbfc-prudential-nor
-  📝 Queued: over-3-lakh-claims-for-unclaimed-funds-o
-  📝 Queued: esaf-financial-holdings-gets-nclt-nod-fo
-  📝 Queued: sbi-clerk-mains-admit-card-2026-out-sbi-
-  📝 Queued: bank-of-maharashtra-five-year-tax-saving
-  📝 Queued: rbi-issues-domestic-money-transfer-direc
-  📝 Queued: city-union-bank-cub-executive-director-a
-  📝 Queued: rbi-imposes-rs-7-50-lakh-penalty-on-fusi
-  📝 Queued: dual-use-bank-while-russia-kills-raiffei
-  📝 Queued: indusind-bank-indusindbk-independent-dir
-  📝 Queued: hdfc-bank-nsei-hdfcbank-stock-forecast-a
-  📝 Queued: rbi-flags-listing-requirement-in-letter-
-  📝 Queued: rbi-tells-tata-sons-to-comply-with-listi
-  📝 Queued: tata-sons-must-follow-all-upper-layer-nb
-  📝 Queued: can-a-cyberattack-make-your-bank-balance
+  📝 Queued: nclt-kochi-approves-esaf-financial-holdi
   📝 Queued: district-magistrate-can-re-execute-sarfa
+  📝 Queued: rbi-banking-rules-india-2026-compliance-
   📝 Queued: rbi-imposes-penalty-on-fusion-finance-fo
   📝 Queued: fema-rbi-rbi-snfa-r899-return-nbfc-prude
   📝 Queued: fema-rbi-bringing-uae-company-sale-proce
@@ -96,9 +83,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-rbi-small-finance-banks-miscell
   📝 Queued: fema-rbi-rbi-commercial-banks-miscellane
   📝 Queued: fema-rbi-rbi-circular-on-uapa-section-51
-  📝 Queued: fema-rbi-safema-upholds-benami-attachmen
 
 ============================================================
-Done. 66 new items processed.
+Done. 52 new items processed.
 ============================================================
 
