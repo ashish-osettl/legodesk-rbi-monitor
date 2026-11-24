@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 23 Nov 2026 11:38 UTC
+RBI Monitor v2 — 24 Nov 2026 13:10 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 26 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 54 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 4 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 113
-New lender-relevant items (deduplicated): 52
+Total items fetched: 140
+New lender-relevant items (deduplicated): 72
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -34,18 +34,42 @@ Queuing Academy content...
   📝 Queued: rbi-sets-out-compliance-priorities-for-b
   📝 Queued: gold-loan-rules-2026-ltv-limits-and-what
   📝 Queued: venture-debt-in-india-2026-a-business-gu
-  📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: external-commercial-borrowing-in-india-a
+  📝 Queued: reserve-bank-of-india-small-finance-bank
+  📝 Queued: rbi-approves-sbi-mutual-fund-to-acquire-
   📝 Queued: operational-scaling-in-the-rbi-co-lendin
-  📝 Queued: responsible-microfinance-in-india-rbi-s-
+  📝 Queued: ecl-psu-banks-may-face-greater-pressure-
+  📝 Queued: rbi-draft-rules-banks-must-offer-a-stop-
   📝 Queued: digital-arrests-and-wrong-bank-why-liabi
-  📝 Queued: the-battle-for-responsible-microfinance-
-  📝 Queued: penalty-imposed-on-pine-labs-https-www-f
+  📝 Queued: rbi-commercial-banks-securitisation-tran
+  📝 Queued: rbi-non-banking-financial-companies-secu
+  📝 Queued: rbi-all-india-financial-institutions-sec
+  📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
+  📝 Queued: rbi-approves-sbi-mf-to-acquire-9-99-stak
+  📝 Queued: esaf-small-finance-bank-nclt-sanctions-4
+  📝 Queued: yes-bank-reappoints-rajat-chhalani-as-ch
   📝 Queued: rbi-snfa-r899-return-nbfc-prudential-nor
   📝 Queued: nclt-kochi-approves-esaf-financial-holdi
+  📝 Queued: esaf-financial-holdings-gets-nclt-nod-fo
+  📝 Queued: the-south-indian-bank-limited-nse-southb
+  📝 Queued: south-indian-bank-nse-southbank-did-rbi-
+  📝 Queued: city-union-bank-cub-executive-director-a
+  📝 Queued: rbi-imposes-rs-7-50-lakh-penalty-on-fusi
+  📝 Queued: bank-of-baroda-nse-bankbaroda-what-does-
+  📝 Queued: bank-of-baroda-nse-bankbaroda-announces-
+  📝 Queued: rbi-notification-no-rbi-2026-27-305-smal
+  📝 Queued: rbi-notification-no-rbi-2026-27-306-nbfc
+  📝 Queued: rbi-notification-no-rbi-2026-27-307-aifi
+  📝 Queued: sbi-mutual-fund-receives-rbi-approval-to
+  📝 Queued: rbi-shifts-cyber-defence-responsibility-
   📝 Queued: district-magistrate-can-re-execute-sarfa
-  📝 Queued: rbi-banking-rules-india-2026-compliance-
-  📝 Queued: rbi-imposes-penalty-on-fusion-finance-fo
+  📝 Queued: sarfaesi-successor-financial-institution
+  📝 Queued: 42-homes-demolished-but-loan-burden-rema
+  📝 Queued: fema-rbi-full-repayment-of-loan-does-not
+  📝 Queued: fema-rbi-rbi-all-india-financial-institu
+  📝 Queued: fema-rbi-rbi-non-banking-financial-compa
+  📝 Queued: fema-rbi-reserve-bank-of-india-small-fin
+  📝 Queued: fema-rbi-rbi-commercial-banks-securitisa
   📝 Queued: fema-rbi-rbi-snfa-r899-return-nbfc-prude
   📝 Queued: fema-rbi-bringing-uae-company-sale-proce
   📝 Queued: fema-rbi-faqs-on-rbi-as-banker-to-govern
@@ -79,12 +103,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-prior-mortgage-and-drt-proceedi
   📝 Queued: fema-rbi-27-common-fema-mistakes-indian-
   📝 Queued: fema-rbi-nbfc-registration-with-rbi-elig
-  📝 Queued: fema-rbi-authorised-forex-dealers-in-ind
-  📝 Queued: fema-rbi-rbi-small-finance-banks-miscell
-  📝 Queued: fema-rbi-rbi-commercial-banks-miscellane
-  📝 Queued: fema-rbi-rbi-circular-on-uapa-section-51
 
 ============================================================
-Done. 52 new items processed.
+Done. 72 new items processed.
 ============================================================
 
