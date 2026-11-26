@@ -1,12 +1,12 @@
 
 ============================================================
-RBI Monitor v2 — 25 Nov 2026 11:59 UTC
+RBI Monitor v2 — 26 Nov 2026 11:46 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 20 items
-  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 18 items
+  ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
   ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 106
-New lender-relevant items (deduplicated): 59
+Total items fetched: 102
+New lender-relevant items (deduplicated): 58
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -36,22 +36,25 @@ Queuing Academy content...
   📝 Queued: manappuram-finance-faces-increased-rbi-r
   📝 Queued: rbi-commercial-banks-securitisation-tran
   📝 Queued: rbi-approves-sbi-mutual-fund-to-acquire-
+  📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
   📝 Queued: south-indian-bank-gets-rbi-nod-for-sbi-m
-  📝 Queued: south-indian-bank-shares-in-focus-after-
   📝 Queued: reserve-bank-of-india-small-finance-bank
   📝 Queued: south-indian-bank-nse-southbank-did-rbi-
-  📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
+  📝 Queued: rbi-draft-directions-2026-propose-digita
   📝 Queued: rbi-non-banking-financial-companies-secu
   📝 Queued: rbi-all-india-financial-institutions-sec
   📝 Queued: rbi-domestic-money-transfer-directions-2
+  📝 Queued: rbi-proposes-stop-switch-and-trusted-per
   📝 Queued: rbi-notification-no-rbi-2026-27-305-smal
+  📝 Queued: rbi-draft-proposes-stop-switch-and-trust
   📝 Queued: south-indian-bank-shares-in-focus-as-rbi
-  📝 Queued: sbi-mutual-fund-receives-rbi-approval-to
-  📝 Queued: rbi-approves-sbi-mutual-fund-s-proposal-
-  📝 Queued: rbi-snfa-r899-return-nbfc-prudential-nor
-  📝 Queued: district-magistrate-can-re-execute-sarfa
+  📝 Queued: rbi-notification-no-rbi-2026-27-309-unsc
   📝 Queued: sarfaesi-successor-financial-institution
   📝 Queued: 42-homes-demolished-but-loan-burden-rema
+  📝 Queued: fema-rbi-rbi-draft-proposes-stop-switch-
+  📝 Queued: fema-rbi-rbi-proposes-stop-switch-and-tr
+  📝 Queued: fema-rbi-rbi-draft-directions-2026-propo
+  📝 Queued: fema-rbi-rbi-proposes-preventive-safegua
   📝 Queued: fema-rbi-pmla-bank-account-defreezing-u-
   📝 Queued: fema-rbi-pursuing-ibc-remedies-despite-b
   📝 Queued: fema-rbi-fema-penalty-reduced-for-lack-o
@@ -86,12 +89,8 @@ Queuing Academy content...
   📝 Queued: fema-rbi-fema-loan-rule-breach-by-educat
   📝 Queued: fema-rbi-delhi-district-reorganisation-r
   📝 Queued: fema-rbi-rti-act-covers-private-cooperat
-  📝 Queued: fema-rbi-operational-risk-capital-rules-
-  📝 Queued: fema-rbi-fema-compounding-for-overseas-i
-  📝 Queued: fema-rbi-rbi-revises-bank-leverage-ratio
-  📝 Queued: fema-rbi-funding-a-uae-company-from-indi
 
 ============================================================
-Done. 59 new items processed.
+Done. 58 new items processed.
 ============================================================
 
