@@ -1,27 +1,27 @@
 
 ============================================================
-RBI Monitor v2 — 26 Nov 2026 11:46 UTC
+RBI Monitor v2 — 27 Nov 2026 11:40 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
   ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 18 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 21 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 2 items
+  ✅ Google News: RBI NBFC directions penalty circular: 3 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
-  ✅ TaxGuru — RBI: 75 items
-  ✅ IBClaw — RBI Circulars: 0 items
+  ⚠️  TaxGuru — RBI: HTTP Error 415: Unsupported Media Type
+  ⚠️  IBClaw — RBI Circulars: HTTP Error 415: Unsupported Media Type
   ✅ Fintech India — Regulatory: 2 items
   ⚠️  Taxmann — NBFC: syntax error: line 1, column 0
 
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 102
-New lender-relevant items (deduplicated): 58
+Total items fetched: 31
+New lender-relevant items (deduplicated): 23
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -36,61 +36,26 @@ Queuing Academy content...
   📝 Queued: manappuram-finance-faces-increased-rbi-r
   📝 Queued: rbi-commercial-banks-securitisation-tran
   📝 Queued: rbi-approves-sbi-mutual-fund-to-acquire-
+  📝 Queued: south-indian-bank-shares-in-focus-after-
   📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
   📝 Queued: south-indian-bank-gets-rbi-nod-for-sbi-m
+  📝 Queued: rbi-clears-sbi-mf-to-acquire-9-99-stake-
   📝 Queued: reserve-bank-of-india-small-finance-bank
-  📝 Queued: south-indian-bank-nse-southbank-did-rbi-
   📝 Queued: rbi-draft-directions-2026-propose-digita
   📝 Queued: rbi-non-banking-financial-companies-secu
-  📝 Queued: rbi-all-india-financial-institutions-sec
   📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: rbi-proposes-stop-switch-and-trusted-per
-  📝 Queued: rbi-notification-no-rbi-2026-27-305-smal
   📝 Queued: rbi-draft-proposes-stop-switch-and-trust
+  📝 Queued: rbi-circular-on-81-unsc-isil-and-al-qaid
+  📝 Queued: south-indian-bank-nse-southbank-did-rbi-
   📝 Queued: south-indian-bank-shares-in-focus-as-rbi
+  📝 Queued: rbi-notification-no-rbi-2026-27-308-unsc
   📝 Queued: rbi-notification-no-rbi-2026-27-309-unsc
-  📝 Queued: sarfaesi-successor-financial-institution
-  📝 Queued: 42-homes-demolished-but-loan-burden-rema
-  📝 Queued: fema-rbi-rbi-draft-proposes-stop-switch-
-  📝 Queued: fema-rbi-rbi-proposes-stop-switch-and-tr
-  📝 Queued: fema-rbi-rbi-draft-directions-2026-propo
-  📝 Queued: fema-rbi-rbi-proposes-preventive-safegua
-  📝 Queued: fema-rbi-pmla-bank-account-defreezing-u-
-  📝 Queued: fema-rbi-pursuing-ibc-remedies-despite-b
-  📝 Queued: fema-rbi-fema-penalty-reduced-for-lack-o
-  📝 Queued: fema-rbi-fema-penalty-cannot-rest-on-imp
-  📝 Queued: fema-rbi-full-repayment-of-loan-does-not
-  📝 Queued: fema-rbi-rbi-all-india-financial-institu
-  📝 Queued: fema-rbi-rbi-non-banking-financial-compa
-  📝 Queued: fema-rbi-reserve-bank-of-india-small-fin
-  📝 Queued: fema-rbi-rbi-commercial-banks-securitisa
-  📝 Queued: fema-rbi-rbi-snfa-r899-return-nbfc-prude
-  📝 Queued: fema-rbi-bringing-uae-company-sale-proce
-  📝 Queued: fema-rbi-faqs-on-rbi-as-banker-to-govern
-  📝 Queued: fema-rbi-rbi-lrs-remittance-through-auth
-  📝 Queued: fema-rbi-iifl-capital-services-currency-
-  📝 Queued: fema-rbi-personal-guarantees-for-uae-com
-  📝 Queued: fema-rbi-rbi-faqs-on-all-you-wanted-to-k
-  📝 Queued: fema-rbi-rbi-domestic-money-transfer-dir
-  📝 Queued: fema-rbi-rbi-issues-2026-cyber-resilienc
-  📝 Queued: fema-rbi-pmla-tribunal-upholds-74-81-lak
-  📝 Queued: fema-rbi-former-director-gets-fema-pre-d
-  📝 Queued: fema-rbi-fema-rights-issue-violation-uph
-  📝 Queued: fema-rbi-rbi-draft-priority-sector-lendi
-  📝 Queued: fema-rbi-fera-penalty-appeals-maintainab
-  📝 Queued: fema-rbi-enforcement-directorate-cannot-
-  📝 Queued: fema-rbi-mortgage-rights-transfer-to-auc
-  📝 Queued: fema-rbi-cheque-bounce-delhi-hc-rejects-
-  📝 Queued: fema-rbi-drafting-fema-compliant-board-r
-  📝 Queued: fema-rbi-rbi-form-fc-under-fema-overseas
-  📝 Queued: fema-rbi-supreme-court-clarifies-section
-  📝 Queued: fema-rbi-nrnr-account-reinvestment-viola
-  📝 Queued: fema-rbi-indian-bank-mortgage-fails-to-d
-  📝 Queued: fema-rbi-fema-loan-rule-breach-by-educat
-  📝 Queued: fema-rbi-delhi-district-reorganisation-r
-  📝 Queued: fema-rbi-rti-act-covers-private-cooperat
+  📝 Queued: bombay-high-court-dismisses-writ-petitio
+  📝 Queued: 42-houses-demolished-but-owners-must-sti
+  📝 Queued: karnataka-high-court-directs-sbi-to-pay-
 
 ============================================================
-Done. 58 new items processed.
+Done. 23 new items processed.
 ============================================================
 
