@@ -1,14 +1,14 @@
 
 ============================================================
-RBI Monitor v2 — 27 Nov 2026 11:40 UTC
+RBI Monitor v2 — 28 Nov 2026 11:15 UTC
 ============================================================
 
 Fetching Google News RSS feeds...
-  ✅ Google News: RBI circular notification lender NBFC ba: 3 items
-  ✅ Google News: RBI directions banking regulation 2025 2: 21 items
+  ✅ Google News: RBI circular notification lender NBFC ba: 4 items
+  ✅ Google News: RBI directions banking regulation 2025 2: 50 items
   ✅ Google News: Reserve Bank India NPA recovery SARFAESI: 2 items
   ✅ Google News: RBI Fair Practices Code collections: 0 items
-  ✅ Google News: RBI NBFC directions penalty circular: 3 items
+  ✅ Google News: RBI NBFC directions penalty circular: 2 items
 
 Fetching aggregator RSS feeds...
   ⚠️  Taxmann — RBI Updates: syntax error: line 1, column 0
@@ -20,8 +20,8 @@ Fetching aggregator RSS feeds...
 Running Claude web search for RBI updates...
   ⚠️  Claude web search: HTTP Error 400: Bad Request
 
-Total items fetched: 31
-New lender-relevant items (deduplicated): 23
+Total items fetched: 60
+New lender-relevant items (deduplicated): 38
 
 Running AI analysis...
   ⚠️  AI analysis failed: HTTP Error 400: Bad Request
@@ -32,30 +32,45 @@ Sending notifications...
 
 Queuing Academy content...
   📝 Queued: rbi-sets-out-compliance-priorities-for-b
+  📝 Queued: how-rbi-guidelines-shape-personal-loan-l
   📝 Queued: venture-debt-in-india-2026-a-business-gu
   📝 Queued: manappuram-finance-faces-increased-rbi-r
-  📝 Queued: rbi-commercial-banks-securitisation-tran
+  📝 Queued: press-releases-reserve-bank-of-india
   📝 Queued: rbi-approves-sbi-mutual-fund-to-acquire-
-  📝 Queued: south-indian-bank-shares-in-focus-after-
-  📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
-  📝 Queued: south-indian-bank-gets-rbi-nod-for-sbi-m
-  📝 Queued: rbi-clears-sbi-mf-to-acquire-9-99-stake-
   📝 Queued: reserve-bank-of-india-small-finance-bank
+  📝 Queued: south-indian-bank-shares-in-focus-after-
+  📝 Queued: rbi-card-payment-directions-2026-replace
+  📝 Queued: nbfc-recovery-practices-nasscom-raises-c
+  📝 Queued: rbi-draft-rules-banks-must-offer-a-stop-
   📝 Queued: rbi-draft-directions-2026-propose-digita
+  📝 Queued: rbi-digital-payments-card-based-transact
   📝 Queued: rbi-non-banking-financial-companies-secu
+  📝 Queued: rbi-all-india-financial-institutions-sec
   📝 Queued: rbi-domestic-money-transfer-directions-2
   📝 Queued: rbi-proposes-stop-switch-and-trusted-per
   📝 Queued: rbi-draft-proposes-stop-switch-and-trust
+  📝 Queued: rbi-clears-sbi-mf-to-acquire-9-99-stake-
+  📝 Queued: rbi-issues-atm-and-pos-cash-withdrawal-d
+  📝 Queued: rbi-issues-white-label-atm-operators-dir
+  📝 Queued: rbi-issues-new-rules-for-banks-to-freeze
   📝 Queued: rbi-circular-on-81-unsc-isil-and-al-qaid
-  📝 Queued: south-indian-bank-nse-southbank-did-rbi-
+  📝 Queued: rbi-orders-banks-to-alert-customers-befo
+  📝 Queued: rbi-proposes-preventive-safeguards-for-e
+  📝 Queued: rbi-issues-consolidated-directions-for-w
+  📝 Queued: rbi-tightens-nbfc-securitisation-norms-d
+  📝 Queued: rbi-mandates-dematerialisation-and-minim
+  📝 Queued: hdfc-bank-class-action-deadline-today-fi
+  📝 Queued: rbi-circular-on-unsc-isil-and-al-qaida-s
+  📝 Queued: rbi-notification-no-rbi-2026-27-305-smal
   📝 Queued: south-indian-bank-shares-in-focus-as-rbi
   📝 Queued: rbi-notification-no-rbi-2026-27-308-unsc
   📝 Queued: rbi-notification-no-rbi-2026-27-309-unsc
+  📝 Queued: rbi-approves-sbi-mf-to-acquire-up-to-9-9
   📝 Queued: bombay-high-court-dismisses-writ-petitio
   📝 Queued: 42-houses-demolished-but-owners-must-sti
   📝 Queued: karnataka-high-court-directs-sbi-to-pay-
 
 ============================================================
-Done. 23 new items processed.
+Done. 38 new items processed.
 ============================================================
 
